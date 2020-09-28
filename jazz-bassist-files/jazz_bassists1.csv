@@ -1,0 +1,444 @@
+artist,instrument,birthdate,deathdate,alive,bday_dt,dday_dt,age_yrs
+Ahmed Abdul-Malik,Double bass,1927-01-30,1993-10-02,False,1927-01-30,1993-10-02,66.0
+Placide Adams,Upright bass,1929,2003,False,1929-01-01,2003-01-01,74.0
+Samuel Adams,Upright bass,1985-12-30,NaN,True,1985-12-30,,34.0
+Osama Afifi,Bass,NaN,NaN,NaN,,,NaN
+Moses Allen,Upright bass,1907,1983,False,1907-01-01,1983-01-01,76.0
+Vernon Alley,Upright bass,1915,2004,False,1915-01-01,2004-01-01,89.0
+Ben Allison,Double bass,1966-11-17,NaN,True,1966-11-17,,53.0
+Bjørn Alterhaug,Upright bass,1945-06-03,NaN,True,1945-06-03,,75.0
+Hayes Alvis,Upright bass,1907-05-01,1972-12-29,False,1907-05-01,1972-12-29,65.0
+Andreas Amundsen,Upright bass,1980-12-28,NaN,True,1980-12-28,,39.0
+Erik Amundsen,Upright bass,1937-02-01,2015-02-22,False,1937-02-01,2015-02-22,78.0
+Arild Andersen,Upright bass,1945-10-27,NaN,True,1945-10-27,,74.0
+Thomas Winther Andersen,Double bass,1969-04-29,NaN,True,1969-04-29,,51.0
+Reid Anderson,Double bass,1970-10-15,NaN,True,1970-10-15,,49.0
+Bjørnar Andresen,Double bass,1945-04-01,2004-10-02,False,1945-04-01,2004-10-02,59.0
+Roger Arntzen,Upright bass,1976-06-03,NaN,True,1976-06-03,,44.0
+Jim Aton,Double bass,1925,2008,False,1925-01-01,2008-01-01,82.0
+Edvard Askeland,Upright bass,1954-12-10,NaN,True,1954-12-10,,65.0
+Tine Asmundsen,Upright bass,1963-04-08,NaN,True,1963-04-08,,57.0
+Harry Babasin,Upright bass,1921,1988,False,1921-01-01,1988-01-01,66.0
+Roy Babbington,Upright bass,1940,NaN,True,1940-01-01,,80.0
+Don Bagley,Double bass,1927-07-18,2012-07-26,False,1927-07-18,2012-07-26,85.0
+Steve Bailey,Bass guitar,1960-02-10,NaN,True,1960-02-10,,60.0
+Victor Bailey,Bass,1960-03-27,2016-11-11,False,1960-03-27,2016-11-11,56.0
+Fred Thelonious Baker,Upright bass,1960,NaN,True,1960-01-01,,60.0
+Tom Barney,Bass,NaN,NaN,NaN,,,NaN
+Phil Bates,Upright bass,1931,NaN,True,1931-01-01,,89.0
+Carles Benavent,Bass guitar,1954-03-01,NaN,True,1954-03-01,,66.0
+Joe Benjamin,Upright bass,1919,1974,False,1919-01-01,1974-01-01,55.0
+Max Bennett,Bass guitar,1928-05-24,2018-09-14,False,1928-05-24,2018-09-14,90.0
+Frode Berg,Double bass,1971-10-24,NaN,True,1971-10-24,,48.0
+Chuck Berghofer,Double bass,1937-06-14,NaN,True,1937-06-14,,83.0
+Dan Berglund,Upright bass,1963-05-05,NaN,True,1963-05-05,,57.0
+Jeff Berlin,Bass guitar,1953-01-17,NaN,True,1953-01-17,,67.0
+Artie Bernstein,Double bass,1909-02-04,1964-01-04,False,1909-02-04,1964-01-04,54.0
+Keter Betts,Bass,1928-07-22,2005-08-06,False,1928-07-22,2005-08-06,77.0
+Carlos Bica,Double bass,1958,NaN,True,1958-01-01,,62.0
+Charlie Biddle,Double bass,1926-07-28,2003-02-05,False,1926-07-28,2003-02-05,76.0
+Alex Blake,Double bass,1951-12-21,NaN,True,1951-12-21,,68.0
+Jimmy Blanton,Double bass,1918-10-05,1942,False,1918-10-05,1942-01-01,23.0
+Svein Olav Blindheim,Double bass,1954-07-25,NaN,True,1954-07-25,,66.0
+Jesper Bodilsen,Upright bass,1970-01-05,NaN,True,1970-01-05,,50.0
+Richard Bona,Bass guitar,1967-10-28,NaN,True,1967-10-28,,52.0
+Jimmy Bond,Double bass,1933-01-27,2012-04-26,False,1933-01-27,2012-04-26,79.0
+Walter Booker,Double bass,1933-12-17,2006-11-24,False,1933-12-17,2006-11-24,72.0
+"Arthur ""Juinie"" Booth",Upright bass,1948,NaN,True,1948-01-01,,72.0
+Nelson Boyd,Upright bass,1928,1985,False,1928-01-01,1985-01-01,57.0
+Ronnie Boykins,Double bass,1935-12-17,1980-04-20,False,1935-12-17,1980-04-20,44.0
+Wellman Braud,Double bass,1891-01-25,1966-10-29,False,1891-01-25,1966-10-29,75.0
+Ellen Brekken,Double bass,1985-06-20,NaN,True,1985-06-20,,35.0
+Brian Bromberg,Double bass,1960-12-05,NaN,True,1960-12-05,,59.0
+Harvey Brooks,Bass guitar,1944-07-04,NaN,True,1944-07-04,,76.0
+Baron Browne,Upright bass,NaN,NaN,NaN,,,NaN
+Cameron Brown,Double bass,1945-12-21,NaN,True,1945-12-21,,74.0
+Paul H. Brown,Upright bass,1934,2016,False,1934-01-01,2016-01-01,82.0
+Ray Brown,Double bass,1926-10-13,2002-07-02,False,1926-10-13,2002-07-02,75.0
+Steve Brown,String bass,1890-01-13,1965-09-15,False,1890-01-13,1965-09-15,75.0
+Bunny Brunel,Bass guitar,1950-03-02,NaN,True,1950-03-02,,70.0
+Monty Budwig,Double bass,1926-12-26,1992-03-09,False,1926-12-26,1992-03-09,65.0
+Tony Bunn,Bass,1957-11-18,NaN,True,1957-11-18,,62.0
+Oteil Burbridge,Bass guitar,1964,NaN,True,1964-01-01,,56.0
+Dwayne Burno,Double bass,1970-06-10,2013-12-28,False,1970-06-10,2013-12-28,43.0
+Lennie Bush,Double bass,1927-06-06,2004-06-15,False,1927-06-06,2004-06-15,77.0
+Eddie Calhoun,Upright bass,1921,1993,False,1921-01-01,1993-01-01,72.0
+Red Callender,Double bass,1916-03-06,1992-03-08,False,1916-03-06,1992-03-08,76.0
+James Cammack,Double bass,1956-04-15,NaN,True,1956-04-15,,64.0
+Alain Caron,Bass guitar,1955-05-05,NaN,True,1955-05-05,,65.0
+Dave Carpenter,Bass guitar,1959,2008,False,1959-01-01,2008-01-01,49.0
+Ron Carter,Double bass,1937-05-04,NaN,True,1937-05-04,,83.0
+Edo Castro,Upright bass,1957,NaN,True,1957-01-01,,63.0
+Malcolm Cecil,Upright bass,1937,NaN,True,1937-01-01,,83.0
+Clive Chaman,Bass guitar,1949-09-05,NaN,True,1949-09-05,,71.0
+Paul Chambers,Double bass,1935-04-22,1969-01-04,False,1935-04-22,1969-01-04,33.0
+Stanley Clarke,Double bass,1951-06-30,NaN,True,1951-06-30,,69.0
+John Clayton,Double bass,1952-08-20,NaN,True,1952-08-20,,68.0
+Jeff Clyne,Upright bass,1937,2009,False,1937-01-01,2009-01-01,72.0
+Avishai Cohen,Bass,1970-04-20,NaN,True,1970-04-20,,50.0
+Greg Cohen,Bass guitar,1953-07-13,NaN,True,1953-07-13,,67.0
+Ira Coleman,Double bass,1956,NaN,True,1956-01-01,,64.0
+Scott Colley,Double bass,1963-11-24,NaN,True,1963-11-24,,56.0
+Graham Collier,Double bass,1937-02-21,2011-09-09,False,1937-02-21,2011-09-09,74.0
+Joe Comfort,Upright bass,1917,1988,False,1917-01-01,1988-01-01,70.0
+Todd Coolman,Upright bass,1954,NaN,True,1954-01-01,,66.0
+Curtis Counce,Double bass,1926-01-23,1963-07-31,False,1926-01-23,1963-07-31,37.0
+Anthony Cox,Upright bass,1954,NaN,True,1954-01-01,,66.0
+Bob Cranshaw,Double bass,1932-12-03,2016-11-02,False,1932-12-03,2016-11-02,83.0
+Gary Crosby,Double bass,1955-01-26,NaN,True,1955-01-26,,65.0
+Israel Crosby,Double bass,1919,1962,False,1919-01-01,1962-01-01,43.0
+Bill Crow,Bass,1927-12-27,NaN,True,1927-12-27,,92.0
+Lars Danielsson,Double bass,1958-09-05,NaN,True,1958-09-05,,62.0
+Palle Danielsson,Double bass,1946-10-15,NaN,True,1946-10-15,,73.0
+Alec Dankworth,Double bass,1960-05-14,NaN,True,1960-05-14,,60.0
+Art Davis,Double bass,1934-12-05,2007-07-29,False,1934-12-05,2007-07-29,72.0
+Kenny Davis,Upright bass,1961-09-04,NaN,True,1961-09-04,,59.0
+Richard Davis,Double bass,1930-04-15,NaN,True,1930-04-15,,90.0
+Chuck Deardorf,Upright bass,1954,NaN,True,1954-01-01,,66.0
+Spanky DeBrest,Upright bass,1937,1973,False,1937-01-01,1973-01-01,36.0
+Santi Debriano,Upright bass,1955,NaN,True,1955-01-01,,65.0
+Riccardo Del Fra,Upright bass,1956,NaN,True,1956-01-01,,64.0
+Fredrik Luhr Dietrichson,Upright bass,1988-02-05,NaN,True,1988-02-05,,32.0
+Brandi Disterheft,bass,1980,NaN,True,1980-01-01,,40.0
+Dominique Di Piazza,Upright bass,1959,NaN,True,1959-01-01,,61.0
+Wayne Dockery,Upright bass,1941,2018,False,1941-01-01,2018-01-01,77.0
+Chuck Domanico,Double bass,1944-01-20,2002-10-17,False,1944-01-20,2002-10-17,58.0
+Leon Lee Dorsey,Upright bass,1958,NaN,True,1958-01-01,,62.0
+Mark Dresser,Double bass,1952-09-26,NaN,True,1952-09-26,,68.0
+Kermit Driscoll,Upright bass,1956,NaN,True,1956-01-01,,64.0
+Ray Drummond,Upright bass,1946,NaN,True,1946-01-01,,74.0
+Sébastien Dubé,Upright bass,1966-09-03,NaN,True,1966-09-03,,54.0
+Trevor Dunn,Bass guitar,1968-01-30,NaN,True,1968-01-30,,52.0
+Dominic Duval,Upright bass,1944,2016,False,1944-01-01,2016-01-01,72.0
+George Duvivier,Double bass,1920-08-17,1985-07-11,False,1920-08-17,1985-07-11,64.0
+Mbizo Johnny Dyani,Double bass,1945-11-30,1986-10-24,False,1945-11-30,1986-10-24,40.0
+Nathan East,Vocals,1955-12-08,NaN,True,1955-12-08,,64.0
+Kyle Eastwood,Double bass,1968-05-19,NaN,True,1968-05-19,,52.0
+Jimmy Earl,Bass guitar,1957,NaN,True,1957-01-01,,63.0
+Cleveland Eaton,Double bass,1939-08-31,2020-07-05,False,1939-08-31,2020-07-05,80.0
+Kai Eckhardt,Bass guitar,1961-06-15,NaN,True,1961-06-15,,59.0
+Mark Egan,Bass guitar,1951-01-14,NaN,True,1951-01-14,,69.0
+Johannes Eick,Upright bass,1964-04-22,NaN,True,1964-04-22,,56.0
+Mats Eilertsen,Double bass,1975-03-04,NaN,True,1975-03-04,,45.0
+Audun Ellingsen,Upright bass,1979-01-04,NaN,True,1979-01-04,,41.0
+Audun Erlien,Bass guitar,1967-02-22,NaN,True,1967-02-22,,53.0
+Oytun Ersan,Bass guitar,1978-06-22,NaN,True,1978-06-22,,42.0
+Julian Euell,Upright bass,1929,2019,False,1929-01-01,2019-01-01,90.0
+Charles Fambrough,Upright bass,1950,2011,False,1950-01-01,2011-01-01,61.0
+Addison Farmer,Upright bass,1928,1963,False,1928-01-01,1963-01-01,35.0
+Malachi Favors,Double bass,1927-08-22,2004-01-30,False,1927-08-22,2004-01-30,76.0
+Hadrien Feraud,Upright bass,1984-08-16,NaN,True,1984-08-16,,36.0
+Ric Fierabracci,Bass guitar,NaN,NaN,NaN,,,NaN
+Brent Fischer,Bass guitar,1964-07-13,NaN,True,1964-07-13,,56.0
+Arnold Fishkind,Upright bass,1919-07-20,1999-09-06,False,1919-07-20,1999-09-06,80.0
+Trygve Waldemar Fiske,Upright bass,1987-02-15,NaN,True,1987-02-15,,33.0
+Ingebrigt Håker Flaten,Upright bass,1971-09-23,NaN,True,1971-09-23,,49.0
+Joe Fonda,Upright bass,1954,NaN,True,1954-01-01,,66.0
+Svein Folkvord,Bass guitar,1967-05-18,NaN,True,1967-05-18,,53.0
+Signe Førre,Vocals,1994-05-03,NaN,True,1994-05-03,,26.0
+Mo Foster,Upright bass,1944,NaN,True,1944-01-01,,76.0
+Herbie Flowers,Electric bass,1938-05-19,NaN,True,1938-05-19,,82.0
+Pops Foster,String bass,1892-05-19,1969-10-29,False,1892-05-19,1969-10-29,77.0
+Henry Franklin,Double bass,1940-10-01,NaN,True,1940-10-01,,79.0
+David Friesen,Double bass,1942-05-06,NaN,True,1942-05-06,,78.0
+Larry Gales,Upright bass,1936,1995,False,1936-01-01,1995-01-01,59.0
+Eddie Gómez,Double bass,1944-10-04,NaN,True,1944-10-04,,75.0
+Renaud Garcia-Fons,Upright bass,1962-12-24,NaN,True,1962-12-24,,57.0
+Juan Garcia-Herreros,Electric contrabass guitar,1977-07-01,NaN,True,1977-07-01,,43.0
+Ed Garland,string bass,1895-01-09,1980-01-22,False,1895-01-09,1980-01-22,85.0
+Kåre Garnes,Upright bass,1954-11-08,NaN,True,1954-11-08,,65.0
+Jimmy Garrison,Double bass,1934-03-03,1976-04-07,False,1934-03-03,1976-04-07,42.0
+Matthew Garrison,Bass guitar,1970-06-02,NaN,True,1970-06-02,,50.0
+Vivien Garry,Double bass,2008,NaN,True,2008-01-01,,12.0
+Leonard Gaskin,Bass,1920-08-25,2009-01-24,False,1920-08-25,2009-01-24,88.0
+Victor Gaskin,Upright bass,1934,2012,False,1934-01-01,2012-01-01,78.0
+John Geggie,Double bass,NaN,NaN,NaN,,,NaN
+Terje Gewelt,Upright bass,1960-06-08,NaN,True,1960-06-08,,60.0
+Eddie Gibbs,Upright bass,1908,1994,False,1908-01-01,1994-01-01,86.0
+John Giblin,Upright bass,1952,NaN,True,1952-01-01,,68.0
+Steve Gilmore,Upright bass,1961,NaN,True,1961-01-01,,59.0
+Ole Amund Gjersvik,Upright bass,1963-12-10,NaN,True,1963-12-10,,56.0
+Lincoln Goines,Double bass,1953,NaN,True,1953-01-01,,67.0
+Doc Goldberg,Upright bass,NaN,NaN,NaN,,,NaN
+Coleridge Goode,Double bass,1914-11-29,2015-10-02,False,1914-11-29,2015-10-02,100.0
+Calum Gourlay,Upright bass,1986,NaN,True,1986-01-01,,34.0
+Sebastian Gramss,Double bass,1966-07-13,NaN,True,1966-07-13,,54.0
+Dave Green,Double bass,1942-03-05,NaN,True,1942-03-05,,78.0
+Larry Grenadier,Double bass,1966-02-06,NaN,True,1966-02-06,,54.0
+Tony Grey,Electric bass guitar,1975-03-25,NaN,True,1975-03-25,,45.0
+Henry Grimes,Double bass,1935-11-03,2020-04-15,False,1935-11-03,2020-04-15,84.0
+Duke Groner,Upright bass,1908,1992,False,1908-01-01,1992-01-01,84.0
+Finn Guttormsen,Bass Guitar,1968-07-16,NaN,True,1968-07-16,,52.0
+Ketil Gutvik,Guitar,1972-07-04,NaN,True,1972-07-04,,48.0
+Barry Guy,Double bass,1947-04-22,NaN,True,1947-04-22,,73.0
+Janek Gwizdala,Bass guitar,1978-11-19,NaN,True,1978-11-19,,41.0
+Charlie Haden,Double bass,1937-08-06,2014-07-11,False,1937-08-06,2014-07-11,76.0
+Bob Haggart,Double bass,1914-03-13,1998-12-02,False,1914-03-13,1998-12-02,84.0
+Al Hall,Double bass,1915-03-18,1988-01-18,False,1915-03-18,1988-01-18,72.0
+Stuart Hamm,Bass guitar,1960-02-08,NaN,True,1960-02-08,,60.0
+Aslak Hartberg,Double bass,1975-05-01,NaN,True,1975-05-01,,45.0
+Jimmy Haslip,Bass guitar,1951-12-31,NaN,True,1951-12-31,,68.0
+Michel Hatzigeorgiou,Upright bass,1961,NaN,True,1961-01-01,,59.0
+Tim Hauff,Upright bass,1952,NaN,True,1952-01-01,,68.0
+Daryl Hayott,Upright bass,NaN,NaN,NaN,,,NaN
+Nick Haywood,Double bass,NaN,NaN,NaN,,,NaN
+Percy Heath,Double bass,1923-04-30,2005-04-28,False,1923-04-30,2005-04-28,81.0
+Spike Heatley,Double bass,1933-02-17,NaN,True,1933-02-17,,87.0
+Mark Helias,Double bass,1950-10-01,NaN,True,1950-10-01,,69.0
+Jonas Hellborg,Bass,1958-06-07,NaN,True,1958-06-07,,62.0
+Michael Henderson,Vocals,1951-07-07,NaN,True,1951-07-07,,69.0
+Shifty Henry,Upright bass,1921,1958,False,1921-01-01,1958-01-01,37.0
+Svante Henryson,Cello,1963-10-22,NaN,True,1963-10-22,,56.0
+Milt Hinton,Double bass,1910-06-23,2000-12-19,False,1910-06-23,2000-12-19,90.0
+Derrick Hodge,Bass guitar,1979-07-05,NaN,True,1979-07-05,,41.0
+Colin Hodgkinson,Bass Guitar,1945-10-14,NaN,True,1945-10-14,,74.0
+Sigurd Hole,Upright bass,1981-07-13,NaN,True,1981-07-13,,39.0
+Dave Holland,Double bass,1946-10-01,NaN,True,1946-10-01,,73.0
+Major Holley,Upright bass,1924,1990,False,1924-01-01,1990-01-01,66.0
+Scotty Holt,Upright bass,NaN,NaN,NaN,,,NaN
+Fred Hopkins,Upright bass,1947,1999,False,1947-01-01,1999-01-01,52.0
+Jim Hughart,Bass,1936-07-28,NaN,True,1936-07-28,,84.0
+Spike Hughes,Upright bass,1908,1987,False,1908-01-01,1987-01-01,79.0
+Stig Hvalryg,Upright bass,1960-07-15,NaN,True,1960-07-15,,60.0
+Dieter Ilg,Upright bass,1961,NaN,True,1961-01-01,,59.0
+Peter Ind,Double bass,1928-07-20,NaN,True,1928-07-20,,92.0
+Dennis Irwin,Upright bass,1951,2008,False,1951-01-01,2008-01-01,57.0
+Itzam Cano,Upright bass,NaN,NaN,NaN,,,NaN
+Jeff Irwin,Piano,1977-09-12,NaN,True,1977-09-12,,43.0
+Chuck Israels,Double bass,1936-08-10,NaN,True,1936-08-10,,84.0
+Carl Morten Iversen,Upright bass,1948-05-01,NaN,True,1948-05-01,,72.0
+David Izenzon,Double bass,1932,1979-10-08,False,1932-01-01,1979-10-08,47.0
+Ali Jackson,Upright bass,1987,NaN,True,1987-01-01,,33.0
+Alvin Jackson,Upright bass,NaN,NaN,NaN,,,NaN
+Anthony Jackson,Bass guitar,1952-06-23,NaN,True,1952-06-23,,68.0
+Chubby Jackson,Upright bass,1918,2003,False,1918-01-01,2003-01-01,85.0
+Paul Jackson,Bass guitar,1947-03-28,NaN,True,1947-03-28,,73.0
+Kristian B. Jacobsen,Upright bass,1992,NaN,True,1992-01-01,,28.0
+Michael Janisch,Double bass,1979-02-02,NaN,True,1979-02-02,,41.0
+Neil Jason,Vocals,NaN,NaN,NaN,,,NaN
+Harald Johnsen,Upright bass,1970-03-19,2011-07-24,False,1970-03-19,2011-07-24,41.0
+Alphonso Johnson,Bass guitar,1951-02-02,NaN,True,1951-02-02,,69.0
+Bill Johnson,Double bass,1872,1972,False,1872-01-01,1972-01-01,99.0
+Gordon Johnson,Double bass,1952,NaN,True,1952-01-01,,68.0
+Louis Johnson,Vocals,1955-04-13,2015-05-21,False,1955-04-13,2015-05-21,60.0
+Marc Johnson,Double bass,1953-10-21,NaN,True,1953-10-21,,66.0
+Darryl Jones,Bass guitar,1961-12-11,NaN,True,1961-12-11,,58.0
+Isham Jones,Piano,1894-01-31,1956-10-19,False,1894-01-31,1956-10-19,62.0
+Percy Jones,Bass guitar,1947-12-03,NaN,True,1947-12-03,,72.0
+Sam Jones,Double bass,1924-11-12,1981-12-15,False,1924-11-12,1981-12-15,57.0
+Anders Jormin,Double bass,1957-09-07,NaN,True,1957-09-07,,63.0
+Hans Otto Jung,Upright bass,1920,2009,False,1920-01-01,2009-01-01,89.0
+Olaf Kamfjord,Double bass,1962-12-08,NaN,True,1962-12-08,,57.0
+Konrad Kaspersen,Upright bass,1948-03-01,NaN,True,1948-03-01,,72.0
+Red Kelly,Upright bass,1927,2019,False,1927-01-01,2019-01-01,92.0
+Tom Kennedy,Bass,1960-08-21,NaN,True,1960-08-21,,60.0
+James King,Upright bass,1942,2012,False,1942-01-01,2012-01-01,70.0
+Gary King,Upright bass,1947-09-04,2003-07-22,False,1947-09-04,2003-07-22,55.0
+Mark King,Vocals,1958-10-20,NaN,True,1958-10-20,,61.0
+John Kirby,Double bass,1908-12-31,1952-06-14,False,1908-12-31,1952-06-14,43.0
+Andy Kirk,Saxophone,1898-05-28,1992-12-11,False,1898-05-28,1992-12-11,94.0
+Bjørn Kjellemyr,Double bass,1950-12-04,NaN,True,1950-12-04,,69.0
+Larry Klein,bass,1956,NaN,True,1956-01-01,,64.0
+Rob Kohler,bass,1963,NaN,True,1963-01-01,,57.0
+Kristin Korb,Double bass,NaN,NaN,NaN,,,NaN
+Teddy Kotick,Upright bass,1928,1986,False,1928-01-01,1986-01-01,58.0
+Peter Kowald,Double bass,1944-04-21,2002-09-21,False,1944-04-21,2002-09-21,58.0
+Ashley Kozak,Upright bass,c.19,0–20,False,,,nan
+Abraham Laboriel,Bass guitar,1947-07-17,NaN,True,1947-07-17,,73.0
+Scott LaFaro,Double bass,1936-04-03,1961-07-06,False,1936-04-03,1961-07-06,25.0
+Tim Landers,Bass guitar,1956-11-01,NaN,True,1956-11-01,,63.0
+Rick Laird,Upright bass,1941,NaN,True,1941-01-01,,79.0
+Jim Lanigan,Upright bass,1902,1983,False,1902-01-01,1983-01-01,81.0
+Dominic Lash,Upright bass,1980,NaN,True,1980-01-01,,40.0
+Chris Laurence,Double bass,1949-01-06,NaN,True,1949-01-06,,71.0
+James Leary,Upright bass,1946,NaN,True,1946-01-01,,74.0
+Ray Leatherwood,Upright bass,1914,1996,False,1914-01-01,1996-01-01,82.0
+Jay Leonhart,Double bass,1940-12-06,NaN,True,1940-12-06,,79.0
+Jennifer Jane Leitham,Upright bass,1953,NaN,True,1953-01-01,,67.0
+Jack Lesberg,Double bass,1920-02-14,2005-09-17,False,1920-02-14,2005-09-17,85.0
+Herbie Lewis,Upright bass,1941,2007,False,1941-01-01,2007-01-01,65.0
+Julius Lind,Double bass,1977-09-13,NaN,True,1977-09-13,,43.0
+Wilbur Little,Double bass,1928,1987,False,1928-01-01,1987-01-01,59.0
+Joe Long,Vocals,1941,NaN,True,1941-01-01,,79.0
+"Israel ""Cachao"" López",Double bass,1918-09-14,2008-03-22,False,1918-09-14,2008-03-22,89.0
+"Orlando ""Cachaíto"" López",Double bass,1933,2009-02-09,False,1933-01-01,2009-02-09,76.0
+Al Lucas,Upright bass,1912,1983,False,1912-01-01,1983-01-01,71.0
+Curtis Lundy,Double bass,1955-10-01,NaN,True,1955-10-01,,64.0
+Brian Lawrence,Upright bass,1976,NaN,True,1976-01-01,,44.0
+Bob Magnusson,Upright bass,1947,NaN,True,1947-01-01,,73.0
+Michael Manring,Bass guitar,1960-06-27,NaN,True,1960-06-27,,60.0
+Wendell Marshall,Upright bass,1920,2002,False,1920-01-01,2002-01-01,82.0
+Ron Mathewson,Double bass,1944-02-19,NaN,True,1944-02-19,,76.0
+Per Mathisen,Upright bass,1969-10-07,NaN,True,1969-10-07,,50.0
+Cecil McBee,Double bass,1935-05-19,NaN,True,1935-05-19,,85.0
+Christian McBride,Double bass,1972-05-31,NaN,True,1972-05-31,,48.0
+Ron McClure,Bass,1941-11-22,NaN,True,1941-11-22,,78.0
+Andy McKee,Upright bass,1953,NaN,True,1953-01-01,,67.0
+Al McKibbon,Double bass,1919,2005,False,1919-01-01,2005-01-01,86.0
+Sondre Meisfjord,Upright bass,1975-03-18,NaN,True,1975-03-18,,45.0
+Chucho Merchán,Double bass,1952-12-24,NaN,True,1952-12-24,,67.0
+Jymie Merritt,Double bass,1926-05-03,2020-04-10,False,1926-05-03,2020-04-10,93.0
+Björn Meyer,Electric Bass guitar,1965-09-05,NaN,True,1965-09-05,,55.0
+Pierre Michelot,Double bass,1928-03-03,2005-07-03,False,1928-03-03,2005-07-03,77.0
+Big Miller,Trombone,1922-12-18,1992-06-09,False,1922-12-18,1992-06-09,69.0
+Harry Miller,Upright bass,1941,1983,False,1941-01-01,1983-01-01,41.0
+Marcus Miller,Bass,1959-06-14,NaN,True,1959-06-14,,61.0
+Charles Mingus,Double bass,1922-04-22,1979-01-05,False,1922-04-22,1979-01-05,56.0
+Red Mitchell,Bass,1927-09-20,1992-11-08,False,1927-09-20,1992-11-08,65.0
+Whitey Mitchell,Bass,1932-02-22,2009-01-16,False,1932-02-22,2009-01-16,76.0
+Guro Skumsnes Moe,Upright bass,1983,NaN,True,1983-01-01,,37.0
+Charnett Moffett,Bass,1967-06-10,NaN,True,1967-06-10,,53.0
+Joe Mondragon,Upright bass,1920,1987,False,1920-01-01,1987-01-01,67.0
+Monk Montgomery,Bass guitar,1921-10-10,1982-05-20,False,1921-10-10,1982-05-20,60.0
+Glen Moore,Double bass,1941,NaN,True,1941-01-01,,79.0
+Michael Moore,Upright bass,1945,NaN,True,1945-01-01,,75.0
+Al Morgan,Upright bass,1920,2011,False,1920-01-01,2011-01-01,91.0
+Thomas Morgan,Double bass,1981-08-14,NaN,True,1981-08-14,,39.0
+Peck Morrison,Upright bass,1919,1988,False,1919-01-01,1988-01-01,69.0
+George Morrow,Upright bass,1925,1992,False,1925-01-01,1992-01-01,66.0
+John Mosher,Upright bass,1928,1998,False,1928-01-01,1998-01-01,70.0
+Miles Mosley,Vocals,1980-10-19,NaN,True,1980-10-19,,39.0
+George Mraz,Upright bass,1944,NaN,True,1944-01-01,,76.0
+Jo Berger Myhre,Upright bass,1984-05-29,NaN,True,1984-05-29,,36.0
+Buell Neidlinger,Upright bass,1936,2018,False,1936-01-01,2018-01-01,82.0
+Magnus Skavhaug Nergaard,Upright bass,1989-11-20,NaN,True,1989-11-20,,30.0
+Rune Nergaard,Upright bass,1983-05-26,NaN,True,1983-05-26,,37.0
+Steve Novosel,Upright bass,1940,NaN,True,1940-01-01,,80.0
+Jordan O'Connor,Upright bass,1972,NaN,True,1972-01-01,,48.0
+Patrick O'Hearn,Upright bass,1954-09-06,NaN,True,1954-09-06,,66.0
+Linda Oh,Upright bass,1984-08-25,NaN,True,1984-08-25,,36.0
+Ugonna Okegwo,Bass,1962-03-15,NaN,True,1962-03-15,,58.0
+Darek Oleszkiewicz,Double bass,1963-02-20,NaN,True,1963-02-20,,57.0
+Eivind Opsvik,Upright bass,1973,NaN,True,1973-01-01,,47.0
+John Ore,Upright bass,1933,2014,False,1933-01-01,2014-01-01,81.0
+Walter Page,Double bass,1900-02-09,1957-12-20,False,1900-02-09,1957-12-20,57.0
+Caterina Palazzi,Upright bass,1982,NaN,True,1982-01-01,,38.0
+Pino Palladino,Bass guitar,1957-10-17,NaN,True,1957-10-17,,62.0
+Truck Parham,Double bass,1911-01-25,2002-06-05,False,1911-01-25,2002-06-05,91.0
+William Parker,Double bass,1952-01-10,NaN,True,1952-01-10,,68.0
+Jaco Pastorius,Electric bass,1951-12-01,1987-09-21,False,1951-12-01,1987-09-21,35.0
+Johnny Pate,Bass guitar,1923-12-05,NaN,True,1923-12-05,,96.0
+John Patitucci,Double bass,1959-12-22,NaN,True,1959-12-22,,60.0
+Mario Pavone,Upright bass,1940,NaN,True,1940-01-01,,80.0
+"Alcide ""Slow Drag"" Pavageau",Upright bass,1888,1969,False,1888-01-01,1969-01-01,81.0
+Gary Peacock,Double bass,1935-05-12,2020-09-04,False,1935-05-12,2020-09-04,85.0
+Niels-Henning Ørsted Pedersen,Double bass,1946-05-27,2005-04-19,False,1946-05-27,2005-04-19,58.0
+Aladár Pege,Double bass,1939-10-08,2006-09-23,False,1939-10-08,2006-09-23,66.0
+Ralph Peña,Upright bass,1927,1969,False,1927-01-01,1969-01-01,42.0
+Gene Perla,Double bass,1940-03-01,NaN,True,1940-03-01,,80.0
+Oscar Pettiford,Double bass,1922-09-30,1960-09-08,False,1922-09-30,1960-09-08,37.0
+Barre Phillips,Double bass,1934-10-27,NaN,True,1934-10-27,,85.0
+Martin Pizzarelli,Double bass,1963,NaN,True,1963-01-01,,57.0
+Lonnie Plaxico,Double bass,1960-09-04,NaN,True,1960-09-04,,60.0
+Terry Plumeri,Double bass,1944-11-28,2016-03-31,False,1944-11-28,2016-03-31,71.0
+Robert Popwell,Bass guitar,1950-12-29,2017-11-27,False,1950-12-29,2017-11-27,66.0
+Tommy Potter,Double bass,1918-09-21,1988-03-01,False,1918-09-21,1988-03-01,69.0
+Pino Presti,Bass guitar,1943-08-23,NaN,True,1943-08-23,,77.0
+Rocco Prestia,Electric bass,1951-03-07,NaN,True,1951-03-07,,69.0
+Jodi Proznick,Double bass,1975-10-23,NaN,True,1975-10-23,,44.0
+Chuck Rainey,Bass guitar,1940-06-17,NaN,True,1940-06-17,,80.0
+Steinar Raknes,Upright bass,1975-03-22,NaN,True,1975-03-22,,45.0
+Gene Ramey,Upright bass,1913,1984,False,1913-01-01,1984-01-01,70.0
+Nat Reeves,Double bass,1955,NaN,True,1955-01-01,,65.0
+Rufus Reid,Bass,1944-02-10,NaN,True,1944-02-10,,76.0
+Marius Reksjø,Upright bass,1973-10-03,NaN,True,1973-10-03,,46.0
+Eric Revis,Double bass,1967-05-31,NaN,True,1967-05-31,,53.0
+Jim Richardson,Upright bass,1941,NaN,True,1941-01-01,,79.0
+Georg Riedel,Double bass,1934-01-08,NaN,True,1934-01-08,,86.0
+Steve Rodby,Bass,1954-12-09,NaN,True,1954-12-09,,65.0
+Reuben Rogers,Double bass,1974-11-15,NaN,True,1974-11-15,,45.0
+Gabe Rosales,Bass guitar,1978-11-17,NaN,True,1978-11-17,,41.0
+Howard Rumsey,Double bass,1917-11-07,2015-07-15,False,1917-11-07,2015-07-15,97.0
+Daryl Runswick,Upright bass,1946,NaN,True,1946-01-01,,74.0
+Curley Russell,Double bass,1917-03-19,1986-07-03,False,1917-03-19,1986-07-03,69.0
+Harvie S,Double bass,1948-12-06,NaN,True,1948-12-06,,71.0
+Igor Saavedra,Bass,1966-05-31,NaN,True,1966-05-31,,54.0
+Eddie Safranski,Double bass,1918,1974,False,1918-01-01,1974-01-01,56.0
+Ole Marius Sandberg,Double bass,1975-10-26,NaN,True,1975-10-26,,44.0
+Fernando Saunders,Bass guitar,1957,NaN,True,1957-01-01,,63.0
+Tony Saunders,Upright bass,NaN,NaN,NaN,,,NaN
+Patrick Scales,Electric bass,1965-03-24,NaN,True,1965-03-24,,55.0
+Tony Scherr,Guitar,NaN,NaN,NaN,,,NaN
+Lynn Seaton,Bass,1957-07-18,NaN,True,1957-07-18,,63.0
+Clarence Seay,Upright bass,1957,NaN,True,1957-01-01,,63.0
+Karl E. H. Seigfried,Double bass,1973-03-08,NaN,True,1973-03-08,,47.0
+Pat Senatore,Bass,1935-08-19,NaN,True,1935-08-19,,85.0
+Avery Sharpe,Double bass,1954-08-23,NaN,True,1954-08-23,,66.0
+Arvell Shaw,Upright bass,1923,2002,False,1923-01-01,2002-01-01,79.0
+Todd Sickafoose,Bass,NaN,NaN,NaN,,,NaN
+Alan Silva,Upright bass,1939-01-22,NaN,True,1939-01-22,,81.0
+John Simmons,Bass,1918-06-14,1979-09-19,False,1918-06-14,1979-09-19,61.0
+Andy Simpkins,bassist,1932-04-29,1999-06-02,False,1932-04-29,1999-06-02,67.0
+Len Skeat,Double bass,1937-02-09,NaN,True,1937-02-09,,83.0
+Audun Skorgen,Upright bass,1967-02-26,NaN,True,1967-02-26,,53.0
+Baard Slagsvold,Vocals,1963-08-31,NaN,True,1963-08-31,,57.0
+Carson Smith,Double bass,1931-01-09,1997-11-02,False,1931-01-09,1997-11-02,66.0
+Putter Smith,Double bass,1941-01-19,NaN,True,1941-01-19,,79.0
+Rhonda Smith,Upright bass,NaN,NaN,NaN,,,NaN
+Teddy Smith,Upright bass,1932,1979,False,1932-01-01,1979-01-01,47.0
+Esperanza Spalding,Double bass,1984-10-18,NaN,True,1984-10-18,,35.0
+Victor Sproles,Upright bass,1927,2005,False,1927-01-01,2005-01-01,78.0
+Neal Starkey,Upright bass,NaN,NaN,NaN,,,NaN
+"Leroy ""Slam"" Stewart",Double bass,1914-09-21,1987-12-10,False,1914-09-21,1987-12-10,73.0
+Øyvind Storesund,Vocals,1974-03-09,NaN,True,1974-03-09,,46.0
+Ben Street,Double bass,NaN,NaN,NaN,,,NaN
+Jon Rune Strøm,Upright bass,1985-01-29,NaN,True,1985-01-29,,35.0
+Ted Sturgis,Upright bass,1913,1995,False,1913-01-01,1995-01-01,82.0
+Ike Sturm,Upright bass,1978-06-29,NaN,True,1978-06-29,,42.0
+Christian Meaas Svendsen,Upright bass,1988-02-26,NaN,True,1988-02-26,,32.0
+Neil Swainson,Bass,1955-11-15,NaN,True,1955-11-15,,64.0
+Steve Swallow,Bass guitar,1940-10-04,NaN,True,1940-10-04,,79.0
+Jamaaladeen Tacuma,Electric bass,1956-06-11,NaN,True,1956-06-11,,64.0
+Carl Frederick Tandberg,Bass fiddle,1910-03-22,1988-08-26,False,1910-03-22,1988-08-26,78.0
+Sandra Riley Tang,Upright bass,1990,NaN,True,1990-01-01,,30.0
+Ares Tavolazzi,Upright bass,1948,NaN,True,1948-01-01,,72.0
+Billy Taylor,Upright bass,1906,1986,False,1906-01-01,1986-01-01,80.0
+Dylan Taylor,Double bass,1960-03-29,NaN,True,1960-03-29,,60.0
+Henri Texier,Double bass,1945-01-27,NaN,True,1945-01-27,,75.0
+Kostas Theodorou,Upright bass,1965,NaN,True,1965-01-01,,55.0
+Danny Thompson,Upright bass,1939-04-04,NaN,True,1939-04-04,,81.0
+Don Thompson,Double bass,1940-01-18,NaN,True,1940-01-18,,80.0
+Magne Thormodsæter,Upright bass,1973-07-08,NaN,True,1973-07-08,,47.0
+Wayman Tisdale,Upright bass,1964,2009,False,1964-01-01,2009-01-01,45.0
+Jannick Top,Upright bass,NaN,NaN,NaN,,,NaN
+Brian Torff,Double bass,1954-03-16,NaN,True,1954-03-16,,66.0
+Frank Tusa,Upright bass,1947,NaN,True,1947-01-01,,73.0
+Bjørnar Kaldefoss Tveite,Upright bass,1987-10-12,NaN,True,1987-10-12,,32.0
+Tyler Joseph,Upright bass,1988,NaN,True,1988-01-01,,32.0
+Sigurd Ulveseth,Upright bass,1953-07-13,NaN,True,1953-07-13,,67.0
+Phil Upchurch,Upright bass,1941,NaN,True,1941-01-01,,79.0
+Ole Morten Vågan,Upright bass,1979-05-08,NaN,True,1979-05-08,,41.0
+Hein van de Geyn,Double bass,1956-07-18,NaN,True,1956-07-18,,64.0
+Terje Venaas,Upright bass,1947-03-30,NaN,True,1947-03-30,,73.0
+Mads Vinding,Double bass,1948-12-07,NaN,True,1948-12-07,,71.0
+Leroy Vinnegar,Double bass,1928-07-13,1999-08-03,False,1928-07-13,1999-08-03,71.0
+Miroslav Vitous,Double bass,1947-12-06,NaN,True,1947-12-06,,72.0
+Louis Vola,Bass,1902-07-06,1990,False,1902-07-06,1990-01-01,87.0
+Ellen Andrea Wang,Vocals,1986-10-10,NaN,True,1986-10-10,,33.0
+Wilbur Ware,Double bass,1923-09-08,1979-09-09,False,1923-09-08,1979-09-09,56.0
+Butch Warren,Double bass,1939-08-09,2013-10-05,False,1939-08-09,2013-10-05,74.0
+Peter Washington,Bass,1964-08-28,NaN,True,1964-08-28,,56.0
+Rob Wasserman,Double bass,1952-04-01,2016-06-29,False,1952-04-01,2016-06-29,64.0
+Doug Watkins,Double bass,1934-03-02,1962-02-05,False,1934-03-02,1962-02-05,27.0
+Hank Wayland,Upright bass,1906,1983,False,1906-01-01,1983-01-01,77.0
+Eberhard Weber,Electric upright bass,1940-01-22,NaN,True,1940-01-22,,80.0
+Rodney Whitaker,Double bass,1968-02-22,NaN,True,1968-02-22,,52.0
+Andrew White,Saxophone,1942-09-06,NaN,True,1942-09-06,,78.0
+Chris White,Double bass,1936,2014,False,1936-01-01,2014-01-01,78.0
+Tal Wilkenfeld,Bass guitar,1986-12-02,NaN,True,1986-12-02,,33.0
+Buster Williams,Double bass,1942-04-17,NaN,True,1942-04-17,,78.0
+"David ""Happy"" Williams",Double bass,1946-09-17,NaN,True,1946-09-17,,74.0
+Gary Willis,Upright bass,1957,NaN,True,1957-01-01,,63.0
+Quinn Wilson,Violin,1908-12-26,1978-06-14,False,1908-12-26,1978-06-14,69.0
+Ben Wolfe,Double bass,1962-08-03,NaN,True,1962-08-03,,58.0
+Chris Wood,Double bass,NaN,NaN,NaN,,,NaN
+Jimmy Woode,Upright bass,1926,2005,False,1926-01-01,2005-01-01,79.0
+Victor Lemonte Wooten,Bass guitar,1964-09-11,NaN,True,1964-09-11,,56.0
+Reggie Workman,Double bass,1937-06-26,NaN,True,1937-06-26,,83.0
+Eugene Wright,Double bass,1923-05-29,NaN,True,1923-05-29,,97.0
+Herman Wright,Upright bass,NaN,NaN,NaN,,,NaN
+Walt Yoder,Double bass,1914-04-21,1978-12-02,False,1914-04-21,1978-12-02,64.0
+Eldee Young,Upright bass,1936,2007,False,1936-01-01,2007-01-01,71.0
+Per Zanussi,Upright bass,1977-01-31,NaN,True,1977-01-31,,43.0
+Chester Zardis,Upright bass,1900,1990,False,1900-01-01,1990-01-01,90.0
+Stuart Zender,Bass,1974-03-18,NaN,True,1974-03-18,,46.0
