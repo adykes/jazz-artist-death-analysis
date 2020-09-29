@@ -7,3 +7,6 @@
 **9/28/20:**
 - Uploaded nearly-finished version of jazz_bassist_webscraper.ipynb 
 - Cleaned data (inputted cause_of_death and fixed some errors)
+
+**9/29/20:**
+- Cleaned up comments in pianist and bassist webscraper
