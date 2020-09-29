@@ -12,6 +12,11 @@ As of the time of writing (9/24/20), I've only completed collecting and cleaning
 in this repository that will show the progress I make over time. I will also update this document with technical details as I clarify some
 of the processes and methods that I use for this project. 
 
+**General Process**: 
+
+First, I am going to scrape the pages of lists of jazz musicians from Wikipedia for basic biographical data. For now, these pages are:
+- 
+
 Thanks for checking it out!
 
 
