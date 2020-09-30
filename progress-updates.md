@@ -10,3 +10,8 @@
 
 **9/29/20:**
 - Cleaned up comments in pianist and bassist webscraper
+- Expanded on README file
+
+**9/30/20:**
+- Added clarinetist and flutist csv file
+- Changed all occurrences of "floutist" to "flutist"
