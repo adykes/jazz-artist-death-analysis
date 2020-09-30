@@ -16,7 +16,7 @@ of the processes and methods that I use for this project.
 :
 - Pianists: https://en.wikipedia.org/wiki/List_of_jazz_pianists
 - Bassists: https://en.wikipedia.org/wiki/List_of_jazz_bassists
-- Clarinetists and Floutists: https://en.wikipedia.org/wiki/List_of_jazz_musicians (may do this manually as there aren't enough clarinetists or floutists to make it
+- Clarinetists and Flouists: https://en.wikipedia.org/wiki/List_of_jazz_musicians (may do this manually as there aren't enough clarinetists or flutists to make it
 worth my time to write a separate webscraper)
 - Drummers: https://en.wikipedia.org/wiki/List_of_jazz_drummers
 - Guitarists: https://en.wikipedia.org/wiki/List_of_jazz_guitarists
