@@ -15,3 +15,6 @@
 **9/30/20:**
 - Added clarinetist and flutist csv file
 - Changed all occurrences of "floutist" to "flutist"
+
+**10/4/20:**
+- Added webscraper and csv files for jazz drummers into jazz-drummer-files
