@@ -1,0 +1,79 @@
+artist,instrument,birthdate,deathdate,alive,bday_dt,dday_dt,age_yrs,cause_of_death
+"Tihomir ""Pop"" Asanovi?",Organ,1948-11-16,NaN,True,1948-11-16,NaN,71,NaN
+Brian Auger,Organ,1939-07-18,NaN,True,1939-07-18,NaN,81,NaN
+Count Basie,Piano,1904-08-21,1984-04-26,False,1904-08-21,1984-04-26,79,Cancer (Pancreas)
+Pat Bianchi,Organ,1975-12-07,NaN,True,1975-12-07,NaN,44,NaN
+Judy Blair,Vocals,1948-12-29,NaN,True,1948-12-29,NaN,71,NaN
+Carla Bley,Piano,1936-05-11,NaN,True,1936-05-11,NaN,84,NaN
+Gary Brunotte,Piano,1948-10-04,NaN,True,1948-10-04,NaN,72,NaN
+Milt Buckner,Piano,1915-07-10,1977-07-27,False,1915-07-10,1977-07-27,62,Heart Attack
+Mike Carr,Organ,1937-12-07,2017-09-22,False,1937-12-07,2017-09-22,79,NaN
+Ray Charles,Vocals,1930-09-23,2004-06-10,False,1930-09-23,2004-06-10,73,Liver Failure
+Call Cobbs Jr.,Piano,1911-01-30,1971-09-21,False,1911-01-30,1971-09-21,60,Car Accident
+Alice Coltrane,Piano,1937-08-27,2007-01-12,False,1937-08-27,2007-01-12,69,Respiratory Failure
+Tom Coster,Keyboards,1941-08-21,NaN,True,1941-08-21,NaN,79,NaN
+Jackie Davis,Organ,1920-12-13,1999-11-02,False,1920-12-13,1999-11-02,78,Stroke
+Wild Bill Davis,Piano,1918-11-24,1995-08-17,False,1918-11-24,1995-08-17,76,NaN
+Lenny Dee,Organ,1923-01-05,2006-02-12,False,1923-01-05,2006-02-12,83,NaN
+Joey DeFrancesco,Organ,1971-04-10,NaN,True,1971-04-10,NaN,49,NaN
+'Papa' John DeFrancesco,Organ,1940-09-12,NaN,True,1940-09-12,NaN,80,NaN
+Barbara Dennerlein,Organ,1964-09-25,NaN,True,1964-09-25,NaN,56,NaN
+Bill Doggett,Piano,1916-02-16,1996-11-13,False,1916-02-16,1996-11-13,80,Heart Attack
+Dr. John,Vocals,1941-11-20,2019-06-06,False,1941-11-20,2019-06-06,77,Heart Attack
+Charles Earland,Organ,1941-05-24,1999-12-11,False,1941-05-24,1999-12-11,58,Heart Failure
+Georgie Fame,Keyboards,1943-06-26,NaN,True,1943-06-26,NaN,77,NaN
+Clare Fischer,Keyboards,1928-10-22,2012-01-26,False,1928-10-22,2012-01-26,83,Heart Attack
+Dan Fogel,Organ,1948-06-21,NaN,True,1948-06-21,NaN,72,NaN
+Larry Goldings,Piano,1968-08-28,NaN,True,1968-08-28,NaN,52,NaN
+Alan Haven,Organ,1935-04-01,2016-01-07,False,1935-04-01,2016-01-07,80,NaN
+Cory Henry,Piano,1987-02-27,NaN,True,1987-02-27,NaN,33,NaN
+Milt Herth,Organ,1902-11-03,1969-06-18,False,1902-11-03,1969-06-18,66,NaN
+Ingfried Hoffmann,Organ,1935-01-30,NaN,True,1935-01-30,NaN,85,NaN
+"Richard ""Groove"" Holmes",Organ,1931-05-02,1991-06-29,False,1931-05-02,1991-06-29,60,Heart Attack
+Wayne Horvitz,Keyboards,1955-09-01,NaN,True,1955-09-01,NaN,65,NaN
+Booker T. Jones,Keyboards,1944-11-12,NaN,True,1944-11-12,NaN,75,NaN
+Wojciech Karolak,Organ,1939-05-28,NaN,True,1939-05-28,NaN,81,NaN
+Bruce Katz,Organ,1952-08-19,NaN,True,1952-08-19,NaN,68,NaN
+Charles Kynard,Organ,1933-02-20,1979-07-08,False,1933-02-20,1979-07-08,46,NaN
+Eddie Landsberg,Organ,1971-10-02,NaN,True,1971-10-02,NaN,49,NaN
+Mike LeDonne,Piano,1956-10-26,NaN,True,1956-10-26,NaN,63,NaN
+Ron Levy,Piano,1951-05-29,NaN,True,1951-05-29,NaN,69,NaN
+Ed Lincoln,Piano,1932-05-31,2012-07-16,False,1932-05-31,2012-07-16,80,Respiratory Failure
+Eddy Louiss,Organ,1941-05-02,2015-06-30,False,1941-05-02,2015-06-30,74,NaN
+Gene Ludwig,Organ,1937-09-04,2010-07-14,False,1937-09-04,2010-07-14,72,NaN
+Jack McDuff,Organ,1926-09-17,2001-01-23,False,1926-09-17,2001-01-23,74,Heart Failure
+Jimmy McGriff,Organ,1936-04-03,2008-05-24,False,1936-04-03,2008-05-24,72,Multiple Sclerosis
+John Medeski,Keyboards,1965-06-28,NaN,True,1965-06-28,NaN,55,NaN
+Tony Monaco,Organ,1959-08-14,NaN,True,1959-08-14,NaN,61,NaN
+Amina Claudine Myers,Vocals,1942-03-21,NaN,True,1942-03-21,NaN,78,NaN
+Don Patterson,Organ,1936-07-22,1988-02-10,False,1936-07-22,1988-02-10,51,NaN
+John Patton,Organ,1935-07-12,2002-03-19,False,1935-07-12,2002-03-19,66,Diabetes
+Clarence Palmer,Organ,1943-10-06,NaN,True,1943-10-06,NaN,77,NaN
+Trudy Pitts,Organ,1932-08-10,2010-12-19,False,1932-08-10,2010-12-19,78,Cancer (Pancreas)
+Roy Powell,Organ,1965-10-02,NaN,True,1965-10-02,NaN,55,NaN
+Billy Preston,Vocals,1946-09-02,2006-06-06,False,1946-09-02,2006-06-06,59,Respiratory Failure
+Don Pullen,Piano,1941-12-25,1995-04-22,False,1941-12-25,1995-04-22,53,Cancer (Blood)
+Sun Ra,Piano,1914-05-22,1993-05-30,False,1914-05-22,1993-05-30,79,Heart Failure
+Mike Ratledge,Piano,1943-05-06,NaN,True,1943-05-06,NaN,77,NaN
+Mel Rhyne,Organ,1936-10-12,2013-03-05,False,1936-10-12,2013-03-05,76,Cancer (Lung)
+Doug Riley,Organ,1945-04-12,2007-08-27,False,1945-04-12,2007-08-27,62,Heart Attack
+Freddie Roach,Organ,1931-05-11,1980-10-03,False,1931-05-11,1980-10-03,49,Heart Attack
+Merl Saunders,Organ,1934-02-14,2008-10-24,False,1934-02-14,2008-10-24,74,Stroke
+Paul Shaffer,Organ,1949-11-28,NaN,True,1949-11-28,NaN,70,NaN
+Rhoda Scott,Organ,1938-07-03,NaN,True,1938-07-03,NaN,82,NaN
+Shirley Scott,Organ,1934-03-14,2002-03-10,False,1934-03-14,2002-03-10,67,Heart Failure
+Jimmy Smith,Organ,1925-12-08,2005-02-08,False,1925-12-08,2005-02-08,79,Natural Causes
+"Johnny ""Hammond"" Smith",Organ,1933-12-16,1997-06-04,False,1933-12-16,1997-06-04,63,Cancer
+Lonnie Smith,Organ,1942-07-03,NaN,True,1942-07-03,NaN,78,NaN
+Ståle Storløkken,Keyboards,1969-02-22,NaN,True,1969-02-22,NaN,51,NaN
+Charles Thompson,Piano,1918-03-21,2016-06-16,False,1918-03-21,2016-06-16,98,NaN
+Paul Wagnberg,Keyboards,1961-04-25,NaN,True,1961-04-25,NaN,59,NaN
+Fats Waller,Piano,1904-05-21,1943-12-15,False,1904-05-21,1943-12-15,39,Pneumonia
+Robert Walter,Organ,1970-05-03,NaN,True,1970-05-03,NaN,50,NaN
+Walter Wanderley,Organ,1932-05-12,1986-09-04,False,1932-05-12,1986-09-04,54,Cancer
+Baby Face Willette,Organ,1933-09-11,1971-04-01,False,1933-09-11,1971-04-01,37,NaN
+Reuben Wilson,Organ,1935-04-09,NaN,True,1935-04-09,NaN,85,NaN
+Lyman Woodard,Organ,1942-03-03,2009-02-24,False,1942-03-03,2009-02-24,66,NaN
+Klaus Wunderlich,Keyboards,1931-06-18,1997-10-28,False,1931-06-18,1997-10-28,66,Heart Attack
+Larry Young,Organ,1940-10-07,1978-03-30,False,1940-10-07,1978-03-30,37,Pneumonia
+Joe Zawinul,Keyboards,1932-07-07,2007-09-11,False,1932-07-07,2007-09-11,75,Cancer (Skin)

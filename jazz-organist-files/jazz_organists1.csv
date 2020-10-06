@@ -1,0 +1,89 @@
+artist,instrument,birthdate,deathdate,alive,bday_dt,dday_dt,age_yrs
+"Tihomir ""Pop"" Asanović",Keyboard instrument,1948-11-16,NaN,True,1948-11-16,,71.0
+Brian Auger,Organ,1939-07-18,NaN,True,1939-07-18,,81.0
+Count Basie,Piano,1904-08-21,1984-04-26,False,1904-08-21,1984-04-26,79.0
+Pat Bianchi,Hammond organ,1975-12-07,NaN,True,1975-12-07,,44.0
+Judy Blair,Vocals,1948-12-29,NaN,True,1948-12-29,,71.0
+Carla Bley,Piano,1936-05-11,NaN,True,1936-05-11,,84.0
+André Brasseur,Guitar,NaN,NaN,NaN,,,NaN
+Gary Brunotte,Piano,NaN,NaN,NaN,,,NaN
+Milt Buckner,Piano,1915-07-10,1977-07-27,False,1915-07-10,1977-07-27,62.0
+Mike Carr,Guitar,NaN,NaN,NaN,,,NaN
+Ray Charles,Vocals,1930-09-23,2004-06-10,False,1930-09-23,2004-06-10,73.0
+"Clifton ""Jiggs"" Chase",Guitar,NaN,NaN,NaN,,,NaN
+Call Cobbs Jr.,Guitar,NaN,NaN,NaN,,,NaN
+Alice Coltrane,Piano,1937-08-27,2007-01-12,False,1937-08-27,2007-01-12,69.0
+Tom Coster,Keyboards,1941-08-21,NaN,True,1941-08-21,,79.0
+Jackie Davis,Hammond organ,1920-12-13,1999-11-02,False,1920-12-13,1999-11-02,78.0
+Wild Bill Davis,Piano,1918-11-24,NaN,True,1918-11-24,,101.0
+Lenny Dee,Hammond organ,1923-01-05,2006-02-12,False,1923-01-05,2006-02-12,83.0
+Joey DeFrancesco,Hammond organ,1971-04-10,NaN,True,1971-04-10,,49.0
+'Papa' John DeFrancesco,Hammond B3,1940-09-12,NaN,True,1940-09-12,,80.0
+Barbara Dennerlein,Electronic organ,1964-09-25,NaN,True,1964-09-25,,56.0
+Bill Doggett,Piano,1916-02-16,1996-11-13,False,1916-02-16,1996-11-13,80.0
+Dr. John,Vocals,1941-11-20,2019-06-06,False,1941-11-20,2019-06-06,77.0
+Charles Earland,Organ,1941-05-24,1999-12-11,False,1941-05-24,1999-12-11,58.0
+Georgie Fame,Keyboards,1943-06-26,NaN,True,1943-06-26,,77.0
+Clare Fischer,Synthesizer,1928-10-22,2012-01-26,False,1928-10-22,2012-01-26,83.0
+Dan Fogel,Organ,1948-06-21,NaN,True,1948-06-21,,72.0
+Chris Foreman,Guitar,NaN,NaN,NaN,,,NaN
+Jared Gold,Guitar,NaN,NaN,NaN,,,NaN
+Larry Goldings,Piano,1968-08-28,NaN,True,1968-08-28,,52.0
+Atsuko Hashimoto,Organ,NaN,NaN,NaN,,,NaN
+Herbie Hancock,Keyboards,1940-04-12,NaN,True,1940-04-12,,80.0
+Alan Haven,Guitar,NaN,NaN,NaN,,,NaN
+Cory Henry,Piano,1987-02-27,NaN,True,1987-02-27,,33.0
+Milt Herth,Organ,1902-11-03,1969-06-18,False,1902-11-03,1969-06-18,66.0
+Ingfried Hoffmann,Guitar,NaN,NaN,NaN,,,NaN
+"Richard ""Groove"" Holmes",Organ,1931-05-02,1991-06-29,False,1931-05-02,1991-06-29,60.0
+John Hondorp,Guitar,NaN,NaN,NaN,,,NaN
+Wayne Horvitz,Keyboards,1955-09-01,NaN,True,1955-09-01,,65.0
+Booker T. Jones,Keyboards,1944-11-12,NaN,True,1944-11-12,,75.0
+Wojciech Karolak,Guitar,NaN,NaN,NaN,,,NaN
+Bruce Katz,Guitar,NaN,NaN,NaN,,,NaN
+Charles Kynard,Guitar,NaN,NaN,NaN,,,NaN
+Eddie Landsberg,Guitar,NaN,NaN,NaN,,,NaN
+Mike LeDonne,Piano,1956-10-26,NaN,True,1956-10-26,,63.0
+Ron Levy,Piano,1951-05-29,NaN,True,1951-05-29,,69.0
+Ed Lincoln,Piano,1932-05-31,2012-07-16,False,1932-05-31,2012-07-16,80.0
+Eddy Louiss,Hammond organ,1941-05-02,2015-06-30,False,1941-05-02,2015-06-30,74.0
+Gene Ludwig,Hammond organ,NaN,2010-07-14,False,,2010-07-14,nan
+Jack McDuff,Organ,NaN,NaN,NaN,,,NaN
+Jimmy McGriff,Organ,1936-04-03,2008-05-24,False,1936-04-03,2008-05-24,72.0
+John Medeski,Keyboards,1965-06-28,NaN,True,1965-06-28,,55.0
+Tony Monaco,Organ,1959-08-14,NaN,True,1959-08-14,,61.0
+Amina Claudine Myers,Vocals,1942-03-21,NaN,True,1942-03-21,,78.0
+Don Patterson,Guitar,NaN,NaN,NaN,,,NaN
+John Patton,Organ,1935-07-12,2002-03-19,False,1935-07-12,2002-03-19,66.0
+Clarence Palmer,Guitar,NaN,NaN,NaN,,,NaN
+Trudy Pitts,Organ,1932-08-10,2010-12-19,False,1932-08-10,2010-12-19,78.0
+Roy Powell,Guitar,NaN,NaN,NaN,,,NaN
+Billy Preston,Vocals,1946-09-02,2006-06-06,False,1946-09-02,2006-06-06,59.0
+Don Pullen,Piano,1941-12-25,1995-04-22,False,1941-12-25,1995-04-22,53.0
+Sun Ra,Piano,1914-05-22,1993-05-30,False,1914-05-22,1993-05-30,79.0
+Mike Ratledge,Piano,1943-05-06,NaN,True,1943-05-06,,77.0
+Mel Rhyne,Organ,1936-10-12,2013-03-05,False,1936-10-12,2013-03-05,76.0
+Doug Riley,Guitar,NaN,NaN,NaN,,,NaN
+Freddie Roach,Guitar,NaN,NaN,NaN,,,NaN
+Merl Saunders,Hammond organ,1934-02-14,2008-10-24,False,1934-02-14,2008-10-24,74.0
+Paul Shaffer,Guitar,NaN,NaN,NaN,,,NaN
+Rhoda Scott,Guitar,NaN,NaN,NaN,,,NaN
+Shirley Scott,Organ,1934-03-14,2002-03-10,False,1934-03-14,2002-03-10,67.0
+Jimmy Smith,Hammond B-3 organ,1925-12-08,2005-02-08,False,1925-12-08,2005-02-08,79.0
+"Johnny ""Hammond"" Smith",Organ,1933-12-16,1997-06-04,False,1933-12-16,1997-06-04,63.0
+Lonnie Smith,Organ,1942-07-03,NaN,True,1942-07-03,,78.0
+Ståle Storløkken,Keyboards,1969-02-22,NaN,True,1969-02-22,,51.0
+James Taylor,Guitar,NaN,NaN,NaN,,,NaN
+Charles Thompson,Piano,NaN,NaN,NaN,,,NaN
+Akiko Tsuruga,Guitar,NaN,NaN,NaN,,,NaN
+Paul Wagnberg,Keyboards,1961-04-25,NaN,True,1961-04-25,,59.0
+Fats Waller,Piano,1904-05-21,1943-12-15,False,1904-05-21,1943-12-15,39.0
+Robert Walter,Hammond B3 organ,1970-05-03,NaN,True,1970-05-03,,50.0
+Walter Wanderley,Organ,1932-05-12,1986-09-04,False,1932-05-12,1986-09-04,54.0
+Baby Face Willette,Guitar,NaN,NaN,NaN,,,NaN
+Reuben Wilson,Hammond B3,1935-04-09,NaN,True,1935-04-09,,85.0
+Lyman Woodard,Hammond B-3,1942-03-03,2009-02-24,False,1942-03-03,2009-02-24,66.0
+Klaus Wunderlich,Keyboard instruments,1931-06-18,1997-10-28,False,1931-06-18,1997-10-28,66.0
+Sam Yahel,Piano,NaN,NaN,NaN,,,NaN
+Larry Young,Organ,1940-10-07,1978-03-30,False,1940-10-07,1978-03-30,37.0
+Joe Zawinul,Keyboards,1932-07-07,2007-09-11,False,1932-07-07,2007-09-11,75.0
