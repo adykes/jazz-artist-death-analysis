@@ -1,0 +1,23 @@
+artist,instrument,birthdate,deathdate,alive,bday_dt,dday_dt,age_yrs,cause_of_death
+Lekan Babalola,Percussion,1960-05-15,NaN,True,1960-05-15,NaN,60,NaN
+Cyro Baptista,Percussion,1950-12-23,NaN,True,1950-12-23,NaN,69,NaN
+Ray Barretto,Percussion,1929-04-29,2006-02-17,False,1929-04-29,2006-02-17,76,Heart Failure
+Steve Berrios,Percussion,1945-02-24,2013-07-25,False,1945-02-24,2013-07-25,68,NaN
+Buck Clarke,Percussion,1933-10-02,1988-10-11,False,1933-10-02,1988-10-11,55,Diabetes
+Cándido Camero,Percussion,1921-04-22,NaN,True,1921-04-22,NaN,99,NaN
+Mino Cinélu,Drums,1957-03-10,NaN,True,1957-03-10,NaN,63,NaN
+Roger Dawson,Percussion,1940-03-19,NaN,True,1940-03-19,NaN,80,NaN
+Xavier Desandre Navarre,Percussion,1961-10-11,NaN,True,1961-10-11,NaN,59,NaN
+Sammy Figueroa,Percussion,1948-11-16,NaN,True,1948-11-16,NaN,71,NaN
+David Friedman,Percussion,1944-03-10,NaN,True,1944-03-10,NaN,76,NaN
+Sameer Gupta,Percussion,1976-07-01,NaN,True,1976-07-01,NaN,44,NaN
+Trilok Gurtu,Drums,1951-10-30,NaN,True,1951-10-30,NaN,68,NaN
+Giovanni Hidalgo,Percussion,1963-11-22,NaN,True,1963-11-22,NaN,56,NaN
+Zakir Hussain,Percussion,1951-03-09,NaN,True,1951-03-09,NaN,69,NaN
+Armando Peraza,Percussion,1924-05-30,2014-04-14,False,1924-05-30,2014-04-14,89,Pneumonia
+Chano Pozo,Percussion,1915-01-07,1948-12-03,False,1915-01-07,1948-12-03,33,Murdered
+Tito Puente,Percussion,1923-04-20,2000-06-01,False,1923-04-20,2000-06-01,77,Heart Attack
+Poncho Sanchez,Percussion,1951-10-30,NaN,True,1951-10-30,NaN,68,NaN
+Mongo Santamaría,Percussion,1917-04-07,2003-02-01,False,1917-04-07,2003-02-01,85,Stroke
+Arto Tunçboyac?yan,Vocals,1957-08-04,NaN,True,1957-08-04,NaN,63,NaN
+"Carlos ""Patato"" Valdes",Percussion,1926-11-04,2007-12-04,False,1926-11-04,2007-12-04,81,Emphysema
