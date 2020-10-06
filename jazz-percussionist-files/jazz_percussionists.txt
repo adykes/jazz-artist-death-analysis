@@ -1,0 +1,2 @@
+***This folder contains all of the files pertaining to jazz percussionists***
+- This data will be entered in manually as there aren't enough  percussionists to warrant creating a separate scraper.
