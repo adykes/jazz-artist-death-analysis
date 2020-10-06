@@ -1,0 +1,416 @@
+artist,instrument,birthdate,deathdate,alive,bday_dt,dday_dt,age_yrs,cause_of_death
+Eivind Aarset,Guitar,1961-03-23,NaN,True,1961-03-23,NaN,59,NaN
+Rez Abbasi,Guitar,1965-08-27,NaN,True,1965-08-27,NaN,55,NaN
+John Abercrombie,Guitar,1944-12-16,2017-08-22,False,1944-12-16,2017-08-22,72,Heart Failure
+Bernard Addison,Guitar,1905-04-15,1990-12-18,False,1905-04-15,1990-12-18,85,NaN
+Ron Affif,Guitar,1965-12-30,NaN,True,1965-12-30,NaN,54,NaN
+Noël Akchoté,Guitar,1968-12-07,NaN,True,1968-12-07,NaN,51,NaN
+Jan Akkerman,Guitar,1946-12-24,NaN,True,1946-12-24,NaN,73,NaN
+Howard Alden,Guitar,1958-10-17,NaN,True,1958-10-17,NaN,61,NaN
+Johnny Alegre,Guitar,1955-06-04,NaN,True,1955-06-04,NaN,65,NaN
+Oscar Alemán,Guitar,1909-02-20,1980-10-14,False,1909-02-20,1980-10-14,71,NaN
+Laurindo Almeida,Guitar,1917-09-02,1995-07-26,False,1917-09-02,1995-07-26,77,Leukemia
+Peter Almqvist,Guitar,1957-07-17,2015-04-01,False,1957-07-17,2015-04-01,58,NaN
+Chuck Anderson,Guitar,1947-06-21,NaN,True,1947-06-21,NaN,73,NaN
+Ron Anthony,Guitar,1933-12-16,NaN,True,1933-12-16,NaN,86,NaN
+Marc Antoine,Guitar,1963-05-28,NaN,True,1963-05-28,NaN,57,NaN
+Bruce Arnold,Guitar,1955-07-31,NaN,True,1955-07-31,NaN,65,NaN
+Irving Ashby,Guitar,1920-12-29,NaN,True,1920-12-29,NaN,99,NaN
+Badi Assad,Guitar,1966-12-23,NaN,True,1966-12-23,NaN,53,NaN
+Jay Azzolina,Guitar,1952-12-23,NaN,True,1952-12-23,NaN,68,NaN
+Elek Bacsik,Guitar,1926-05-22,NaN,True,1926-05-22,NaN,94,NaN
+Derek Bailey,Guitar,1930-01-29,2005-12-25,False,1930-01-29,2005-12-25,75,Motor Neuron Disease
+Sheryl Bailey,Guitar,1966-05-20,NaN,True,1966-05-20,NaN,54,NaN
+Duck Baker,Guitar,1949-07-30,NaN,True,1949-07-30,NaN,71,NaN
+Biel Ballester,Guitar,1974-01-01,NaN,True,1974-01-01,NaN,46,NaN
+Carlos Barbosa-Lima,Guitar,1944-12-17,NaN,True,1944-12-17,NaN,75,NaN
+Dave Barbour,Guitar,1912-05-28,1965-12-11,False,1912-05-28,1965-12-11,53,Hemorrhaged Ulcer
+Danny Barker,Vocals,1909-01-13,1994-03-13,False,1909-01-13,1994-03-13,85,Cancer
+Everett Barksdale,Guitar,1910-04-28,1986-01-29,False,1910-04-28,1986-01-29,76,NaN
+Junior Barnard,Guitar,1920-12-17,1951-04-15,False,1920-12-17,1951-04-15,30,NaN
+George Barnes,Guitar,1921-07-17,1977-09-05,False,1921-07-17,1977-09-05,56,Heart Attack
+Claude Barthélemy,Guitar,1956-08-22,NaN,True,1956-08-22,NaN,64,NaN
+Billy Bauer,Guitar,1915-11-14,2005-06-16,False,1915-11-14,2005-06-16,89,Pneumonia
+Billy Bean,Guitar,1933-12-26,2012-02-06,False,1933-12-26,2012-02-06,78,NaN
+Gerry Beaudoin,Guitar,1954-08-06,NaN,True,1954-08-06,NaN,66,NaN
+Joe Beck,Guitar,1945-07-29,2008-07-22,False,1945-07-29,2008-07-22,62,Cancer (Lung)
+David Becker,Guitar,1961-10-20,NaN,True,1961-10-20,NaN,58,NaN
+Kelvyn Bell,Guitar,1956-06-19,NaN,True,1956-06-19,NaN,64,NaN
+Roni Ben-Hur,Guitar,1962-07-09,NaN,True,1962-07-09,NaN,58,NaN
+George Benson,Vocals,1943-03-22,NaN,True,1943-03-22,NaN,77,NaN
+Randy Bernsen,Guitar,1954-07-15,NaN,True,1954-07-15,NaN,66,NaN
+Peter Bernstein,Guitar,1967-09-03,NaN,True,1967-09-03,NaN,53,NaN
+Gene Bertoncini,Guitar,1937-04-06,NaN,True,1937-04-06,NaN,83,NaN
+Skeeter Best,Guitar,1914-11-20,1985-05-27,False,1914-11-20,1985-05-27,70,NaN
+Ed Bickert,Guitar,1932-11-29,2019-02-28,False,1932-11-29,2019-02-28,86,NaN
+Raoul Björkenheim,Guitar,1956-02-11,NaN,True,1956-02-11,NaN,64,NaN
+Lee Blair,Guitar,1903-10-10,1966-10-15,False,1903-10-10,1966-10-15,63,NaN
+Jack Bland,Guitar,1899-05-08,1968-10-18,False,1899-05-08,1968-10-18,69,NaN
+Marek Blizi?ski,Guitar,1947-03-22,1989-03-17,False,1947-03-22,1989-03-17,41,Cancer (Skin)
+Paul Bollenback,Guitar,1959-06-06,NaN,True,1959-06-06,NaN,61,NaN
+Luiz Bonfá,Guitar,1922-10-17,2001-01-12,False,1922-10-17,2001-01-12,78,Cancer (Prostate)
+Perry Botkin Sr.,Guitar,1907-07-22,1973-10-14,False,1907-07-22,1973-10-14,66,NaN
+Jean-Paul Bourelly,Guitar,1960-11-23,NaN,True,1960-11-23,NaN,59,NaN
+Joshua Breakstone,Guitar,1955-07-22,NaN,True,1955-07-22,NaN,65,NaN
+Lenny Breau,Guitar,1941-08-05,1984-08-12,False,1941-08-05,1984-08-12,43,Murdered
+Zachary Breaux,Guitar,1960-06-26,1997-02-20,False,1960-06-26,1997-02-20,36,Heart Attack
+Jakob Bro,Guitar,1978-04-11,NaN,True,1978-04-11,NaN,42,NaN
+Bobby Broom,Guitar,1961-01-18,NaN,True,1961-01-18,NaN,59,NaN
+Norman Brown,Guitar,1970-12-18,NaN,True,1970-12-18,NaN,49,NaN
+Sam Brown,Guitar,1939-02-19,1977-12-28,False,1939-02-19,1977-12-28,38,NaN
+Jimmy Bruno,Guitar,1953-07-22,NaN,True,1953-07-22,NaN,67,NaN
+Mike Bryan,Guitar,1916-08-09,1972-08-20,False,1916-08-09,1972-08-20,56,Leukemia
+Dennis Budimir,Guitar,1938-06-20,NaN,True,1938-06-20,NaN,82,NaN
+Hiram Bullock,Guitar,1955-09-11,2008-07-25,False,1955-09-11,2008-07-25,52,Cancer
+Teddy Bunn,Guitar,1909-05-07,1978-07-20,False,1909-05-07,1978-07-20,69,NaN
+Kenny Burrell,Guitar,1931-07-31,NaN,True,1931-07-31,NaN,89,NaN
+Billy Butler,Guitar,1924-12-15,1991-03-20,False,1924-12-15,1991-03-20,66,Heart Attack
+Jonathan Butler,Vocals,1961-10-10,NaN,True,1961-10-10,NaN,58,NaN
+Charlie Byrd,Guitar,1925-09-16,1999-12-02,False,1925-09-16,1999-12-02,74,Cancer (Lung)
+Al Caiola,Guitar,1920-09-07,2016-11-09,False,1920-09-07,2016-11-09,96,NaN
+Royce Campbell,Guitar,1952-06-07,NaN,True,1952-06-07,NaN,68,NaN
+Jim Campilongo,Guitar,1958-07-08,NaN,True,1958-07-08,NaN,62,NaN
+Larry Carlton,Guitar,1948-03-02,NaN,True,1948-03-02,NaN,72,NaN
+Al Casey,Guitar,1915-09-15,2005-09-11,False,1915-09-15,2005-09-11,89,Cancer (Colon)
+Oscar Castro-Neves,Guitar,1940-05-15,2013-09-27,False,1940-05-15,2013-09-27,73,Cancer
+Chet Catallo,Guitar,1953-03-11,NaN,True,1953-03-11,NaN,67,NaN
+Lauderic Caton,Guitar,1910-08-31,1999-02-19,False,1910-08-31,1999-02-19,88,NaN
+Philip Catherine,Guitar,1942-10-27,NaN,True,1942-10-27,NaN,77,NaN
+Franco Cerri,Guitar,1926-01-29,NaN,True,1926-01-29,NaN,94,NaN
+Eugene Chadbourne,Guitar,1954-01-04,NaN,True,1954-01-04,NaN,66,NaN
+Emmett Chapman,Guitar,1936-09-28,NaN,True,1936-09-28,NaN,84,NaN
+Roger Chaput,Guitar,1909-05-19,1994-12-22,False,1909-05-19,1994-12-22,85,NaN
+Ed Cherry,Guitar,1954-10-12,NaN,True,1954-10-12,NaN,65,NaN
+Jean Chaumont,Guitar,1983-06-16,NaN,True,1983-06-16,NaN,37,NaN
+Andrew Cheshire,Guitar,1962-06-21,NaN,True,1962-06-21,NaN,58,NaN
+Pete Chilver,Guitar,1924-10-19,2008-03-16,False,1924-10-19,2008-03-16,83,NaN
+James Chirillo,Guitar,1953-05-02,NaN,True,1953-05-02,NaN,67,NaN
+Charlie Christian,Guitar,1916-07-29,1942-03-02,False,1916-07-29,1942-03-02,25,Tuberculosis
+Joe Cinderella,Guitar,1927-06-14,2012-10-27,False,1927-06-14,2012-10-27,85,Natural Causes
+Bruce Clarke,Guitar,1925-12-01,2008-07-24,False,1925-12-01,2008-07-24,82,NaN
+Dave Cliff,Guitar,1944-06-25,NaN,True,1944-06-25,NaN,76,NaN
+Nels Cline,Guitar,1956-01-04,NaN,True,1956-01-04,NaN,64,NaN
+Joe Cohn,Guitar,1956-12-28,NaN,True,1956-12-28,NaN,63,NaN
+George Cole,Guitar,1960-10-10,NaN,True,1960-10-10,NaN,59,NaN
+Cal Collins,Guitar,1933-05-05,2001-08-27,False,1933-05-05,2001-08-27,68,Liver Failure
+John Collins,Guitar,1913-09-20,2001-10-04,False,1913-09-20,2001-10-04,88,Cancer
+Eddie Condon,Guitar,1905-11-16,1973-08-04,False,1905-11-16,1973-08-04,67,Bone Disease
+Bill Connors,Guitar,1949-09-24,NaN,True,1949-09-24,NaN,71,NaN
+Robert Conti,Guitar,1945-11-21,NaN,True,1945-11-21,NaN,74,NaN
+Joyce Cooling,Guitar,1969-12-31,NaN,True,1969-12-31,NaN,50,NaN
+Larry Coryell,Guitar,1943-04-02,2017-02-19,False,1943-04-02,2017-02-19,73,Heart Failure
+Pete Cosey,Guitar,1943-10-09,2012-05-30,False,1943-10-09,2012-05-30,68,Surgery Complications
+Henri Crolla,Guitar,1920-02-26,1960-10-17,False,1920-02-26,1960-10-17,40,Cancer (Lung)
+Pierre Cullaz,Guitar,1935-07-21,2014-01-01,False,1935-07-21,2014-01-01,78,NaN
+Rudolf Dašek,Guitar,1933-08-27,2013-02-01,False,1933-08-27,2013-02-01,79,NaN
+Bill DeArango,Guitar,1921-09-20,2005-12-26,False,1921-09-20,2005-12-26,84,NaN
+Angelo Debarre,Guitar,1962-08-19,NaN,True,1962-08-19,NaN,58,NaN
+Al Di Meola,Guitar,1954-07-22,NaN,True,1954-07-22,NaN,66,NaN
+Joe Diorio,Guitar,1936-08-06,NaN,True,1936-08-06,NaN,84,NaN
+Diz Disley,Banjo,1931-05-27,2010-03-22,False,1931-05-27,2010-03-22,78,NaN
+Sacha Distel,Guitar,1933-01-29,2004-07-22,False,1933-01-29,2004-07-22,71,NaN
+Pat Donohue,Guitar,1953-04-28,NaN,True,1953-04-28,NaN,67,NaN
+Christy Doran,Guitar,1949-01-01,NaN,True,1949-01-01,NaN,71,NaN
+Pierre Dørge,Guitar,1946-02-28,NaN,True,1946-02-28,NaN,74,NaN
+Jim Douglas,Guitar,1942-05-13,NaN,True,1942-05-13,NaN,78,NaN
+Scott DuBois,Guitar,1978-04-27,NaN,True,1978-04-27,NaN,42,NaN
+Marc Ducret,Guitar,1957-08-19,NaN,True,1957-08-19,NaN,63,NaN
+Ted Dunbar,Guitar,1937-01-17,1998-05-29,False,1937-01-17,1998-05-29,61,Stroke
+Cornell Dupree,Guitar,1942-12-19,2011-05-08,False,1942-12-19,2011-05-08,68,Emphysema
+Eddie Duran,Guitar,1925-09-06,2019-11-22,False,1925-09-06,2019-11-22,94,NaN
+Eddie Durham,Guitar,1906-08-19,1987-03-06,False,1906-08-19,1987-03-06,80,NaN
+Jon Eberson,Guitar,1953-01-06,NaN,True,1953-01-06,NaN,67,NaN
+Herb Ellis,Guitar,1921-08-04,2010-03-28,False,1921-08-04,2010-03-28,88,Alzheimer's
+James Emery,Guitar,1951-12-21,NaN,True,1951-12-21,NaN,68,NaN
+Tommy Emmanuel,Guitar,1955-05-31,NaN,True,1955-05-31,NaN,65,NaN
+Ron Escheté,Guitar,1948-08-19,NaN,True,1948-08-19,NaN,72,NaN
+John Etheridge,Guitar,1948-01-12,NaN,True,1948-01-12,NaN,72,NaN
+Kevin Eubanks,Guitar,1957-11-15,NaN,True,1957-11-15,NaN,62,NaN
+Dalia Faitelson,Guitar,1966-12-14,NaN,True,1966-12-14,NaN,53,NaN
+Nelson Faria,Guitar,1963-03-23,NaN,True,1963-03-23,NaN,57,NaN
+Tal Farlow,Guitar,1921-06-07,1998-07-25,False,1921-06-07,1998-07-25,77,Cancer (Esophagus)
+Buzz Feiten,Guitar,1948-11-04,NaN,True,1948-11-04,NaN,71,NaN
+Nir Felder,Guitar,1982-12-30,NaN,True,1982-12-30,NaN,37,NaN
+Jim Ferguson,Guitar,1948-12-23,NaN,True,1948-12-23,NaN,71,NaN
+Boulou Ferré,Guitar,1951-04-24,NaN,True,1951-04-24,NaN,69,NaN
+Matelo Ferret,Guitar,1918-01-01,1989-01-24,False,1918-01-01,1989-01-24,70,Cancer
+Scott Fields,Guitar,1952-09-30,NaN,True,1952-09-30,NaN,68,NaN
+Carl Filipiak,Guitar,1950-09-17,NaN,True,1950-09-17,NaN,70,NaN
+Barry Finnerty,Guitar,1951-12-03,NaN,True,1951-12-03,NaN,68,NaN
+David Fiuczynski,Guitar,1964-03-05,NaN,True,1964-03-05,NaN,56,NaN
+Chris Flory,Guitar,1953-11-13,NaN,True,1953-11-13,NaN,66,NaN
+Robben Ford,Guitar,1951-12-16,NaN,True,1951-12-16,NaN,68,NaN
+Bruce Forman,Guitar,1956-05-14,NaN,True,1956-05-14,NaN,64,NaN
+Marc Fosset,Guitar,1949-05-17,NaN,True,1949-05-17,NaN,71,NaN
+Mimi Fox,Guitar,1956-08-24,NaN,True,1956-08-24,NaN,64,NaN
+George Freeman,Guitar,1927-04-10,NaN,True,1927-04-10,NaN,93,NaN
+Russ Freeman,Guitar,1960-02-11,NaN,True,1960-02-11,NaN,60,NaN
+Bill Frisell,Guitar,1951-03-18,NaN,True,1951-03-18,NaN,69,NaN
+Fred Frith,Guitar,1949-02-17,NaN,True,1949-02-17,NaN,71,NaN
+Al Gafa,Guitar,1941-04-09,NaN,True,1941-04-09,NaN,79,NaN
+Slim Gaillard,Vocals,1911-01-09,1991-02-26,False,1911-01-09,1991-02-26,80,Cancer
+Barry Galbraith,Guitar,1919-12-18,1983-01-13,False,1919-12-18,1983-01-13,63,Cancer
+Eric Gale,Guitar,1938-09-20,1994-05-25,False,1938-09-20,1994-05-25,55,Cancer (Lung)
+Frank Gambale,Guitar,1958-12-22,NaN,True,1958-12-22,NaN,61,NaN
+Oliver Gannon,Guitar,1943-03-23,NaN,True,1943-03-23,NaN,77,NaN
+Dick Garcia,Guitar,1931-05-11,NaN,True,1931-05-11,NaN,89,NaN
+Hank Garland,Guitar,1930-11-11,2004-12-27,False,1930-11-11,2004-12-27,74,Infection
+Arv Garrison,Guitar,1922-08-17,1960-07-30,False,1922-08-17,1960-07-30,37,Seizure
+Danny Gatton,Guitar,1945-09-04,1994-10-04,False,1945-09-04,1994-10-04,49,Suicide
+Grant Geissman,Guitar,1953-04-13,NaN,True,1953-04-13,NaN,67,NaN
+Eddie Gibbs,Guitar,1908-12-25,1994-11-12,False,1908-12-25,1994-11-12,85,NaN
+João Gilberto,Guitar,1931-06-10,2019-07-06,False,1931-06-10,2019-07-06,88,NaN
+David Gilmore,Guitar,1964-02-05,NaN,True,1964-02-05,NaN,56,NaN
+Egberto Gismonti,Guitar,1947-12-05,NaN,True,1947-12-05,NaN,72,NaN
+George Golla,Guitar,1935-05-10,NaN,True,1935-05-10,NaN,85,NaN
+Jeff Golub,Guitar,1955-04-15,2015-01-01,False,1955-04-15,2015-01-01,59,Brain Disease
+Mick Goodrick,Guitar,1945-06-09,NaN,True,1945-06-09,NaN,75,NaN
+Jimmy Gourley,Guitar,1926-06-09,2008-12-07,False,1926-06-09,2008-12-07,82,NaN
+Gismo Graf,Guitar,1992-10-01,NaN,True,1992-10-01,NaN,28,NaN
+Jack Grassel,Guitar,1948-09-03,NaN,True,1948-09-03,NaN,72,NaN
+Freddie Green,Guitar,1911-03-31,1987-03-01,False,1911-03-31,1987-03-01,75,Heart Attack
+Grant Green,Guitar,1935-06-06,1979-01-31,False,1935-06-06,1979-01-31,43,Heart Attack
+Ted Greene,Guitar,1946-09-26,2005-07-25,False,1946-09-26,2005-07-25,58,Heart Attack
+Sonny Greenwich,Guitar,1936-01-01,NaN,True,1936-01-01,NaN,84,NaN
+Michael Gregory,Guitar,1953-08-28,NaN,True,1953-08-28,NaN,67,NaN
+Tiny Grimes,Guitar,1916-07-07,1989-03-04,False,1916-07-07,1989-03-04,72,Meningitis
+Marty Grosz,Guitar,1930-02-28,NaN,True,1930-02-28,NaN,90,NaN
+George Guesnon,Guitar,1907-05-25,1968-05-06,False,1907-05-25,1968-05-06,60,NaN
+Rune Gustafsson,Guitar,1933-08-25,2012-06-15,False,1933-08-25,2012-06-15,78,Illness
+Fred Guy,Guitar,1897-05-23,1971-12-22,False,1897-05-23,1971-12-22,74,Suicide
+Jerry Hahn,Guitar,1940-09-21,NaN,True,1940-09-21,NaN,80,NaN
+Jim Hall,Guitar,1930-12-04,2013-12-10,False,1930-12-04,2013-12-10,83,Heart Failure
+René Hall,Guitar,1912-09-26,1988-02-11,False,1912-09-26,1988-02-11,75,Heart Disease
+Mary Halvorson,Guitar,1980-10-16,NaN,True,1980-10-16,NaN,39,NaN
+Fareed Haque,Guitar,1963-01-01,NaN,True,1963-01-01,NaN,57,NaN
+Bill Harris,Guitar,1925-04-14,1988-12-06,False,1925-04-14,1988-12-06,63,NaN
+Jerome Harris,Guitar,1953-04-05,NaN,True,1953-04-05,NaN,67,NaN
+Joel Harrison,Guitar,1957-07-27,NaN,True,1957-07-27,NaN,63,NaN
+Ken Hatfield,Guitar,1952-11-18,NaN,True,1952-11-18,NaN,67,NaN
+Scott Henderson,Guitar,1954-08-26,NaN,True,1954-08-26,NaN,66,NaN
+Al Hendrickson,Guitar,1920-05-10,2007-07-19,False,1920-05-10,2007-07-19,87,Heart Attack
+Steve Herberman,Guitar,1966-09-10,NaN,True,1966-09-10,NaN,54,NaN
+Jimmy Herring,Guitar,1962-01-22,NaN,True,1962-01-22,NaN,58,NaN
+Carl Hogan,Guitar,1917-10-15,1977-07-08,False,1917-10-15,1977-07-08,59,NaN
+Clarence Holiday,Guitar,1898-07-23,1937-03-01,False,1898-07-23,1937-03-01,38,Lung Disease
+Allan Holdsworth,Guitar,1946-08-06,2017-04-15,False,1946-08-06,2017-04-15,70,Heart Disease
+Toninho Horta,Guitar,1948-12-02,NaN,True,1948-12-02,NaN,71,NaN
+Brian Hughes,Guitar,1955-05-05,NaN,True,1955-05-05,NaN,65,NaN
+Charlie Hunter,Guitar,1967-05-23,NaN,True,1967-05-23,NaN,53,NaN
+Ike Isaacs,Guitar,1919-12-01,1996-01-11,False,1919-12-01,1996-01-11,76,NaN
+Enver Izmaylov,Guitar,1955-06-12,NaN,True,1955-06-12,NaN,65,NaN
+Ron Jackson,Guitar,1964-07-27,NaN,True,1964-07-27,NaN,56,NaN
+Maceo Jefferson,Guitar,1898-07-14,1974-06-15,False,1898-07-14,1974-06-15,75,NaN
+Billy Jenkins,Guitar,1956-07-05,NaN,True,1956-07-05,NaN,64,NaN
+Bill Jennings,Guitar,1919-09-12,1978-11-29,False,1919-09-12,1978-11-29,59,NaN
+Henry Johnson,Guitar,1954-01-28,NaN,True,1954-01-28,NaN,66,NaN
+Lonnie Johnson,Guitar,1899-02-08,1970-06-16,False,1899-02-08,1970-06-16,71,Car Accident
+Wayne Johnson,Guitar,1949-11-11,NaN,True,1949-11-11,NaN,70,NaN
+Randy Johnston,Guitar,1956-12-05,NaN,True,1956-12-05,NaN,63,NaN
+Rodney Jones,Guitar,1956-08-30,NaN,True,1956-08-30,NaN,64,NaN
+Ronny Jordan,Guitar,1962-11-29,2014-01-13,False,1962-11-29,2014-01-13,51,NaN
+Stanley Jordan,Guitar,1959-07-31,NaN,True,1959-07-31,NaN,61,NaN
+Steve Jordan,Guitar,1919-01-15,1993-09-13,False,1919-01-15,1993-09-13,74,NaN
+John Jorgenson,Vocals,1956-07-06,NaN,True,1956-07-06,NaN,64,NaN
+Vic Juris,Guitar,1953-09-26,2019-12-31,False,1953-09-26,2019-12-31,66,NaN
+Henry Kaiser,Guitar,1952-09-19,NaN,True,1952-09-19,NaN,68,NaN
+Ryo Kawasaki,Guitar,1947-02-25,2020-04-13,False,1947-02-25,2020-04-13,73,NaN
+Louis Keppard,Guitar,1888-02-02,1986-02-18,False,1888-02-02,1986-02-18,98,NaN
+Barney Kessel,Guitar,1923-10-17,2004-05-06,False,1923-10-17,2004-05-06,80,Cancer (Brain)
+Calvin Keys,Guitar,1943-02-06,NaN,True,1943-02-06,NaN,77,NaN
+Steve Khan,Guitar,1947-04-28,NaN,True,1947-04-28,NaN,73,NaN
+Earl Klugh,Guitar,1953-09-16,NaN,True,1953-09-16,NaN,67,NaN
+Carl Kress,Guitar,1907-10-20,1965-06-10,False,1907-10-20,1965-06-10,57,Heart Attack
+Uwe Kropinski,Guitar,1952-02-20,NaN,True,1952-02-20,NaN,68,NaN
+Aleksey Kuznetsov,Guitar,1941-09-06,NaN,True,1941-09-06,NaN,79,NaN
+Allen Kwela,Guitar,1939-09-11,2003-07-01,False,1939-09-11,2003-07-01,81,NaN
+Fapy Lafertin,Guitar,1950-11-20,NaN,True,1950-11-20,NaN,69,NaN
+Julian Lage,Guitar,1987-12-25,NaN,True,1987-12-25,NaN,32,NaN
+Biréli Lagrène,Guitar,1966-09-04,NaN,True,1966-09-04,NaN,54,NaN
+Nappy Lamare,Guitar,1905-06-14,1988-05-08,False,1905-06-14,1988-05-08,82,NaN
+Eddie Lang,Guitar,1902-10-25,1933-03-26,False,1902-10-25,1933-03-26,30,Surgery Complications
+Jon Larsen,Guitar,1959-01-07,NaN,True,1959-01-07,NaN,61,NaN
+Attila László,Guitar,1953-07-10,NaN,True,1953-07-10,NaN,67,NaN
+Nguyên Lê,Guitar,1959-01-14,NaN,True,1959-01-14,NaN,61,NaN
+Harry Leahey,Guitar,1935-09-01,1990-08-12,False,1935-09-01,1990-08-12,54,Cancer (Colon)
+Phil Lee,Guitar,1943-04-08,NaN,True,1943-04-08,NaN,77,NaN
+Peter Leitch,Guitar,1944-08-19,NaN,True,1944-08-19,NaN,76,NaN
+Adam Levy,Guitar,1966-11-27,NaN,True,1966-11-27,NaN,53,NaN
+O'Donel Levy,Guitar,1945-09-20,2016-03-14,False,1945-09-20,2016-03-14,70,NaN
+Vic Lewis,Guitar,1919-07-29,2009-02-09,False,1919-07-29,2009-02-09,89,NaN
+Arto Lindsay,Guitar,1953-05-28,NaN,True,1953-05-28,NaN,67,NaN
+Rudy Linka,Guitar,1960-05-29,NaN,True,1960-05-29,NaN,60,NaN
+Jeff Linsky,Guitar,1952-04-12,NaN,True,1952-04-12,NaN,68,NaN
+Ulysses Livingston,Guitar,1912-01-29,1988-10-07,False,1912-01-29,1988-10-07,76,NaN
+Chuck Loeb,Guitar,1955-12-07,2017-07-31,False,1955-12-07,2017-07-31,61,Cancer
+Lorne Lofsky,Guitar,1954-05-10,NaN,True,1954-05-10,NaN,66,NaN
+Lionel Loueke,Guitar,1973-04-27,NaN,True,1973-04-27,NaN,47,NaN
+Mundell Lowe,Guitar,1922-04-21,2017-12-02,False,1922-04-21,2017-12-02,95,NaN
+Sylvain Luc,Guitar,1965-04-07,NaN,True,1965-04-07,NaN,55,NaN
+Nick Lucas,Guitar,1897-08-22,1982-07-28,False,1897-08-22,1982-07-28,84,Pneumonia
+Reggie Lucas,Guitar,1953-02-25,2018-05-19,False,1953-02-25,2018-05-19,65,Heart Disease
+Lawrence Lucie,Guitar,1907-12-18,2009-08-14,False,1907-12-18,2009-08-14,101,NaN
+Lage Lund,Guitar,1978-12-12,NaN,True,1978-12-12,NaN,41,NaN
+René Lussier,Guitar,1957-04-15,NaN,True,1957-04-15,NaN,63,NaN
+Jo David Meyer Lysne,Guitar,1994-04-09,NaN,True,1994-04-09,NaN,26,NaN
+Alex Machacek,Guitar,1972-07-01,NaN,True,1972-07-01,NaN,48,NaN
+Billy Mackel,Guitar,1912-12-28,1986-05-05,False,1912-12-28,1986-05-05,73,NaN
+Ivor Mairants,Guitar,1908-07-18,1998-02-20,False,1908-07-18,1998-02-20,89,NaN
+Russell Malone,Guitar,1963-11-08,NaN,True,1963-11-08,NaN,56,NaN
+Jack Marshall,Guitar,1921-11-23,1973-09-20,False,1921-11-23,1973-09-20,51,NaN
+Pat Martino,Guitar,1944-08-25,NaN,True,1944-08-25,NaN,76,NaN
+Steve Masakowski,Guitar,1954-09-02,NaN,True,1954-09-02,NaN,66,NaN
+Carmen Mastren,Guitar,1913-10-06,1981-03-31,False,1913-10-06,1981-03-31,68,Heart Attack
+Rick Matle,Guitar,1963-07-06,NaN,True,1963-07-06,NaN,57,NaN
+Dick McDonough,Guitar,1904-07-30,1938-05-25,False,1904-07-30,1938-05-25,34,Pneumonia
+Eddie McFadden,Guitar,1928-08-06,1992-09-23,False,1928-08-06,1992-09-23,64,NaN
+John McLaughlin,Guitar,1942-01-04,NaN,True,1942-01-04,NaN,78,NaN
+Jimmy McLin,Guitar,1908-06-26,1983-12-15,False,1908-06-26,1983-12-15,74,NaN
+Richard McPartland,Guitar,1905-05-18,1957-11-30,False,1905-05-18,1957-11-30,52,NaN
+Coleman Mellett,Guitar,1974-05-27,2009-02-12,False,1974-05-27,2009-02-12,34,Plane Accident
+Pat Metheny,Guitar,1954-08-12,NaN,True,1954-08-12,NaN,66,NaN
+Rale Micic,Guitar,1975-10-09,NaN,True,1975-10-09,NaN,44,NaN
+Chieli Minucci,Guitar,1958-04-17,NaN,True,1958-04-17,NaN,62,NaN
+Roman Miroshnichenko,Guitar,1977-06-04,NaN,True,1977-06-04,NaN,43,NaN
+Ben Monder,Guitar,1962-05-24,NaN,True,1962-05-24,NaN,58,NaN
+Wes Montgomery,Guitar,1923-03-06,1968-06-15,False,1923-03-06,1968-06-15,45,Heart Attack
+Oscar Moore,Guitar,1916-12-25,1981-10-08,False,1916-12-25,1981-10-08,64,Heart Attack
+Mike Moreno,Guitar,1978-10-08,NaN,True,1978-10-08,NaN,41,NaN
+Joe Morris,Guitar,1955-09-13,NaN,True,1955-09-13,NaN,65,NaN
+Tony Mottola,Guitar,1918-04-18,2004-08-09,False,1918-04-18,2004-08-09,86,NaN
+Ronald Muldrow,Guitar,1949-02-02,2007-01-31,False,1949-02-02,2007-01-31,57,NaN
+Jim Mullen,Guitar,1945-11-26,NaN,True,1945-11-26,NaN,74,NaN
+Tisziji Munoz,Guitar,1946-07-15,NaN,True,1946-07-15,NaN,74,NaN
+Doug Munro,Guitar,1953-07-09,NaN,True,1953-07-09,NaN,67,NaN
+Wolfgang Muthspiel,Guitar,1965-03-02,NaN,True,1965-03-02,NaN,55,NaN
+Randy Napoleon,Guitar,1978-05-30,NaN,True,1978-05-30,NaN,42,NaN
+Ken Navarro,Guitar,1953-06-09,NaN,True,1953-06-09,NaN,67,NaN
+Joe Negri,Guitar,1926-06-10,NaN,True,1926-06-10,NaN,94,NaN
+Calvin Newborn,Guitar,1933-04-27,2018-12-01,False,1933-04-27,2018-12-01,85,NaN
+Bern Nix,Guitar,1947-09-21,2017-05-31,False,1947-09-21,2017-05-31,69,NaN
+Robert Normann,Guitar,1916-06-27,1998-05-20,False,1916-06-27,1998-05-20,81,NaN
+Ray Norris,Guitar,1916-01-01,1958-12-21,False,1916-01-01,1958-12-21,42,NaN
+Andreas Öberg,Guitar,1978-08-06,NaN,True,1978-08-06,NaN,42,NaN
+Ray Obiedo,Guitar,1952-01-27,NaN,True,1952-01-27,NaN,68,NaN
+Jordan Officer,Guitar,1976-01-29,NaN,True,1976-01-29,NaN,44,NaN
+Steve Oliver,Guitar,1964-08-14,NaN,True,1964-08-14,NaN,56,NaN
+Mary Osborne,Guitar,1921-07-17,1992-03-04,False,1921-07-17,1992-03-04,70,Mesothelioma
+Wim Overgaauw,Guitar,1929-11-23,1995-11-30,False,1929-11-23,1995-11-30,66,NaN
+Remo Palmier,Guitar,1923-03-29,2002-02-02,False,1923-03-29,2002-02-02,78,Leukemia
+Jeff Parker,Guitar,1967-04-04,NaN,True,1967-04-04,NaN,53,NaN
+John Parricelli,Guitar,1959-04-05,NaN,True,1959-04-05,NaN,61,NaN
+Joe Pass,Guitar,1929-01-13,1994-05-23,False,1929-01-13,1994-05-23,65,Cancer (Liver)
+Rosa Passos,Guitar,1952-04-13,NaN,True,1952-04-13,NaN,68,NaN
+Ralph Patt,Guitar,1929-12-05,2010-10-06,False,1929-12-05,2010-10-06,80,Cancer (Kidney)
+Les Paul,Vocals,1915-06-09,2009-08-12,False,1915-06-09,2009-08-12,94,Pneumonia
+Oscar Peñas,Guitar,1972-08-13,NaN,True,1972-08-13,NaN,48,NaN
+Jack Petersen,Guitar,1933-10-25,NaN,True,1933-10-25,NaN,86,NaN
+Reynold Philipsek,Guitar,1952-12-08,NaN,True,1952-12-08,NaN,67,NaN
+John Pisano,Guitar,1931-02-06,NaN,True,1931-02-06,NaN,89,NaN
+Bill Pitman,Guitar,1920-02-12,NaN,True,1920-02-12,NaN,100,NaN
+Bucky Pizzarelli,Guitar,1926-01-09,2020-04-01,False,1926-01-09,2020-04-01,94,COVID-19
+John Pizzarelli,Guitar,1960-04-06,NaN,True,1960-04-06,NaN,60,NaN
+Jimmy Ponder,Guitar,1946-05-10,2013-09-16,False,1946-05-10,2013-09-16,67,Cancer (Lung)
+Kenny Poole,Guitar,1947-01-01,2006-05-27,False,1947-01-01,2006-05-27,73,NaN
+Baden Powell,Guitar,1937-08-06,2000-09-26,False,1937-08-06,2000-09-26,63,Pneumonia
+Jeanfrançois Prins,Guitar,1967-02-18,NaN,True,1967-02-18,NaN,53,NaN
+Joe Puma,Guitar,1927-08-13,2000-05-31,False,1927-08-13,2000-05-31,72,NaN
+Snoozer Quinn,Guitar,1907-01-01,1949-04-21,False,1907-01-01,1949-04-21,42,Tuberculosis
+Adam Rafferty,Guitar,1969-01-26,NaN,True,1969-01-26,NaN,51,NaN
+Doug Raney,Guitar,1956-08-29,2016-05-01,False,1956-08-29,2016-05-01,59,Heart Failure
+Jimmy Raney,Guitar,1927-08-20,1995-05-09,False,1927-08-20,1995-05-09,67,Heart Failure
+Ernest Ranglin,Guitar,1932-06-19,NaN,True,1932-06-19,NaN,88,NaN
+Hans Reichel,Guitar,1949-05-10,2011-11-22,False,1949-05-10,2011-11-22,62,NaN
+Babik Reinhardt,Guitar,1944-06-08,2001-11-12,False,1944-06-08,2001-11-12,57,Heart Attack
+Django Reinhardt,Guitar,1910-01-23,1953-05-16,False,1910-01-23,1953-05-16,43,Brain Hemorrhage
+Joseph Reinhardt,Guitar,1912-03-01,1982-02-07,False,1912-03-01,1982-02-07,69,NaN
+Lousson Reinhardt,Guitar,1929-01-01,1992-01-01,False,1929-01-01,1992-01-01,63,NaN
+Nitcho Reinhardt,Guitar,1988-04-22,NaN,True,1988-04-22,NaN,32,NaN
+Emily Remler,Guitar,1957-09-18,1990-05-04,False,1957-09-18,1990-05-04,32,Heart Failure
+Allan Reuss,Guitar,1915-06-15,1988-06-04,False,1915-06-15,1988-06-04,72,NaN
+Alvino Rey,Guitar,1908-07-01,2004-02-24,False,1908-07-01,2004-02-24,95,Heart Failure
+Marc Ribot,Guitar,1954-05-21,NaN,True,1954-05-21,NaN,66,NaN
+Lee Ritenour,Guitar,1951-01-11,NaN,True,1951-01-11,NaN,69,NaN
+Howard Roberts,Guitar,1929-10-02,1992-06-28,False,1929-10-02,1992-06-28,62,Cancer (Prostate)
+Duke Robillard,Guitar,1948-10-04,NaN,True,1948-10-04,NaN,72,NaN
+Jimmy Rosenberg,Guitar,1980-04-10,NaN,True,1980-04-10,NaN,40,NaN
+Stochelo Rosenberg,Guitar,1968-02-19,NaN,True,1968-02-19,NaN,52,NaN
+Kurt Rosenwinkel,Guitar,1970-10-28,NaN,True,1970-10-28,NaN,49,NaN
+Ray Russell,Guitar,1947-04-04,NaN,True,1947-04-04,NaN,73,NaN
+Art Ryerson,Guitar,1913-05-22,2004-10-27,False,1913-05-22,2004-10-27,91,NaN
+Terje Rypdal,Guitar,1947-08-23,NaN,True,1947-08-23,NaN,73,NaN
+Michael Sagmeister,Guitar,1959-07-27,NaN,True,1959-07-27,NaN,61,NaN
+Luis Salinas,Guitar,1957-06-24,NaN,True,1957-06-24,NaN,63,NaN
+Dennis Sandole,Guitar,1913-09-29,2000-09-30,False,1913-09-29,2000-09-30,87,NaN
+Gray Sargent,Guitar,1953-06-10,NaN,True,1953-06-10,NaN,67,NaN
+Paulus Schäfer,Guitar,1978-03-31,NaN,True,1978-03-31,NaN,42,NaN
+Dorado Schmitt,Guitar,1957-05-29,NaN,True,1957-05-29,NaN,63,NaN
+Diknu Schneeberger,Guitar,1990-01-17,NaN,True,1990-01-17,NaN,30,NaN
+Thornel Schwartz,Guitar,1927-05-29,1977-12-30,False,1927-05-29,1977-12-30,50,NaN
+John Scofield,Guitar,1951-12-26,NaN,True,1951-12-26,NaN,68,NaN
+Bud Scott,Guitar,1890-01-11,1949-07-02,False,1890-01-11,1949-07-02,59,Stroke
+Bola Sete,Guitar,1923-07-16,1987-02-14,False,1923-07-16,1987-02-14,63,Cancer (Lung)
+Brian Setzer,Guitar,1959-04-10,NaN,True,1959-04-10,NaN,61,NaN
+Eldon Shamblin,Guitar,1916-04-24,1998-08-05,False,1916-04-24,1998-08-05,82,NaN
+Elliott Sharp,Guitar,1951-03-01,NaN,True,1951-03-01,NaN,69,NaN
+Sonny Sharrock,Guitar,1940-08-27,1994-05-25,False,1940-08-27,1994-05-25,53,Heart Attack
+Brad Shepik,Guitar,1966-02-13,NaN,True,1966-02-13,NaN,54,NaN
+Jimmy Shirley,Guitar,1913-05-31,1989-12-03,False,1913-05-31,1989-12-03,76,NaN
+Roy Smeck,Guitar,1900-02-06,1994-04-05,False,1900-02-06,1994-04-05,94,NaN
+Jarek ?mietana,Guitar,1951-03-29,2013-09-02,False,1951-03-29,2013-09-02,62,NaN
+Floyd Smith,Guitar,1917-01-25,1982-03-29,False,1917-01-25,1982-03-29,65,NaN
+Johnny Smith,Guitar,1922-06-25,2013-06-11,False,1922-06-25,2013-06-11,90,Fall
+Terry Smith,Guitar,1943-05-20,NaN,True,1943-05-20,NaN,77,NaN
+Ferenc Snétberger,Guitar,1957-02-06,NaN,True,1957-02-06,NaN,63,NaN
+Fabrizio Sotti,Guitar,1975-04-27,NaN,True,1975-04-27,NaN,45,NaN
+Les Spann,Guitar,1932-05-23,1989-01-24,False,1932-05-23,1989-01-24,56,NaN
+Melvin Sparks,Guitar,1946-03-22,2011-03-15,False,1946-03-22,2011-03-15,64,Diabetes
+Russ Spiegel,Guitar,1962-03-30,NaN,True,1962-03-30,NaN,58,NaN
+Peter Sprague,Guitar,1955-10-11,NaN,True,1955-10-11,NaN,64,NaN
+Chris Standring,Guitar,1960-12-01,NaN,True,1960-12-01,NaN,59,NaN
+Joscho Stephan,Guitar,1979-06-23,NaN,True,1979-06-23,NaN,41,NaN
+Leni Stern,Guitar,1952-04-28,NaN,True,1952-04-28,NaN,68,NaN
+Mike Stern,Guitar,1953-01-10,NaN,True,1953-01-10,NaN,67,NaN
+Jimmy Stewart,Guitar,1937-09-08,NaN,True,1937-09-08,NaN,83,NaN
+Louis Stewart,Guitar,1944-01-05,2016-08-20,False,1944-01-05,2016-08-20,72,NaN
+John Stowell,Guitar,1950-07-30,NaN,True,1950-07-30,NaN,70,NaN
+Dave Stryker,Guitar,1957-03-30,NaN,True,1957-03-30,NaN,63,NaN
+Rory Stuart,Guitar,1956-01-09,NaN,True,1956-01-09,NaN,64,NaN
+Monnette Sudler,Guitar,1952-06-05,NaN,True,1952-06-05,NaN,68,NaN
+Andy Summers,Guitar,1942-12-31,NaN,True,1942-12-31,NaN,77,NaN
+Nelson Symonds,Guitar,1933-09-24,2008-10-11,False,1933-09-24,2008-10-11,75,Heart Attack
+Gábor Szabó,Guitar,1936-03-08,1982-02-26,False,1936-03-08,1982-02-26,45,NaN
+Martin Taylor,Guitar,1956-10-20,NaN,True,1956-10-20,NaN,63,NaN
+Tommy Tedesco,Guitar,1930-07-03,1997-11-10,False,1930-07-03,1997-11-10,67,Cancer (Lung)
+Sister Rosetta Tharpe,Vocals,1915-03-20,1973-10-09,False,1915-03-20,1973-10-09,58,Stroke
+Toots Thielemans,Guitar,1922-04-29,2016-08-22,False,1922-04-29,2016-08-22,94,NaN
+René Thomas,Guitar,1927-02-25,1975-01-03,False,1927-02-25,1975-01-03,47,Heart Attack
+Jukka Tolonen,Guitar,1952-04-16,NaN,True,1952-04-16,NaN,68,NaN
+David Torn,Guitar,1953-05-26,NaN,True,1953-05-26,NaN,67,NaN
+Roberto Tola,Guitar,1966-08-05,NaN,True,1966-08-05,NaN,54,NaN
+Ralph Towner,Guitar,1940-03-01,NaN,True,1940-03-01,NaN,80,NaN
+David Tronzo,Guitar,1957-12-13,NaN,True,1957-12-13,NaN,62,NaN
+John Tropea,Guitar,1946-01-07,NaN,True,1946-01-07,NaN,74,NaN
+James Blood Ulmer,Guitar,1940-02-08,NaN,True,1940-02-08,NaN,80,NaN
+Phil Upchurch,Guitar,1941-07-19,NaN,True,1941-07-19,NaN,79,NaN
+George Van Eps,Guitar,1913-08-07,1998-11-29,False,1913-08-07,1998-11-29,85,Pneumonia
+Jesse van Ruller,Guitar,1972-01-21,NaN,True,1972-01-21,NaN,48,NaN
+Rick Vandivier,Guitar,1954-10-18,NaN,True,1954-10-18,NaN,65,NaN
+Frank Vignola,Guitar,1965-12-30,NaN,True,1965-12-30,NaN,54,NaN
+Al Viola,Guitar,1919-06-16,2007-02-21,False,1919-06-16,2007-02-21,87,Cancer
+Harry Volpe,Guitar,1904-04-07,1995-01-16,False,1904-04-07,1995-01-16,90,NaN
+Ulf Wakenius,Guitar,1958-04-16,NaN,True,1958-04-16,NaN,62,NaN
+Mike Walker,Guitar,1962-07-10,NaN,True,1962-07-10,NaN,58,NaN
+Leonard Ware,Guitar,1909-12-28,1974-03-30,False,1909-12-28,1974-03-30,64,NaN
+Kazumi Watanabe,Guitar,1953-10-14,NaN,True,1953-10-14,NaN,66,NaN
+Chuck Wayne,Guitar,1923-02-27,1997-07-29,False,1923-02-27,1997-07-29,74,Emphysema
+Lloyd Wells,Guitar,1938-04-22,NaN,True,1938-04-22,NaN,82,NaN
+Peter White,Guitar,1954-09-20,NaN,True,1954-09-20,NaN,66,NaN
+Mark Whitfield,Guitar,1966-10-06,NaN,True,1966-10-06,NaN,54,NaN
+Jack Wilkins,Guitar,1944-06-04,NaN,True,1944-06-04,NaN,76,NaN
+Staffan William-Olsson,Guitar,1959-12-13,NaN,True,1959-12-13,NaN,60,NaN
+Anthony Wilson,Guitar,1968-05-09,NaN,True,1968-05-09,NaN,52,NaN
+Stephane Wrembel,Guitar,1974-02-27,NaN,True,1974-02-27,NaN,46,NaN
+Denny Wright,Guitar,1924-05-06,1992-02-08,False,1924-05-06,1992-02-08,67,Cancer (Bladder)
+Jimmy Wyble,Guitar,1922-01-25,2010-01-16,False,1922-01-25,2010-01-16,87,NaN
+Attila Zoller,Guitar,1927-06-13,1998-01-25,False,1927-06-13,1998-01-25,70,NaN
