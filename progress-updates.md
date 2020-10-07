@@ -21,4 +21,5 @@
 
 **10/6/20:**
 - Added webscraper and csv files for guitarists into jazz-guitarist-files
+- Added cleaned csv file for percussionists
 
