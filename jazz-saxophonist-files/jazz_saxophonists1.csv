@@ -1,0 +1,540 @@
+artist,instrument,birthdate,deathdate,alive,bday_dt,dday_dt,age_yrs
+Frøy Aagre,Tenor,1977-06-08,NaN,True,1977-06-08,,43.0
+Mindi Abair,Vocals,1969,NaN,True,1969-01-01,,51.0
+Greg Abate,Alto saxophone,1947-05-31,NaN,True,1947-05-31,,73.0
+George Adams,Tenor saxophone,1940-04-29,1992-11-14,False,1940-04-29,1992-11-14,52.0
+Pepper Adams,Baritone saxophone,1930-10-08,1986-09-10,False,1930-10-08,1986-09-10,55.0
+"Julian ""Cannonball"" Adderley",Alto saxophone,1928-09-15,1975-08-08,False,1928-09-15,1975-08-08,46.0
+Ahmad Alaadeen,Soprano saxophone,1934,2010,False,1934-01-01,2010-01-01,76.0
+Gerald Albright,Saxophone,1957-08-30,NaN,True,1957-08-30,,63.0
+Eric Alexander,Saxophone,1968-08-04,NaN,True,1968-08-04,,52.0
+Gene Allen,Baritone saxophone,1928,2008,False,1928-01-01,2008-01-01,80.0
+Harry Allen,Saxophone,1966-10-12,NaN,True,1966-10-12,,53.0
+Pete Allen,Clarinet,1954-11-23,NaN,True,1954-11-23,,65.0
+Sophie Alour,Tenor saxophone,1974-12-24,NaN,True,1974-12-24,,45.0
+Gene Ammons,Tenor saxophone,1925-04-14,1974-08-06,False,1925-04-14,1974-08-06,49.0
+Curtis Amy,Saxophone,1929-10-11,2002-06-05,False,1929-10-11,2002-06-05,72.0
+Fred Anderson,Saxophone,1929-03-22,2010-06-24,False,1929-03-22,2010-06-24,81.0
+Wessell Anderson,Saxophone,1964,NaN,True,1964-01-01,,56.0
+Peter Apfelbaum,Tenor saxophone,1960-08-21,NaN,True,1960-08-21,,60.0
+Julian Argüelles,Saxophone,1966-01-28,NaN,True,1966-01-28,,54.0
+Harold Ashby,Tenor saxophone,1925,2003,False,1925-01-01,2003-01-01,78.0
+Gilad Atzmon,Alto saxophone,1963,NaN,True,1963-01-01,,57.0
+Georgie Auld,Saxophone,1919-05-19,1990-01-08,False,1919-05-19,1990-01-08,70.0
+Albert Ayler,Tenor saxophone,1936-07-13,1970-11-25,False,1936-07-13,1970-11-25,34.0
+Buster Bailey,Clarinet,1902-07-19,1967-08-12,False,1902-07-19,1967-08-12,65.0
+Erik Balke,Saxophone,1953-11-07,NaN,True,1953-11-07,,66.0
+Iain Ballamy,Soprano,1964-02-20,NaN,True,1964-02-20,,56.0
+Pat LaBarbera,Tenor saxophone,1944-04-07,NaN,True,1944-04-07,,76.0
+Gato Barbieri,Tenor saxophone,1932-11-28,2016-04-02,False,1932-11-28,2016-04-02,83.0
+Eddie Barefield,Saxophone,1909-12-12,1991-01-04,False,1909-12-12,1991-01-04,81.0
+Gabe Baltazar,Saxophone,1929-11-01,NaN,True,1929-11-01,,90.0
+Dale Barlow,Tenor saxophone,1959,NaN,True,1959-01-01,,61.0
+Carolyn Breuer,Saxophone,1969-07-04,NaN,True,1969-07-04,,51.0
+Alan Barnes,Clarinet,1959-07-23,NaN,True,1959-07-23,,61.0
+Bootsie Barnes,Tenor saxophone,1937,NaN,True,1937-01-01,,83.0
+John Barnes,Saxophone,1932-05-15,NaN,True,1932-05-15,,88.0
+Polo Barnes,Alto saxophone,1901,1981,False,1901-01-01,1981-01-01,80.0
+Charlie Barnet,Saxophone,1913-10-26,1991-09-04,False,1913-10-26,1991-09-04,77.0
+Kjell Bartholdsen,Tenor saxophone,1938-10-02,2009-11-06,False,1938-10-02,2009-11-06,71.0
+Gary Bartz,Saxophone,1940-09-26,NaN,True,1940-09-26,,80.0
+Mario Bauzá,Clarinet,1911-04-28,1993-07-11,False,1911-04-28,1993-07-11,82.0
+Walter Beasley,Soprano saxophone,1961-05-24,NaN,True,1961-05-24,,59.0
+Sidney Bechet,Clarinet,1897-05-14,1959-05-14,False,1897-05-14,1959-05-14,61.0
+Jay Beckenstein,Saxophone,1951-05-14,NaN,True,1951-05-14,,69.0
+Noah Becker,Alto saxophone,1970,NaN,True,1970-01-01,,50.0
+Bob Belden,Saxophone,1956-10-31,2015-05-20,False,1956-10-31,2015-05-20,58.0
+Tex Beneke,Saxophone,1914-02-12,2000-05-30,False,1914-02-12,2000-05-30,86.0
+Daniel Bennett,Saxophone,1979-11-27,NaN,True,1979-11-27,,40.0
+Eli Bennett,Tenor saxophone,1989-03-09,NaN,True,1989-03-09,,31.0
+Ivy Benson,Alto saxophone,1913-11-11,1993-05-06,False,1913-11-11,1993-05-06,79.0
+Bob Berg,Saxophone,1951-04-07,2002-12-05,False,1951-04-07,2002-12-05,51.0
+Totti Bergh,Tenor saxophone,1935-12-05,2012-01-04,False,1935-12-05,2012-01-04,76.0
+Kristian Bergheim,Tenor saxophone,1926-06-06,2010-05-30,False,1926-06-06,2010-05-30,83.0
+Jerry Bergonzi,Tenor saxophone,1947-10-21,NaN,True,1947-10-21,,72.0
+Tim Berne,Saxophone,1954-10-16,NaN,True,1954-10-16,,65.0
+Chu Berry,Tenor saxophone,1908-09-13,1941-10-30,False,1908-09-13,1941-10-30,33.0
+Barney Bigard,Clarinet,1906-03-03,1980-06-27,False,1906-03-03,1980-06-27,74.0
+David Binney,Saxophone,1961-08-02,NaN,True,1961-08-02,,59.0
+Chris Biscoe,Saxophone,1947-02-05,NaN,True,1947-02-05,,73.0
+Alfonzo Blackwell,Alfonzo blackwell  saxophone,1971-02-22,NaN,True,1971-02-22,,49.0
+Ron Blake,Saxophone,1965-09-07,NaN,True,1965-09-07,,55.0
+Seamus Blake,Saxophone,1970-12-08,NaN,True,1970-12-08,,49.0
+Walter Blanding,Tenor saxophone,1971-08-14,NaN,True,1971-08-14,,49.0
+Jane Ira Bloom,soprano saxophone,1955-01-12,NaN,True,1955-01-12,,65.0
+Hamiet Bluiett,Saxophone,1940-09-16,2018-10-04,False,1940-09-16,2018-10-04,78.0
+Arthur Blythe,Alto saxophone,1940-07-05,2017-03-27,False,1940-07-05,2017-03-27,76.0
+Céline Bonacina,Baritone saxophone,1975,NaN,True,1975-01-01,,45.0
+Graham Bond,Keyboards,1937-10-28,1974-05-08,False,1937-10-28,1974-05-08,36.0
+Earl Bostic,Alto saxophone,1913-04-25,1965-10-28,False,1913-04-25,1965-10-28,52.0
+Ralph Bowen,Tenor saxophone,1961-12-24,NaN,True,1961-12-24,,58.0
+Charles Brackeen,Saxophone,1940-03-13,NaN,True,1940-03-13,,80.0
+Don Braden,Tenor saxophone,1963-11-20,NaN,True,1963-11-20,,56.0
+Anthony Braxton,Saxophone,1945-06-04,NaN,True,1945-06-04,,75.0
+Michael Brecker,Tenor saxophone,1949-03-29,2007-01-13,False,1949-03-29,2007-01-13,57.0
+Willem Breuker,Saxophone,1944-11-04,2010-07-23,False,1944-11-04,2010-07-23,65.0
+Nick Brignola,Saxophone,1936-07-17,2002-02-08,False,1936-07-17,2002-02-08,65.0
+Gordon Brisker,Saxophone,1937-11-06,2004-09-10,False,1937-11-06,2004-09-10,66.0
+Tina Brooks,Tenor saxophone,1932-06-07,1974-08-13,False,1932-06-07,1974-08-13,42.0
+Peter Brötzmann,Tenor saxophone,1941-03-06,NaN,True,1941-03-06,,79.0
+Ari Brown,Tenor saxophone,1944,NaN,True,1944-01-01,,76.0
+Boyce Brown,Alto saxophone,1910-04-16,1959-01-30,False,1910-04-16,1959-01-30,48.0
+Pete Brown,Saxophone,1906-11-09,1963-09-20,False,1906-11-09,1963-09-20,56.0
+Marion Brown,Alto saxophone,1931-09-08,2010-10-18,False,1931-09-08,2010-10-18,79.0
+YolanDa Brown,Tenor,1982,NaN,True,1982-01-01,,38.0
+Tore Brunborg,Saxophone,1960-05-20,NaN,True,1960-05-20,,60.0
+Rusty Bryant,Alto saxophone,1929,1991,False,1929-01-01,1991-01-01,61.0
+Jane Bunnett,Soprano saxophone,1956-10-22,NaN,True,1956-10-22,,63.0
+Chris Burnett,alto saxophone,1955-11-02,NaN,True,1955-11-02,,64.0
+John Butcher,Saxophone,1954-10-25,NaN,True,1954-10-25,,65.0
+Sam Butera,Tenor saxophone,1927-08-17,2009-06-03,False,1927-08-17,2009-06-03,81.0
+Igor Butman,Tenor saxophone,1961-10-27,NaN,True,1961-10-27,,58.0
+Don Byas,Tenor saxophone,1912-10-21,1972-08-24,False,1912-10-21,1972-08-24,59.0
+Ed Calle,Saxophone,1959,NaN,True,1959-01-01,,61.0
+Harry Carney,baritone saxophone,1910-04-01,1974-10-08,False,1910-04-01,1974-10-08,64.0
+Scoops Carry,Alto saxophone,1915,1970,False,1915-01-01,1970-01-01,55.0
+Benny Carter,Saxophone,1907-08-08,2003-07-12,False,1907-08-08,2003-07-12,95.0
+James Carter,Bass clarinet,1969-01-03,NaN,True,1969-01-03,,51.0
+Luciano Caruso,Soprano saxophone,1944,NaN,True,1944-01-01,,76.0
+Fabrizio Cassol,Saxophone,1964-06-08,NaN,True,1964-06-08,,56.0
+Serge Chaloff,Baritone saxophone,1923-11-24,1957-07-16,False,1923-11-24,1957-07-16,33.0
+Chris Cheek,Saxophone,1968-09-16,NaN,True,1968-09-16,,52.0
+Pete Christlieb,Saxophone,1945-02-16,NaN,True,1945-02-16,,75.0
+Jeff Clayton,Alto saxophone,1954,NaN,True,1954-01-01,,66.0
+Arnett Cobb,Tenor saxophone,1918-08-10,1989-03-24,False,1918-08-10,1989-03-24,70.0
+Tony Coe,Clarinet,1934-11-29,NaN,True,1934-11-29,,85.0
+Jeff Coffin,Saxophone,1965-08-05,NaN,True,1965-08-05,,55.0
+Anat Cohen,Clarinet,1975,NaN,True,1975-01-01,,45.0
+Al Cohn,Tenor saxophone,1925-11-24,1988-02-15,False,1925-11-24,1988-02-15,62.0
+Richie Cole,Saxophone,1948-02-29,2020-05-02,False,1948-02-29,2020-05-02,72.0
+Steve Cole,Saxophone,1970-08-17,NaN,True,1970-08-17,,50.0
+George Coleman,Saxophone,1935-03-08,NaN,True,1935-03-08,,85.0
+Ornette Coleman,Alto saxophone,1930-03-09,2015-06-11,False,1930-03-09,2015-06-11,85.0
+Steve Coleman,Saxophone,1956-09-20,NaN,True,1956-09-20,,64.0
+Buddy Collette,Flute,1921-08-06,2010-09-19,False,1921-08-06,2010-09-19,89.0
+John Coltrane,Tenor saxophone,1926-09-23,1967-07-17,False,1926-09-23,1967-07-17,40.0
+Ravi Coltrane,Tenor saxophone,1965-08-06,NaN,True,1965-08-06,,55.0
+Randolph Colville,Saxophone,1942-05-23,2004-02-15,False,1942-05-23,2004-02-15,61.0
+Junior Cook,Saxophone,1934-07-22,1992-02-03,False,1934-07-22,1992-02-03,57.0
+Bob Cooper,Saxophone,1925-12-06,1993-08-05,False,1925-12-06,1993-08-05,67.0
+Lindsay Cooper,Bassoon,1951-03-03,2013-09-18,False,1951-03-03,2013-09-18,62.0
+Lol Coxhill,Soprano saxophone,1932,2012-07-10,False,1932-01-01,2012-07-10,80.0
+Hank Crawford,Alto/Baritone Saxophone,1934-12-21,2009-01-29,False,1934-12-21,2009-01-29,74.0
+Ray Crawford,Tenor saxophone,1924,1996,False,1924-01-01,1996-01-01,72.0
+Sonny Criss,Alto saxophone,1927,1977-11-19,False,1927-01-01,1977-11-19,50.0
+King Curtis,Soprano saxophone,1934-02-07,1971-08-13,False,1934-02-07,1971-08-13,37.0
+Olav Dale,Saxophone,1958-10-30,2014-10-10,False,1958-10-30,2014-10-10,55.0
+Eddie Daniels,Clarinet,1941-10-19,NaN,True,1941-10-19,,78.0
+John Dankworth,Clarinet,1927-09-20,2010-02-06,False,1927-09-20,2010-02-06,82.0
+Joe Darensbourg,Clarinet,1906-07-09,1985-05-24,False,1906-07-09,1985-05-24,78.0
+Eric Darius,Saxophone,1982-12-03,NaN,True,1982-12-03,,37.0
+Julian Dash,Tenor saxophone,1916,1974,False,1916-01-01,1974-01-01,58.0
+Kenny Davern,Clarinet,1935-01-07,2006-12-12,False,1935-01-07,2006-12-12,71.0
+"Eddie ""Lockjaw"" Davis",Saxophone,1922-03-02,1986-11-03,False,1922-03-02,1986-11-03,64.0
+Jesse Davis,Alto saxophone,1965-09-11,NaN,True,1965-09-11,,55.0
+Lem Davis,Alto saxophone,1914,1970,False,1914-01-01,1970-01-01,56.0
+Nathan Davis,Tenor saxophone,1937-02-15,2018-04-08,False,1937-02-15,2018-04-08,81.0
+Elton Dean,Saxophone,1945-10-28,2006-02-08,False,1945-10-28,2006-02-08,60.0
+Eli Degibri,Saxophone,1978-05-03,NaN,True,1978-05-03,,42.0
+Paul Desmond,Alto saxophone,1924-11-25,1977-05-30,False,1924-11-25,1977-05-30,52.0
+Johnny Dodds,Clarinet,1892-04-12,1940-08-08,False,1892-04-12,1940-08-08,48.0
+Klaus Doldinger,Saxophone,1936-05-12,NaN,True,1936-05-12,,84.0
+Eric Dolphy,Alto saxophone,1928-06-20,1964-06-29,False,1928-06-20,1964-06-29,36.0
+Arne Domnérus,Saxophone,1924-12-20,2008-09-02,False,1924-12-20,2008-09-02,83.0
+Sam Donahue,tenor saxophonist,1918-03-18,1974-03-22,False,1918-03-18,1974-03-22,56.0
+Lou Donaldson,Alto saxophone,1926-11-01,NaN,True,1926-11-01,,93.0
+Jimmy Dorsey,Saxophone,1904-02-29,1957-06-12,False,1904-02-29,1957-06-12,53.0
+Bob Downes,Alto saxophone,1937,NaN,True,1937-01-01,,83.0
+Paquito D'Rivera,Clarinet,1948-06-04,NaN,True,1948-06-04,,72.0
+Gerd Dudek,Tenor saxophone,1938,NaN,True,1938-01-01,,82.0
+Candy Dulfer,Saxophone,1969-09-19,NaN,True,1969-09-19,,51.0
+Hans Dulfer,Tenor saxophone,1940-05-28,NaN,True,1940-05-28,,80.0
+Paul Dunmall,Saxophone,1953-05-06,NaN,True,1953-05-06,,67.0
+Allen Eager,Tenor saxophone,1927-01-10,2003-04-13,False,1927-01-10,2003-04-13,76.0
+Bill Easley,Bill easley  saxophone,alto,NaN,True,,,nan
+Teddy Edwards,Tenor saxophone,1924-04-26,2003-04-20,False,1924-04-26,2003-04-20,78.0
+Richard Elliot,Tenor saxophone,1960-01-16,NaN,True,1960-01-16,,60.0
+Peter Epstein,Alto Saxophone,1967-01-18,NaN,True,1967-01-18,,53.0
+Helén Eriksen,Saxophone,1971-10-19,NaN,True,1971-10-19,,48.0
+Booker Ervin,Tenor saxophone,1930-10-31,1970-08-31,False,1930-10-31,1970-08-31,39.0
+Wayne Escoffery,Saxophone,1975-02-23,NaN,True,1975-02-23,,45.0
+Ellery Eskelin,Saxophone,1959-08-16,NaN,True,1959-08-16,,61.0
+Bill Evans,Tenor saxophone,1958-02-08,NaN,True,1958-02-08,,62.0
+Herschel Evans,Tenor saxophone,1909-03-09,1939-02-09,False,1909-03-09,1939-02-09,29.0
+Sandy Evans,Alto saxophone,sopr,NaN,True,,,nan
+Joe Farrell,Tenor saxophone,1937-12-16,1986-01-10,False,1937-12-16,1986-01-10,48.0
+Wally Fawkes,Soprano saxophone,1924,NaN,True,1924-01-01,,96.0
+Wilton Felder,Saxophone,1940-08-31,2015-09-27,False,1940-08-31,2015-09-27,75.0
+Buddy Featherstonhaugh,Saxophone,1909-10-04,1976-07-12,False,1909-10-04,1976-07-12,66.0
+Brandon Fields,Brandon fields  saxophone,alto,NaN,True,,,nan
+Mickey Fields,Saxophone,NaN,NaN,NaN,,,NaN
+Mikkel Flagstad,Tenor saxophone,1930-04-23,2005-06-29,False,1930-04-23,2005-06-29,75.0
+Ricky Ford,Tenor saxophone,1954,NaN,True,1954-01-01,,66.0
+Jimmy Forrest,Tenor saxophone,1920-01-24,1980-08-26,False,1920-01-24,1980-08-26,60.0
+Sonny Fortune,Saxophone,1939-05-19,2018-10-25,False,1939-05-19,2018-10-25,79.0
+Håvard Fossum,Saxophone,1971-06-07,NaN,True,1971-06-07,,49.0
+Al Foster,Drums,1943-01-18,NaN,True,1943-01-18,,77.0
+Frank Foster,Saxophone,1928-09-23,2011-07-26,False,1928-09-23,2011-07-26,82.0
+Gary Foster,Saxophone,1936-05-25,NaN,True,1936-05-25,,84.0
+Charles Fowlkes,Baritone saxophone,1916,1980,False,1916-01-01,1980-01-01,64.0
+Bob Franceschini,Saxophone,1961-12-15,NaN,True,1961-12-15,,58.0
+Bud Freeman,Tenor saxophone,1906-04-13,1991-03-15,False,1906-04-13,1991-03-15,84.0
+Chico Freeman,Tenor saxophone,1949-07-17,NaN,True,1949-07-17,,71.0
+Von Freeman,Tenor saxophone,1923-10-03,2012-08-11,False,1923-10-03,2012-08-11,88.0
+Tia Fuller,Saxophone,1976-03-27,NaN,True,1976-03-27,,44.0
+Svein Magnus Furu,Tenor saxophone,1983-11-10,NaN,True,1983-11-10,,36.0
+Brent Gallaher,Tenor saxophone,1969-05-13,NaN,True,1969-05-13,,51.0
+Al Gallodoro,alto saxophone,1913-06-20,2008-10-04,False,1913-06-20,2008-10-04,95.0
+Jim Galloway,Saxophone,1936-07-28,2014-12-30,False,1936-07-28,2014-12-30,78.0
+Jan Garbarek,Saxophone,1947-03-04,NaN,True,1947-03-04,,73.0
+Nubya Garcia,Tenor saxophone,1991,NaN,True,1991-01-01,,29.0
+Lou Gare,tenor saxophone,1939-06-16,2017-10-06,False,1939-06-16,2017-10-06,78.0
+Joe Garland,Tenor saxophone,1903,1977,False,1903-01-01,1977-01-01,74.0
+Tim Garland,Saxophone,1966-10-19,NaN,True,1966-10-19,,53.0
+Carlos Garnett,Saxophone,1938-12-01,NaN,True,1938-12-01,,81.0
+Kenny Garrett,Alto saxophone,1960-10-09,NaN,True,1960-10-09,,59.0
+Charles Gayle,Tenor saxophone,1939-02-28,NaN,True,1939-02-28,,81.0
+Herb Geller,Saxophone,1928-11-02,2013-12-19,False,1928-11-02,2013-12-19,85.0
+Stan Getz,Tenor saxophone,1927-02-02,1991-06-06,False,1927-02-02,1991-06-06,64.0
+Sal Giorgianni,Alto saxophone,1964,NaN,True,1964-01-01,,56.0
+John Gilmore,Tenor saxophone,1931-09-28,1995-08-20,False,1931-09-28,1995-08-20,63.0
+Jimmy Giuffre,Clarinet,1921-04-26,2008-04-24,False,1921-04-26,2008-04-24,86.0
+Frode Gjerstad,Saxophone,1948-03-24,NaN,True,1948-03-24,,72.0
+Victor Goines,Saxophone,1961-08-06,NaN,True,1961-08-06,,59.0
+Harry Gold,Bass saxophone,1907,2005,False,1907-01-01,2005-01-01,98.0
+Benny Golson,Tenor saxophone,1929-01-25,NaN,True,1929-01-25,,91.0
+Paul Gonsalves,Tenor Saxophone,1920-07-12,1974-05-15,False,1920-07-12,1974-05-15,53.0
+Scheila Gonzalez,Saxophone,1971-08-05,NaN,True,1971-08-05,,49.0
+Benny Goodman,Clarinet,1909-05-30,1986-06-13,False,1909-05-30,1986-06-13,77.0
+Dexter Gordon,Tenor saxophone,1923-02-27,1990-04-25,False,1923-02-27,1990-04-25,67.0
+"Gerard ""Doudou"" Gouirand",Alto saxophone,1940-04-28,NaN,True,1940-04-28,,80.0
+Kenny G,Soprano saxophone,1956-06-05,NaN,True,1956-06-05,,64.0
+Bill Graham,Alto saxophone,1918-09-08,NaN,True,1918-09-08,,102.0
+Henning Gravrok,Saxophone,1948-03-19,NaN,True,1948-03-19,,72.0
+Wardell Gray,Tenor saxophone,1921-02-13,1955-05-25,False,1921-02-13,1955-05-25,34.0
+Bunky Green,Alto saxophone,1935-04-23,NaN,True,1935-04-23,,85.0
+Jimmy Greene,Saxophone,1975-02-24,NaN,True,1975-02-24,,45.0
+Johnny Griffin,Tenor saxophone,1928-04-24,2008-07-25,False,1928-04-24,2008-07-25,80.0
+Euge Groove,Euge groove  saxophone,1962-11-27,NaN,True,1962-11-27,,57.0
+Steve Grossman,Saxophone,1951-01-18,2020-08-13,False,1951-01-18,2020-08-13,69.0
+Gigi Gryce,Alto saxophone,1925-11-28,1983-03-14,False,1925-11-28,1983-03-14,57.0
+Peter Guidi,Saxophone,1949-09-14,2018-04-17,False,1949-09-14,2018-04-17,68.0
+Lars Gullin,Baritone saxophone,1928-05-04,1976-05-17,False,1928-05-04,1976-05-17,48.0
+Guttorm Guttormsen,Flute,1950-06-28,NaN,True,1950-06-28,,70.0
+Tommy Gwaltney,Alto saxophone,1925,2003,False,1925-01-01,2003-01-01,78.0
+Morten Halle,Saxophone,1957-10-07,NaN,True,1957-10-07,,63.0
+Børge-Are Halvorsen,Saxophone,1978-10-12,NaN,True,1978-10-12,,41.0
+Scott Hamilton,Tenor saxophone,1954-09-12,NaN,True,1954-09-12,,66.0
+Captain John Handy,Alto saxophone,1900,1971,False,1900-01-01,1971-01-01,70.0
+John Handy,Saxophone,1933-02-03,NaN,True,1933-02-03,,87.0
+Everette Harp,Saxophone,1961-08-17,NaN,True,1961-08-17,,59.0
+Billy Harper,Saxophone,1943-01-17,NaN,True,1943-01-17,,77.0
+Joe Harriott,Alto saxophone,1928,1973,False,1928-01-01,1973-01-01,45.0
+Eddie Harris,Saxophone,1934-10-20,1996-11-05,False,1934-10-20,1996-11-05,62.0
+Donald Harrison,Saxophone,1960-06-23,NaN,True,1960-06-23,,60.0
+Antonio Hart,Saxophone,1968-09-30,NaN,True,1968-09-30,,52.0
+Tubby Hayes,Saxophone,1935-01-30,1973-06-08,False,1935-01-30,1973-06-08,38.0
+Alfred 23 Harth,Tenor saxophone,1949,NaN,True,1949-01-01,,71.0
+Coleman Hawkins,Tenor saxophone,1904-11-21,1969-05-19,False,1904-11-21,1969-05-19,64.0
+Jimmy Heath,Alto saxophone,1926-10-25,2020-01-19,False,1926-10-25,2020-01-19,93.0
+Eirik Hegdal,Saxophone,1973-10-03,NaN,True,1973-10-03,,47.0
+Ernie Henry,Saxophone,1926-09-03,1957-12-29,False,1926-09-03,1957-12-29,31.0
+Joe Henderson,Saxophone,1937-04-24,2001-06-30,False,1937-04-24,2001-06-30,64.0
+Julius Hemphill,Saxophone,1938-01-24,1995-04-02,False,1938-01-24,1995-04-02,57.0
+Woody Herman,Vocals,1913-05-16,1987-10-29,False,1913-05-16,1987-10-29,74.0
+Vincent Herring,Saxophone,1964-11-19,NaN,True,1964-11-19,,55.0
+Warren Hill,Saxophone,1966-04-15,NaN,True,1966-04-15,,54.0
+Nigel Hitchcock,Saxophone,1971-01-04,NaN,True,1971-01-04,,49.0
+Fred Ho,Baritone saxophone,1957-08-10,2014-04-12,False,1957-08-10,2014-04-12,56.0
+Johnny Hodges,Alto saxophone,1907-07-25,1970-05-11,False,1907-07-25,1970-05-11,62.0
+Bendik Hofseth,Saxophone,1962-10-19,NaN,True,1962-10-19,,57.0
+Red Holloway,Tenor saxophone,1927-05-31,2012-02-25,False,1927-05-31,2012-02-25,84.0
+Ron Holloway,Tenor saxophone,1953-08-24,NaN,True,1953-08-24,,67.0
+Charlie Holmes,Alto saxophone,1910,1985,False,1910-01-01,1985-01-01,75.0
+Paul Horn,Flute,1930-03-17,2014-06-29,False,1930-03-17,2014-06-29,84.0
+Lars Horntveth,Saxophone,1980-03-10,NaN,True,1980-03-10,,40.0
+Steve Houben,Tenor saxophone,1950,NaN,True,1950-01-01,,70.0
+Reggie Houston,Soprano saxophone,1947,NaN,True,1947-01-01,,73.0
+George Howard,Saxophone,1956-09-15,1998-03-22,False,1956-09-15,1998-03-22,41.0
+Derek Humble,Alto saxophone,1932,1971,False,1932-01-01,1971-01-01,39.0
+Shabaka Hutchings,Saxophone,NaN,NaN,NaN,,,NaN
+Jan Kåre Hystad,Saxophone,1955-07-09,NaN,True,1955-07-09,,65.0
+Ole Jacob Hystad,Saxophone,1960-07-20,NaN,True,1960-07-20,,60.0
+John Pål Inderberg,Saxophone,1950-08-06,NaN,True,1950-08-06,,70.0
+Jessy J,Saxophone,1982-12-20,NaN,True,1982-12-20,,37.0
+Illinois Jacquet,Tenor saxophone,1922-10-30,2004-07-22,False,1922-10-30,2004-07-22,81.0
+Javon Jackson,Saxophone,1965-06-16,NaN,True,1965-06-16,,55.0
+Torbjørn Sletta Jacobsen,Tenor saxophone,1973-08-11,NaN,True,1973-08-11,,47.0
+Jaroslav Jakubovič,Baritone saxophone,1948,NaN,True,1948-01-01,,72.0
+Nils Jansen,Tenor,1959-03-30,NaN,True,1959-03-30,,61.0
+Joseph Jarman,Saxophone,1937-09-14,2019-01-09,False,1937-09-14,2019-01-09,81.0
+Boney James,Saxophone,1961-09-01,NaN,True,1961-09-01,,59.0
+Carter Jefferson,Carter jefferson  saxophone,1946,1993,False,1946-01-01,1993-01-01,47.0
+Hilton Jefferson,alto saxophone,1903-07-30,1968-11-14,False,1903-07-30,1968-11-14,65.0
+Paul Jeffrey,Tenor saxophone,1933-04-08,2015-03-20,False,1933-04-08,2015-03-20,81.0
+John Jenkins,Alto saxophone,1931,1993,False,1931-01-01,1993-01-01,62.0
+Erlend Jentoft,Saxophone,1976-03-16,NaN,True,1976-03-16,,44.0
+Bjørn Johansen,Saxophone,1940-05-23,2002-05-06,False,1940-05-23,2002-05-06,61.0
+Bill Johnson,Saxophone,1912-09-30,1960-07-05,False,1912-09-30,1960-07-05,47.0
+Budd Johnson,Tenor saxophone,1910-12-14,1984-10-20,False,1910-12-14,1984-10-20,73.0
+"Edward ""Kidd"" Jordan",Saxophone,1935-05-05,NaN,True,1935-05-05,,85.0
+Louis Jordan,Saxophone,1908-07-08,1975-02-04,False,1908-07-08,1975-02-04,66.0
+Jackiem Joyner,Saxophone,1980-02-09,NaN,True,1980-02-09,,40.0
+Richie Kamuca,Tenor saxophone,1930-07-23,1977-07-22,False,1930-07-23,1977-07-22,46.0
+Jeff Kashiwa,Saxophone,alto,NaN,True,,,nan
+Tom Keenlyside,Tom keenlyside  saxophone,saxe,,False,,,nan
+Gary Keller,Gary keller  saxophone,saxe,,False,,,nan
+Robin Kenyatta,Alto saxophone,1942,NaN,True,1942-01-01,,78.0
+Pete King,Tenor saxophone,1929,2009,False,1929-01-01,2009-01-01,80.0
+Peter King,Saxophone,1940,2020-08-23,False,1940-01-01,2020-08-23,80.0
+Rosa King,Rosa king  saxophone,sing,r,False,,,nan
+Niels Klein,Tenor saxophone,1978,NaN,True,1978-01-01,,42.0
+Kåre Kolve,Saxophone,1967-08-10,NaN,True,1967-08-10,,53.0
+Håkon Kornstad,Vocals tenor,1977-04-05,NaN,True,1977-04-05,,43.0
+Rahsaan Roland Kirk,Tenor saxophone,1935-08-07,1977-12-05,False,1935-08-07,1977-12-05,42.0
+John Klemmer,Tenor saxophone,1946-07-03,NaN,True,1946-07-03,,74.0
+Eric Kloss,Alto saxophone,1949,NaN,True,1949-01-01,,71.0
+"Kadota ""Jaw"" Kouske","Kadota ""jaw"" kouske  saxophone",sopr,NaN,True,,,nan
+Kaori Kobayashi,Alto saxophone,1981-10-20,NaN,True,1981-10-20,,38.0
+Dave Koz,Soprano and alto saxophones (primary),1963-03-27,NaN,True,1963-03-27,,57.0
+Sigurd Køhn,Saxophone,1959-08-06,2004-12-26,False,1959-08-06,2004-12-26,45.0
+Lee Konitz,Alto saxophone,1927-10-13,2020-04-15,False,1927-10-13,2020-04-15,92.0
+Bjørn Kruse,Saxophone,1946-08-14,NaN,True,1946-08-14,,74.0
+Fela Kuti,Saxophone,1938-10-15,1997-08-02,False,1938-10-15,1997-08-02,58.0
+Steve Lacey,Soprano saxophone,1934-07-23,2004-06-04,False,1934-07-23,2004-06-04,69.0
+Oliver Lake,Saxophone,1942-09-14,NaN,True,1942-09-14,,78.0
+Harold Land,Tenor Saxophone,1928-12-18,2001-07-27,False,1928-12-18,2001-07-27,72.0
+Brian Landrus,Saxophone,1978-09-14,NaN,True,1978-09-14,,42.0
+Charley Langer,Saxophone,1962,NaN,True,1962-01-01,,58.0
+Don Lanphere,Saxophone,1928-06-26,2003-10-09,False,1928-06-26,2003-10-09,75.0
+Prince Lasha,Alto saxophone,1929-09-10,2008-12-12,False,1929-09-10,2008-12-12,79.0
+Harald Lassen,Saxophone,1987-03-13,NaN,True,1987-03-13,,33.0
+Yusef Lateef,Tenor saxophone,1920-10-09,2013-12-23,False,1920-10-09,2013-12-23,93.0
+Azar Lawrence,Tenor saxophone,1952,NaN,True,1952-01-01,,68.0
+Ronnie Laws,Saxophone,1950-10-03,NaN,True,1950-10-03,,70.0
+Amy Lee,Saxophone,alto,NaN,True,,,nan
+Dave Liebman,Tenor saxophone,1946-09-04,NaN,True,1946-09-04,,74.0
+Erica Lindsay,Saxophone,1955-06-05,NaN,True,1955-06-05,,65.0
+Michael Lington,Saxophone,1969-06-11,NaN,True,1969-06-11,,51.0
+Fred Lipsius,Alto saxophone,1945,NaN,True,1945-01-01,,75.0
+Zachary Lipton,Soprano saxophone,1985,NaN,True,1985-01-01,,35.0
+Charles Lloyd,Tenor saxophone,1938-03-15,NaN,True,1938-03-15,,82.0
+Mornington Lockett,Tenor saxophone,1961,NaN,True,1961-01-01,,59.0
+Joe Lovano,Tenor saxophone,1952-12-29,NaN,True,1952-12-29,,67.0
+Preston Love,Alto saxophone,1921-04-26,2004-02-12,False,1921-04-26,2004-02-12,82.0
+Håvard Lund,Saxophone,1970-10-20,NaN,True,1970-10-20,,49.0
+Arun Luthra,Tenor saxophone,teno,NaN,True,,,nan
+Graeme Lyall,Saxophone,1942-01-25,NaN,True,1942-01-25,,78.0
+Jimmy Lyons,Alto saxophone,1931-12-01,1986-05-19,False,1931-12-01,1986-05-19,54.0
+Geir Lysne,Woodwinds,1965-10-09,NaN,True,1965-10-09,,54.0
+Teo Macero,Saxophone,1925-10-30,2008-02-19,False,1925-10-30,2008-02-19,82.0
+Fraser MacPherson,Saxophone,1928-04-10,1993-09-27,False,1928-04-10,1993-09-27,65.0
+Rudresh Mahanthappa,Alto saxophone,1971-05-04,NaN,True,1971-05-04,,49.0
+Joe Maini,Alto saxophone,1930,1964,False,1930-01-01,1964-01-01,33.0
+Didier Malherbe,Flute,1943-01-22,NaN,True,1943-01-22,,77.0
+"Steve ""The Count"" Marcus",Tenor saxophone,1939,2005,False,1939-01-01,2005-01-01,66.0
+Charlie Mariano,Alto saxophone,1923-11-12,2009-06-16,False,1923-11-12,2009-06-16,85.0
+Eric Marienthal,Saxophone,1957-12-19,NaN,True,1957-12-19,,62.0
+"""Blue"" Lou Marini",Saxophone,1945-05-13,NaN,True,1945-05-13,,75.0
+Branford Marsalis,Saxophone,1960-08-26,NaN,True,1960-08-26,,60.0
+Warne Marsh,Saxophone,1927-10-26,1987-12-18,False,1927-10-26,1987-12-18,60.0
+Jørgen Mathisen,Saxophone,1984-12-27,NaN,True,1984-12-27,,35.0
+Ole Mathisen,Saxophone,1965-02-13,NaN,True,1965-02-13,,55.0
+Bennie Maupin,Saxophone,1940-08-29,NaN,True,1940-08-29,,80.0
+Andy McGhee,Saxophone,1927-11-03,2017-10-12,False,1927-11-03,2017-10-12,89.0
+Kalaparusha Maurice McIntyre,Tenor saxophone,1936-03-24,2013-11-09,False,1936-03-24,2013-11-09,77.0
+Hal McKusick,Alto saxophone,1924,2012,False,1924-01-01,2012-01-01,88.0
+Donny McCaslin,Saxophone,1966-08-11,NaN,True,1966-08-11,,54.0
+Jackie McLean,Alto saxophone,1931-05-17,2006-03-31,False,1931-05-17,2006-03-31,74.0
+Charles McPherson,Alto saxophone,1939-07-24,NaN,True,1939-07-24,,81.0
+Marion Meadows,Saxophone,sopr,NaN,True,,,nan
+Getatchew Mekurya,Tenor saxophone,1935-03-14,2016-04-04,False,1935-03-14,2016-04-04,81.0
+Don Menza,Saxophone,1936-04-22,NaN,True,1936-04-22,,84.0
+Bob Mintzer,Saxophone,1953-01-27,NaN,True,1953-01-27,,67.0
+Roscoe Mitchell,Saxophone,1940-08-03,NaN,True,1940-08-03,,80.0
+Josephine Alexandra Mitchell,Josephine alexandra mitchell  was ireland's first female saxophonist. saxophone,1903,1995,False,1903-01-01,1995-01-01,92.0
+Hank Mobley,Tenor saxophone,1930-07-07,1986-05-30,False,1930-07-07,1986-05-30,55.0
+J. R. Monterose,Saxophone,1927-01-19,1993-09-16,False,1927-01-19,1993-09-16,66.0
+James Moody,Saxophone,1925-03-26,2010-12-09,False,1925-03-26,2010-12-09,85.0
+Frank Morgan,Alto saxophone,1933-12-23,2007-12-14,False,1933-12-23,2007-12-14,73.0
+Lanny Morgan,Alto saxophone,1934,NaN,True,1934-01-01,,86.0
+Dick Morrissey,Tenor sax,1940-05-09,2000-11-08,False,1940-05-09,2000-11-08,60.0
+Kjetil Møster,Saxophone,1976-06-17,NaN,True,1976-06-17,,44.0
+Gerry Mulligan,Baritone saxophone,1927-04-06,1996-01-20,False,1927-04-06,1996-01-20,68.0
+Mike Murley,Tenor saxophone,sopr,NaN,True,,,nan
+David Murray,Bass clarinet,1955-02-19,NaN,True,1955-02-19,,65.0
+Vido Musso,Saxophone,1913-01-16,1982-01-09,False,1913-01-16,1982-01-09,68.0
+Bheki Mseleku,Piano,1955,2008-09-09,False,1955-01-01,2008-09-09,53.0
+Henry 'Boots' Mussulli,Alto saxophone,1915,1967,False,1915-01-01,1967-01-01,52.0
+Najee,Saxophone,1957-11-04,NaN,True,1957-11-04,,62.0
+Zbigniew Namysłowski,Alto saxophone,1939,NaN,True,1939-01-01,,81.0
+Ted Nash,Saxophone,1960-12-28,NaN,True,1960-12-28,,59.0
+Oliver Nelson,Soprano saxophone,1932-06-04,1975-10-28,False,1932-06-04,1975-10-28,43.0
+Roger Neumann,Tenor saxophone,1940,NaN,True,1940-01-01,,80.0
+Bjarne Nerem,Saxophone,1923-07-31,1991-04-01,False,1923-07-31,1991-04-01,67.0
+Marius Neset,Tenor saxophone,1985-01-02,NaN,True,1985-01-02,,35.0
+"David ""Fathead"" Newman",Saxophone,1933-02-24,2009-01-20,False,1933-02-24,2009-01-20,75.0
+Lennie Niehaus,Alto saxophone,1929-06-11,2020-05-28,False,1929-06-11,2020-05-28,90.0
+Bodil Niska,Tenor saxophone,1954-08-21,NaN,True,1954-08-21,,66.0
+Sal Nistico,Tenor saxophone,1938,1991,False,1938-01-01,1991-01-01,53.0
+Luis Nubiola,Saxophone,1974-05-28,NaN,True,1974-05-28,,46.0
+Atle Nymo,Saxophone,1977-07-09,NaN,True,1977-07-09,,43.0
+Frode Nymo,Saxophone,1975-11-27,NaN,True,1975-11-27,,44.0
+Rolf-Erik Nystrøm,Saxophone,1975-04-23,NaN,True,1975-04-23,,45.0
+Dick Oatts,Saxophone,1953-04-02,NaN,True,1953-04-02,,67.0
+Maciej Obara,Saxophone,1981-12-18,NaN,True,1981-12-18,,38.0
+Njål Ølnes,Tenor saxophone,1965-09-24,NaN,True,1965-09-24,,55.0
+Mike Osborne,Saxophone,1941-09-28,2007-09-19,False,1941-09-28,2007-09-19,65.0
+Greg Osby,Saxophone,1960-08-03,NaN,True,1960-08-03,,60.0
+Walter Parazaider,Saxophone,1945-03-14,NaN,True,1945-03-14,,75.0
+Jorge Pardo,Soprano saxophone,1956,NaN,True,1956-01-01,,64.0
+Charlie Parker,Alto,1920-08-29,1955-03-12,False,1920-08-29,1955-03-12,34.0
+Evan Parker,Saxophone,1944-04-05,NaN,True,1944-04-05,,76.0
+Leo Parker,Baritone saxophone,1925,1962,False,1925-01-01,1962-01-01,37.0
+Maceo Parker,Saxophone,1943-02-14,NaN,True,1943-02-14,,77.0
+Derek Pascoe,Vocals and,1957,NaN,True,1957-01-01,,63.0
+Jerome Don Pasquall,Alto saxophone,1902,1971,False,1902-01-01,1971-01-01,69.0
+Michel Pastre,Tenor saxophone,1966-04-07,NaN,True,1966-04-07,,54.0
+Hanna Paulsberg,Tenor saxophone,1987-11-13,NaN,True,1987-11-13,,32.0
+Arvid Gram Paulsen,Tenor saxophone,1922-01-04,1963-04-11,False,1922-01-04,1963-04-11,41.0
+George Paxton,Tenor saxophone,and,NaN,True,,,nan
+Cecil Payne,Baritone saxophone,1922-12-14,2007-11-27,False,1922-12-14,2007-11-27,84.0
+Art Pepper,Saxophone,1925-09-01,1982-06-15,False,1925-09-01,1982-06-15,56.0
+Bill Perkins,Saxophone,1924-07-22,2003-08-10,False,1924-07-22,2003-08-10,79.0
+Rich Perry,Saxophone,1955-07-22,NaN,True,1955-07-22,,65.0
+Eric Person,Saxophone,1963-05-02,NaN,True,1963-05-02,,57.0
+Houston Person,Saxophone,1934-11-10,NaN,True,1934-11-10,,85.0
+Flip Phillips,Tenor saxophone,1915-03-26,2001-08-17,False,1915-03-26,2001-08-17,86.0
+Courtney Pine,Saxophone,1964-03-18,NaN,True,1964-03-18,,56.0
+Bobby Plater,Alto saxophone,1914,1982,False,1914-01-01,1982-01-01,68.0
+Pony Poindexter,Saxophone,1926-02-08,NaN,True,1926-02-08,,94.0
+Odean Pope,Tenor saxophone,1938-10-24,NaN,True,1938-10-24,,81.0
+Michel Portal,Saxophone,1935-11-27,NaN,True,1935-11-27,,84.0
+Art Porter Jr.,Saxophone,1961-08-03,1996-11-23,False,1961-08-03,1996-11-23,35.0
+Tineke Postma,Alto saxophone,1978-08-31,NaN,True,1978-08-31,,42.0
+Chris Potter,Saxophone,1971-01-01,NaN,True,1971-01-01,,49.0
+Noah Preminger,Saxophone,1986-06-02,NaN,True,1986-06-02,,34.0
+Russell Procope,Clarinet,1908-08-11,NaN,True,1908-08-11,,112.0
+Dudu Pukwana,Alto saxophone,1938,1990-06-30,False,1938-01-01,1990-06-30,52.0
+Rama IX of Thailand,Alto saxophone,1927,2016,False,1927-01-01,2016-01-01,89.0
+Boyd Raeburn,Saxophone,1913-10-27,1966-08-02,False,1913-10-27,1966-08-02,52.0
+Bill Ramsay,Saxophone,1929-01-12,NaN,True,1929-01-12,,91.0
+Boots Randolph,Saxophone,1927-06-03,2007-07-03,False,1927-06-03,2007-07-03,80.0
+Nelson Rangell,Saxophone,1960-03-26,NaN,True,1960-03-26,,60.0
+Sonny Red,Alto saxophonist,1932-12-17,1981-03-20,False,1932-12-17,1981-03-20,48.0
+Vi Redd,Alto saxophone,1928-09-20,NaN,True,1928-09-20,,92.0
+Dewey Redman,Tenor saxophone,1931-05-17,2006-09-02,False,1931-05-17,2006-09-02,75.0
+Don Redman,Clarinet,1900-07-29,1964-11-30,False,1900-07-29,1964-11-30,64.0
+Joshua Redman,tenor,1969-02-01,NaN,True,1969-02-01,,51.0
+Jerome Richardson,Alto saxophone,1920,2000,False,1920-01-01,2000-01-01,80.0
+Jim Riggs,Jim riggs  saxophone,1941,NaN,True,1941-01-01,,79.0
+Knut Riisnæs,Saxophone,1945-11-13,NaN,True,1945-11-13,,74.0
+Odd Riisnæs,Saxophone,1953-05-12,NaN,True,1953-05-12,,67.0
+Sam Rivers,Tenor saxophone,1923-09-25,2011-12-26,False,1923-09-25,2011-12-26,88.0
+Scott Robinson,Clarinet,1959-04-27,NaN,True,1959-04-27,,61.0
+Spike Robinson,Tenor saxophone,1930-01-16,2001-10-29,False,1930-01-16,2001-10-29,71.0
+Bob Rockwell,Tenor saxophone,1945,NaN,True,1945-01-01,,75.0
+André Roligheten,Saxophone,1985-01-02,NaN,True,1985-01-02,,35.0
+Adrian Rollini,Bass saxophone,1903-06-28,NaN,True,1903-06-28,,117.0
+Sonny Rollins,Tenor saxophone,1930-09-07,NaN,True,1930-09-07,,90.0
+Bruno Romani,Saxophone,1960-01-09,NaN,True,1960-01-09,,60.0
+Mette Henriette Martedatter Rølvåg,Saxophone,1990,NaN,True,1990-01-01,,30.0
+Bernt Rosengren,Tenor Saxophone,1937-12-24,NaN,True,1937-12-24,,82.0
+Ronnie Ross,Baritone Saxophone,1933-10-02,1991-12-12,False,1933-10-02,1991-12-12,58.0
+Charlie Rouse,Saxophone,1924-04-06,1988-11-30,False,1924-04-06,1988-11-30,64.0
+Marshal Royal,Clarinet,1912-12-05,NaN,True,1912-12-05,,107.0
+Jeff Rupert,Tenor saxophone,1964,NaN,True,1964-01-01,,56.0
+Joe Rushton,Bass saxophone,1907,1964,False,1907-01-01,1964-01-01,57.0
+Edgar Sampson,Saxophone,1907-10-31,1973-01-16,False,1907-10-31,1973-01-16,65.0
+David Sanborn,Saxophone,1945-07-30,NaN,True,1945-07-30,,75.0
+David Sánchez,Saxophone,1968-09-09,NaN,True,1968-09-09,,52.0
+Pharoah Sanders,Saxophone,1940-10-13,NaN,True,1940-10-13,,79.0
+Mario Schiano,Soprano saxophone,1933,2008,False,1933-01-01,2008-01-01,74.0
+David Schnitter,Tenor saxophone,1948-03-19,NaN,True,1948-03-19,,72.0
+Anton Schwartz,Saxophone,1967-07-16,NaN,True,1967-07-16,,53.0
+Ronnie Scott,Tenor saxophone,1927,1996-12-23,False,1927-01-01,1996-12-23,69.0
+Tom Scott,Saxophone,1948-05-19,NaN,True,1948-05-19,,72.0
+Karl Seglem,Saxophone,1961-07-08,NaN,True,1961-07-08,,59.0
+Trygve Seim,Saxophone,1971-04-25,NaN,True,1971-04-25,,49.0
+Kristin Sevaldsen,Saxophone,1966-01-10,NaN,True,1966-01-10,,54.0
+Bud Shank,Alto saxophone,1926-05-27,2009-04-02,False,1926-05-27,2009-04-02,82.0
+Paul Shapiro,Paul shapiro  saxophone,alto,NaN,True,,,nan
+Archie Shepp,Saxophone,1937-05-24,NaN,True,1937-05-24,,83.0
+Andy Sheppard,Tenor saxophone,1957-01-20,NaN,True,1957-01-20,,63.0
+Sahib Shihab,Baritone,1925-06-23,1989-10-24,False,1925-06-23,1989-10-24,64.0
+Wayne Shorter,Tenor saxophone,1933-08-25,NaN,True,1933-08-25,,87.0
+Sonny Simmons,Alto saxophone,1933-08-04,NaN,True,1933-08-04,,87.0
+Zoot Sims,Saxophone,1925-10-29,1985-03-23,False,1925-10-29,1985-03-23,59.0
+Guy Sion,Saxophone,1980,NaN,True,1980-01-01,,40.0
+Alan Skidmore,Saxophone,1942-04-21,NaN,True,1942-04-21,,78.0
+Steve Slagle,Alto saxophone,1951,NaN,True,1951-01-01,,69.0
+Ben Smith,Alto saxophone,1905,NaN,True,1905-01-01,,115.0
+Bill Smith,Saxophone,1938-05-12,NaN,True,1938-05-12,,82.0
+Buster Smith,Alto saxophone,1904-08-24,1991-08-10,False,1904-08-24,1991-08-10,86.0
+Mike Smith,Alto saxophone,1957,NaN,True,1957-01-01,,63.0
+Tab Smith,Alto saxophone,1909-01-11,1971-08-19,False,1909-01-11,1971-08-19,62.0
+Tommy Smith,Tenor saxophone,1967-04-27,NaN,True,1967-04-27,,53.0
+Gary Smulyan,baritone saxophone,1956-04-04,NaN,True,1956-04-04,,64.0
+Jim Snidero,Alto saxophone,1958,NaN,True,1958-01-01,,62.0
+James Spaulding,Saxophone,1937-07-30,NaN,True,1937-07-30,,83.0
+Hal Stein,Saxophone,1928-09-05,2008-04-27,False,1928-09-05,2008-04-27,79.0
+Robert Stewart,Tenor saxophone,1969,NaN,True,1969-01-01,,51.0
+Sonny Stitt,Saxophone,1924,1982-07-22,False,1924-01-01,1982-07-22,58.0
+Vernon Story,Tenor saxophone,1922,2007,False,1922-01-01,2007-01-01,85.0
+Frank Strozier,Alto saxophone,1937-06-13,NaN,True,1937-06-13,,83.0
+John Stubblefield,Tenor saxophone,1945,2005,False,1945-01-01,2005-01-01,60.0
+Carol Sudhalter,Tenor Saxophone,1943-01-05,NaN,True,1943-01-05,,77.0
+Ed Summerlin,Tenor saxophone,1928-09-01,2006-10-10,False,1928-09-01,2006-10-10,78.0
+John Surman,Baritone saxophone,1944-08-30,NaN,True,1944-08-30,,76.0
+Richard Tabnik,Alto saxophone,1952,NaN,True,1952-01-01,,68.0
+Buddy Tate,Saxophone,1913-02-22,2001-02-10,False,1913-02-22,2001-02-10,87.0
+Paul Taylor,Paul taylor  saxophone,1960,NaN,True,1960-01-01,,60.0
+John Tchicai,Saxophone,1936-04-28,2012-10-08,False,1936-04-28,2012-10-08,76.0
+Joe Temperley,Baritone saxophone,1929-09-20,2016-05-11,False,1929-09-20,2016-05-11,86.0
+Frank Teschemacher,Alto saxophone,1906,1932,False,1906-01-01,1932-01-01,25.0
+Art Themen,Saxophone,1939-11-26,NaN,True,1939-11-26,,80.0
+Gary Thomas,Saxophone,1961-06-10,NaN,True,1961-06-10,,59.0
+Cliff Townshend,Saxophone,1916-01-28,1986-06-29,False,1916-01-28,1986-06-29,70.0
+Theo Travis,Saxophone,1964-07-07,NaN,True,1964-07-07,,56.0
+Elisabeth Lid Trøen,Saxophone,1992-03-15,NaN,True,1992-03-15,,28.0
+Frankie Trumbauer,Saxophone,1901-05-30,1956-06-11,False,1901-05-30,1956-06-11,55.0
+Mark Turner,Saxophone,1965-11-10,NaN,True,1965-11-10,,54.0
+Premik Russell Tubbs,Saxophone,1952,NaN,True,1952-01-01,,68.0
+Stanley Turrentine,Tenor saxophone,1934-04-05,2000-09-12,False,1934-04-05,2000-09-12,66.0
+Harold Vick,Tenor saxophone,1936-04-03,1987-11-13,False,1936-04-03,1987-11-13,51.0
+Mathilde Grooss Viddal,Saxophone,1969-05-06,NaN,True,1969-05-06,,51.0
+"Eddie ""Cleanhead"" Vinson",Alto saxophone,1917-12-18,1988-07-02,False,1917-12-18,1988-07-02,70.0
+Bennie Wallace,Tenor saxophone,1946,NaN,True,1946-01-01,,74.0
+David S. Ware,Saxophone,1949-11-07,NaN,True,1949-11-07,,70.0
+Earle Warren,Alto saxophone,1914,1994,False,1914-01-01,1994-01-01,80.0
+Grover Washington Jr.,Vocals; soprano,1943-12-12,1999-12-17,False,1943-12-12,1999-12-17,56.0
+Kamasi Washington,Saxophone,1981,NaN,True,1981-01-01,,39.0
+Sadao Watanabe,Alto saxophone,1933-02-01,NaN,True,1933-02-01,,87.0
+Bobby Watson,Saxophone,1953-08-23,NaN,True,1953-08-23,,67.0
+Ernie Watts,Saxophone,1945-10-23,NaN,True,1945-10-23,,74.0
+Trevor Watts,Alto saxophone,1939-02-26,NaN,True,1939-02-26,,81.0
+Doug Webb,Doug webb  saxophone,1960,NaN,True,1960-01-01,,60.0
+Ben Webster,Tenor saxophone,1909-03-27,1973-09-20,False,1909-03-27,1973-09-20,64.0
+Don Weller,Tenor saxophone,1940-12-19,2020-05-30,False,1940-12-19,2020-05-30,79.0
+Bobby Wellins,Tenor saxophone,1936-01-24,2016-10-27,False,1936-01-24,2016-10-27,80.0
+Frank Wess,Saxophone,1922-01-04,2013-10-30,False,1922-01-04,2013-10-30,91.0
+Petter Wettre,Saxophone,1967-08-11,NaN,True,1967-08-11,,53.0
+Kirk Whalum,Saxophone,1958-07-11,NaN,True,1958-07-11,,62.0
+Andrew White,Saxophone,1942-09-06,NaN,True,1942-09-06,,78.0
+Tommy Whittle,Saxophone,1926-10-13,2013-10-13,False,1926-10-13,2013-10-13,87.0
+Barney Wilen,Saxophone,1937-03-04,1996-05-25,False,1937-03-04,1996-05-25,59.0
+Ed Wiley Jr.,Alto saxophone,1930,2010,False,1930-01-01,2010-01-01,80.0
+Mars Williams,Saxophone,1955-05-29,NaN,True,1955-05-29,,65.0
+Pamela Williams,Saxophone,alto,NaN,True,,,nan
+Steve Williamson,Tenor,1964-06-28,NaN,True,1964-06-28,,56.0
+Steve Wilson,Saxophone,1961,NaN,True,1961-01-01,,59.0
+Juli Wood,Voice,teno,NaN,True,,,nan
+Phil Woods,Saxophone,1931-11-02,2015-09-29,False,1931-11-02,2015-09-29,83.0
+Leo Wright,Alto saxophone,1933-12-14,1991-01-04,False,1933-12-14,1991-01-04,57.0
+Jan Ptaszyn Wróblewski,Tenor saxophone,1936,NaN,True,1936-01-01,,84.0
+Pete Yellin,Saxophone,1941-07-18,2016-04-13,False,1941-07-18,2016-04-13,74.0
+Lester Young,Tenor saxophone,1909-08-27,1959-03-15,False,1909-08-27,1959-03-15,49.0
+Lukas Zabulionis,Saxophone,1992-03-06,NaN,True,1992-03-06,,28.0
+Daniel Zamir,Soprano saxophone,1981,NaN,True,1981-01-01,,39.0
+Miguel Zenón,Alto saxophone,1976-12-30,NaN,True,1976-12-30,,43.0
+John Zorn,Alto saxophone,1953-09-02,NaN,True,1953-09-02,,67.0
