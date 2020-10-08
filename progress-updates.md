@@ -18,6 +18,7 @@
 
 **10/4/20:**
 - Added webscraper and csv files for jazz drummers into jazz-drummer-files
+- Added cleaned organist files
 
 **10/6/20:**
 - Added webscraper and csv files for guitarists into jazz-guitarist-files
