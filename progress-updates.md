@@ -30,3 +30,5 @@
 **10/23/20:**
 - Added cleaned csv file for saxophonists
 
+**11/9/20:**
+- Quick update: I haven't made much progress in the past weeks because I started working. I hope to be able to devote more time to this project as I settle into my new schedule, but the progress won't be as consistent as before. 
