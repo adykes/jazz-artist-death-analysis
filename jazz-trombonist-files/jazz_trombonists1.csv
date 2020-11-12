@@ -1,0 +1,160 @@
+artist,instrument,birthdate,deathdate,alive,bday_dt,dday_dt,age_yrs
+Ray Anderson,Trombone,1952-10-16,NaN,True,1952-10-16,,68.0
+Troy Andrews,Trombone,1986-01-02,y,False,1986-01-02,,nan
+Bill Hughes,Trombone,1930-03-28,2018-01-14,False,1930-03-28,2018-01-14,87.0
+Bill Harris,Trombone,1916-10-28,1973-08-21,False,1916-10-28,1973-08-21,56.0
+David Baker,Trombone,1931-12-21,2016-03-26,False,1931-12-21,2016-03-26,84.0
+Bennie Green,Trombone,1923-04-16,1977-03-23,False,1923-04-16,1977-03-23,53.0
+Charlie Green,Trombone,1893,1935-11-27,False,1893-01-01,1935-11-27,42.0
+Dan Barrett,Cornet,1955-12-14,NaN,True,1955-12-14,,64.0
+Chris Barber,Trombone,1930-04-17,NaN,True,1930-04-17,,90.0
+Conny Bauer,Trombone,1943-07-04,NaN,True,1943-07-04,,77.0
+Johannes Bauer,Trombone,1954-07-22,2016-05-06,False,1954-07-22,2016-05-06,61.0
+Eddie Bert,Trombone,1922-05-16,2012-09-27,False,1922-05-16,2012-09-27,90.0
+Harold Betters,Trombone,1928-03-21,2020-10-11,False,1928-03-21,2020-10-11,92.0
+Jeb Bishop,Trombone,1962,NaN,True,1962-01-01,,58.0
+Big Bill Bissonnette,Trombone,1937,NaN,True,1937-01-01,,83.0
+Bert Boeren,Trombone,1962-03-11,NaN,True,1962-03-11,,58.0
+Luis Bonilla,Trombone,1965-10-12,NaN,True,1965-10-12,,55.0
+Richard B. Boone,Trombone,1930-02-24,1999-02-08,False,1930-02-24,1999-02-08,68.0
+Tom Brantley,Trombone,1970,NaN,True,1970-01-01,,50.0
+Bob Brookmeyer,Valve trombone,1929-12-19,2011-12-15,False,1929-12-19,2011-12-15,81.0
+Garnett Brown,Trombone,1936-01-31,NaN,True,1936-01-31,,84.0
+Lawrence Brown,Trombone,1907-08-03,1988-09-05,False,1907-08-03,1988-09-05,81.0
+Tom Brown,Trombone,1888,1958,False,1888-01-01,1958-01-01,70.0
+George Brunies,Trombone,1902-02-06,1974-11-19,False,1902-02-06,1974-11-19,72.0
+Papa Bue,Trombone,1930-05-08,2011-11-02,False,1930-05-08,2011-11-02,81.0
+Don Sebesky,Trombone,1937-12-10,NaN,True,1937-12-10,,82.0
+Dick Shearer,Trombone,NaN,NaN,NaN,,,NaN
+Gordon Campbell,Trombone,NaN,NaN,NaN,,,NaN
+Jimmy Cheatham,Trombone,1924-06-18,2007-07-12,False,1924-06-18,2007-07-12,83.0
+George Chisholm,Trombone,1915,1997,False,1915-01-01,1997-01-01,82.0
+Emile Christian,Trombone,1895-04-20,1973-12-03,False,1895-04-20,1973-12-03,78.0
+Jimmy Cleveland,Trombone,1926-05-03,2008-08-23,False,1926-05-03,2008-08-23,82.0
+Marty Cook,Trombone,1947,NaN,True,1947-01-01,,73.0
+Michael Conner,Trombone,NaN,NaN,NaN,,,NaN
+Willie Cornish,Trombone,1875,1942,False,1875-01-01,1942-01-01,66.0
+Hal Crook,Trombone,NaN,NaN,NaN,,,NaN
+Elmer Crumbley,Trombone,1908,1993,False,1908-01-01,1993-01-01,85.0
+Michael Davis,Trombone,NaN,NaN,NaN,,,NaN
+Steve Davis,Trombone,1967-04-14,NaN,True,1967-04-14,,53.0
+Raul de Souza,Trombone,1934,NaN,True,1934-01-01,,86.0
+Michael Dease,Trombone,1982-08-25,NaN,True,1982-08-25,,38.0
+Willie Dennis,Trombone,1926-01-10,1965-07-08,False,1926-01-10,1965-07-08,39.0
+Vic Dickenson,Trombone,1906-08-06,1984-11-16,False,1906-08-06,1984-11-16,78.0
+Tommy Dorsey,Trombone,1905-11-19,1956-11-26,False,1905-11-19,1956-11-26,51.0
+Don Drummond,Trombone,1932-03-12,1969,False,1932-03-12,1969-01-01,36.0
+Billy Eckstine,Vocals,1914-07-08,1993-03-08,False,1914-07-08,1993-03-08,78.0
+Eddie Edwards,Trombone,1891-05-22,1963-04-09,False,1891-05-22,1963-04-09,71.0
+Bob Enevoldsen,Tenor saxophone,1920,2005,False,1920-01-01,2005-01-01,85.0
+Robin Eubanks,Trombone,1955-10-25,NaN,True,1955-10-25,,65.0
+Mike Fahn,Trombone,1960,NaN,True,1960-01-01,,60.0
+Hugh Fraser,Trombone,1958,NaN,True,1958-01-01,,62.0
+John Fedchock,Trombone,1957,NaN,True,1957-01-01,,63.0
+Glenn Ferris,Trombone,1950-06-27,NaN,True,1950-06-27,,70.0
+Carl Fontana,Trombone,1928-07-18,2003-10-09,False,1928-07-18,2003-10-09,75.0
+Bruce Fowler,Trombone,1947-07-10,NaN,True,1947-07-10,,73.0
+Curtis Fowlkes,Trombone,1950-03-19,NaN,True,1950-03-19,,70.0
+Curtis Fuller,Trombone,1934-12-15,NaN,True,1934-12-15,,85.0
+Robert Gale,Trombone,NaN,NaN,NaN,,,NaN
+Vincent Gardner,Trombone,1972,NaN,True,1972-01-01,,48.0
+Clark Gayton,Trombone,1963,NaN,True,1963-01-01,,57.0
+Matthew Gee,Trombone,1929,1979,False,1929-01-01,1979-01-01,49.0
+Marshall Gilkes,Trombone,1978-09-30,NaN,True,1978-09-30,,42.0
+Tyree Glenn,Trombone,1912-11-23,1974-05-18,False,1912-11-23,1974-05-18,61.0
+Wycliffe Gordon,Trombone,1967-05-29,NaN,True,1967-05-29,,53.0
+Urbie Green,Trombone,1926-08-08,2018-12-31,False,1926-08-08,2018-12-31,92.0
+Al Grey,Trombone,1925-06-06,2000-03-24,False,1925-06-06,2000-03-24,74.0
+Craig Harris,Trombone,1953-09-10,NaN,True,1953-09-10,,67.0
+Jimmy Harrison,Trombone,1900,1931,False,1900-01-01,1931-01-01,30.0
+Bob Havens,Trombone,1930,NaN,True,1930-01-01,,90.0
+Thamon Hayes,Trombone,NaN,NaN,NaN,,,NaN
+Wayne Henderson,Trombone,1939-09-24,2014-04-05,False,1939-09-24,2014-04-05,74.0
+Conrad Herwig,Trombone,1959-11-01,NaN,True,1959-11-01,,61.0
+J. C. Higginbotham,Trombone,1906-05-11,1973-05-26,False,1906-05-11,1973-05-26,67.0
+Dave Horler,Trombone,1943,NaN,True,1943-01-01,,77.0
+Joseph Bowie,Trombone,1953-10-17,NaN,True,1953-10-17,,67.0
+Pee Wee Hunt,Trombone,1907-05-10,1979-06-22,False,1907-05-10,1979-06-22,72.0
+Quentin Jackson,Trombone,1909,1976,False,1909-01-01,1976-01-01,66.0
+Carol Jarvis,Trombone,1977-11-17,NaN,True,1977-11-17,,42.0
+J. J. Johnson,Trombone,1924-01-22,2001-02-04,False,1924-01-22,2001-02-04,77.0
+Ward Kimball,Trombone,1914,2002,False,1914-01-01,2002-01-01,88.0
+Craig Klein,Trombone,NaN,NaN,NaN,,,NaN
+Jimmy Knepper,Trombone,1927-11-22,2003-06-14,False,1927-11-22,2003-06-14,75.0
+René Laanen,Trombone,1952,NaN,True,1952-01-01,,68.0
+Frank Lacy,Trombone,1958-08-09,NaN,True,1958-08-09,,62.0
+Nils Landgren,Trombone,1956-02-15,NaN,True,1956-02-15,,64.0
+George Lewis,Composer,1952-07-14,NaN,True,1952-07-14,,68.0
+Melba Liston,Trombone,1926-01-13,1999-04-23,False,1926-01-13,1999-04-23,73.0
+Frederick Lonzo,Trombone,1950-08-26,NaN,True,1950-08-26,,70.0
+Lucien Barbarin,Trombone,1956-07-17,2020-01-30,False,1956-07-17,2020-01-30,63.0
+"Tom ""Bones"" Malone",Trombone,1947-06-16,NaN,True,1947-06-16,,73.0
+Albert Mangelsdorff,Trombone,1928-09-05,2005-07-25,False,1928-09-05,2005-07-25,76.0
+Delfeayo Marsalis,Trombone,1965-07-28,NaN,True,1965-07-28,,55.0
+Andy Martin,Trombone,NaN,NaN,NaN,,,NaN
+Elliot Mason,Trombone,NaN,NaN,NaN,,,NaN
+Rob McConnell,Trombone,1935-02-14,2010-05-01,False,1935-02-14,2010-05-01,75.0
+Glenn Miller,Trombone,1904,1944,False,1904-01-01,1944-01-01,40.0
+Grover Mitchell,Trombone,1930-03-17,2003-08-06,False,1930-03-17,2003-08-06,73.0
+Miff Mole,Trombone,1898-03-11,1961-04-29,False,1898-03-11,1961-04-29,63.0
+Grachan Moncur III,Trombone,1937-06-03,NaN,True,1937-06-03,,83.0
+James Morrison,Trumpet,1962-11-11,NaN,True,1962-11-11,,58.0
+Benny Morton,Trombone,NaN,NaN,NaN,,,NaN
+Christian Muthspiel,Trombone,NaN,NaN,NaN,,,NaN
+Tricky Sam Nanton,Trombone,1904-02-01,1946-07-20,False,1904-02-01,1946-07-20,42.0
+Dick Nash,Trombone,NaN,NaN,NaN,,,NaN
+Mark Nightingale,Trombone,1967-05-29,NaN,True,1967-05-29,,53.0
+Louis Nelson,Trombone,NaN,NaN,NaN,,,NaN
+Sammy Nestico,Trombone,1924-02-06,NaN,True,1924-02-06,,96.0
+Ed Neumeister,Trombone,NaN,NaN,NaN,,,NaN
+Paul Nowell,Trombone,NaN,NaN,NaN,,,NaN
+Kid Ory,Trombone,1886-12-25,1973-01-23,False,1886-12-25,1973-01-23,86.0
+Roy Palmer,Trombone,NaN,NaN,NaN,,,NaN
+James Pankow,Trombone,1967,NaN,True,1967-01-01,,53.0
+Frank Parr,Trombone,1928,2012,False,1928-01-01,2012-01-01,84.0
+Ake Persson,Trombone,1932,1975,False,1932-01-01,1975-01-01,43.0
+Jim Pugh,Trombone,1950-11-12,NaN,True,1950-11-12,,70.0
+Julian Priester,Trombone,1935-06-29,NaN,True,1935-06-29,,85.0
+Douglas Purviance,Trombone,NaN,NaN,NaN,,,NaN
+Frank Rehak,Trombone,1926,1987,False,1926-01-01,1987-01-01,61.0
+Bill Reichenbach,Trombone,1949-11-30,NaN,True,1949-11-30,,70.0
+Ilja Reijngoud,Trombone,NaN,NaN,NaN,,,NaN
+Nelson Riddle,Trombone,1921-06-01,1985-10-06,False,1921-06-01,1985-10-06,64.0
+George Roberts,Trombone,NaN,NaN,NaN,,,NaN
+Jim Robinson,Trombone,NaN,NaN,NaN,,,NaN
+Rico Rodriguez,Trombone,1934-10-17,2015-09-04,False,1934-10-17,2015-09-04,80.0
+Barry Rogers,Trombone,1935-05-22,1991-04-18,False,1935-05-22,1991-04-18,55.0
+Dennis Rollins,Trombone,NaN,NaN,NaN,,,NaN
+Gabriel Rosati,Trombone,NaN,NaN,NaN,,,NaN
+Frank Rosolino,Trombone,1926-08-20,1978-11-26,False,1926-08-20,1978-11-26,52.0
+Gregory Charles Royal,Trombone,1961,NaN,True,1961-01-01,,59.0
+Roswell Rudd,Trombone,1935-11-17,2017-12-21,False,1935-11-17,2017-12-21,82.0
+Sonny Russo,Trombone,1929,2013,False,1929-01-01,2013-01-01,84.0
+Slide Hampton,Trombone,1932-04-21,NaN,True,1932-04-21,,88.0
+Louis Satterfield,bass,1937-04-03,2004-09-27,False,1937-04-03,2004-09-27,67.0
+Even Kruse Skatrud,Trombone,1977-08-18,NaN,True,1977-08-18,,43.0
+Tom and Matt Smith,Trombone,NaN,NaN,NaN,,,NaN
+Steve Swell,Trombone,1954-12-06,NaN,True,1954-12-06,,65.0
+Jack Teagarden,Trombone,1905-08-20,1964-01-15,False,1905-08-20,1964-01-15,58.0
+Aage Teigen,Trombone,1944-07-17,2014-01-15,False,1944-07-17,2014-01-15,69.0
+Eje Thelin,Trombone,1938,1990,False,1938-01-01,1990-01-01,52.0
+Steve Turre,Trombone,1948-09-12,NaN,True,1948-09-12,,72.0
+Gary Valente,Trombone,NaN,NaN,NaN,,,NaN
+Jonathan Voltzok,Trombone,NaN,NaN,NaN,,,NaN
+Bill Watrous,Trombone,1939-06-08,2018-07-02,False,1939-06-08,2018-07-02,79.0
+Harry Watters,Trombone,NaN,NaN,NaN,,,NaN
+Dicky Wells,Trombone,1907-06-10,1985-11-12,False,1907-06-10,1985-11-12,78.0
+Fred Wesley,Trombone,1943-07-04,NaN,True,1943-07-04,,77.0
+Ron Westray,Trombone,1970-06-13,NaN,True,1970-06-13,,50.0
+Jiggs Whigham,Trombone,1943-08-20,NaN,True,1943-08-20,,77.0
+Annie Whitehead,Trombone,1955-07-16,NaN,True,1955-07-16,,65.0
+Spiegle Willcox,Trombone,1903,1999,False,1903-01-01,1999-01-01,96.0
+Phil Wilson,Trombone,1937-01-19,NaN,True,1937-01-19,,83.0
+Wolter Wierbos,Trombone,NaN,NaN,NaN,,,NaN
+Steve Wiest,Trombone,NaN,NaN,NaN,,,NaN
+Vaughn Wiester,Trombone,NaN,NaN,NaN,,,NaN
+Kai Winding,Trombone,1922-05-18,1983-05-06,False,1922-05-18,1983-05-06,60.0
+Nils Wogram,Trombone,1972-11-07,NaN,True,1972-11-07,,48.0
+Britt Woodman,Trombone,1920-06-04,2000-10-13,False,1920-06-04,2000-10-13,80.0
+Trummy Young,Trombone,1912-01-12,1984-09-10,False,1912-01-12,1984-09-10,72.0
+Jerry Zigmont,Trombone,1958-02-24,NaN,True,1958-02-24,,62.0

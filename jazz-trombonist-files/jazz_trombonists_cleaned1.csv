@@ -1,0 +1,151 @@
+﻿artist,instrument,birthdate,deathdate,alive,bday_dt,dday_dt,age_yrs,cause_of_death
+Ray Anderson,Trombone,1952-10-16,NaN,True,1952-10-16,,68.0,NaN
+Troy Andrews,Trombone,1986-01-02,NaN,True,1986-01-02,,34.0,NaN
+Bill Hughes,Trombone,1930-03-28,2018-01-14,False,1930-03-28,2018-01-14,87.0,NaN
+Bill Harris,Trombone,1916-10-28,1973-08-21,False,1916-10-28,1973-08-21,56.0,NaN
+David Baker,Trombone,1931-12-21,2016-03-26,False,1931-12-21,2016-03-26,84.0,Parkinson's
+Bennie Green,Trombone,1923-04-16,1977-03-23,False,1923-04-16,1977-03-23,53.0,NaN
+Charlie Green,Trombone,1893,1935-11-27,False,1893-01-01,1935-11-27,42.0,Hypothermia
+Dan Barrett,Cornet,1955-12-14,NaN,True,1955-12-14,,64.0,NaN
+Chris Barber,Trombone,1930-04-17,NaN,True,1930-04-17,,90.0,NaN
+Conny Bauer,Trombone,1943-07-04,NaN,True,1943-07-04,,77.0,NaN
+Johannes Bauer,Trombone,1954-07-22,2016-05-06,False,1954-07-22,2016-05-06,61.0,NaN
+Eddie Bert,Trombone,1922-05-16,2012-09-27,False,1922-05-16,2012-09-27,90.0,NaN
+Harold Betters,Trombone,1928-03-21,2020-10-11,False,1928-03-21,2020-10-11,92.0,NaN
+Jeb Bishop,Trombone,1962,NaN,True,1962-01-01,,58.0,NaN
+Big Bill Bissonnette,Trombone,1937,NaN,True,1937-01-01,,83.0,NaN
+Bert Boeren,Trombone,1962-03-11,NaN,True,1962-03-11,,58.0,NaN
+Luis Bonilla,Trombone,1965-10-12,NaN,True,1965-10-12,,55.0,NaN
+Richard B. Boone,Trombone,1930-02-24,1999-02-08,False,1930-02-24,1999-02-08,68.0,NaN
+Tom Brantley,Trombone,1970,NaN,True,1970-01-01,,50.0,NaN
+Bob Brookmeyer,Trombone,1929-12-19,2011-12-15,False,1929-12-19,2011-12-15,81.0,Heart Failure
+Garnett Brown,Trombone,1936-01-31,NaN,True,1936-01-31,,84.0,NaN
+Lawrence Brown,Trombone,1907-08-03,1988-09-05,False,1907-08-03,1988-09-05,81.0,NaN
+Tom Brown,Trombone,1888-06-03,1958-03-25,False,1888-06-03,1958-03-25,69.0,NaN
+George Brunies,Trombone,1902-02-06,1974-11-19,False,1902-02-06,1974-11-19,72.0,NaN
+Papa Bue,Trombone,1930-05-08,2011-11-02,False,1930-05-08,2011-11-02,81.0,NaN
+Don Sebesky,Trombone,1937-12-10,NaN,True,1937-12-10,,82.0,NaN
+Dick Shearer,Trombone,1940-09-21,1997-09-20,False,1940-09-21,1997-09-20,56.0,NaN
+Jimmy Cheatham,Trombone,1924-06-18,2007-07-12,False,1924-06-18,2007-07-12,83.0,Surgery Complications
+George Chisholm,Trombone,1915,1997,False,1915-01-01,1997-01-01,82.0,Alzheimer's
+Emile Christian,Trombone,1895-04-20,1973-12-03,False,1895-04-20,1973-12-03,78.0,NaN
+Jimmy Cleveland,Trombone,1926-05-03,2008-08-23,False,1926-05-03,2008-08-23,82.0,NaN
+Marty Cook,Trombone,1947,NaN,True,1947-01-01,,73.0,NaN
+Willie Cornish,Trombone,1875,1942,False,1875-01-01,1942-01-01,66.0,NaN
+Hal Crook,Trombone,1950-07-28,NaN,True,1950-07-28,,70.0,NaN
+Elmer Crumbley,Trombone,1908,1993,False,1908-01-01,1993-01-01,85.0,NaN
+Michael Davis,Trombone,1961-08-13,NaN,True,1961-08-13,,NaN,NaN
+Steve Davis,Trombone,1967-04-14,NaN,True,1967-04-14,,53.0,NaN
+Raul de Souza,Trombone,1934,NaN,True,1934-01-01,,86.0,NaN
+Michael Dease,Trombone,1982-08-25,NaN,True,1982-08-25,,38.0,NaN
+Willie Dennis,Trombone,1926-01-10,1965-07-08,False,1926-01-10,1965-07-08,39.0,Car Accident
+Vic Dickenson,Trombone,1906-08-06,1984-11-16,False,1906-08-06,1984-11-16,78.0,Cancer
+Tommy Dorsey,Trombone,1905-11-19,1956-11-26,False,1905-11-19,1956-11-26,51.0,Choking
+Don Drummond,Trombone,1932-03-12,1969,False,1932-03-12,1969-01-01,37.0,Heart Failure
+Billy Eckstine,Vocals,1914-07-08,1993-03-08,False,1914-07-08,1993-03-08,78.0,Heart Attack
+Eddie Edwards,Trombone,1891-05-22,1963-04-09,False,1891-05-22,1963-04-09,71.0,NaN
+Bob Enevoldsen,Tenor saxophone,1920,2005,False,1920-01-01,2005-01-01,85.0,NaN
+Robin Eubanks,Trombone,1955-10-25,NaN,True,1955-10-25,,65.0,NaN
+Mike Fahn,Trombone,1960,NaN,True,1960-01-01,,60.0,NaN
+Hugh Fraser,Trombone,1958,NaN,True,1958-01-01,,62.0,NaN
+John Fedchock,Trombone,1957,NaN,True,1957-01-01,,63.0,NaN
+Glenn Ferris,Trombone,1950-06-27,NaN,True,1950-06-27,,70.0,NaN
+Carl Fontana,Trombone,1928-07-18,2003-10-09,False,1928-07-18,2003-10-09,75.0,Alzheimer's
+Bruce Fowler,Trombone,1947-07-10,NaN,True,1947-07-10,,73.0,NaN
+Curtis Fowlkes,Trombone,1950-03-19,NaN,True,1950-03-19,,70.0,NaN
+Curtis Fuller,Trombone,1934-12-15,NaN,True,1934-12-15,,85.0,NaN
+Vincent Gardner,Trombone,1972,NaN,True,1972-01-01,,48.0,NaN
+Clark Gayton,Trombone,1963,NaN,True,1963-01-01,,57.0,NaN
+Matthew Gee,Trombone,1925-11-25,1979-07-18,False,1925-11-25,1979-07-18,53.0,NaN
+Marshall Gilkes,Trombone,1978-09-30,NaN,True,1978-09-30,,42.0,NaN
+Tyree Glenn,Trombone,1912-11-23,1974-05-18,False,1912-11-23,1974-05-18,61.0,Cancer
+Wycliffe Gordon,Trombone,1967-05-29,NaN,True,1967-05-29,,53.0,NaN
+Urbie Green,Trombone,1926-08-08,2018-12-31,False,1926-08-08,2018-12-31,92.0,NaN
+Al Grey,Trombone,1925-06-06,2000-03-24,False,1925-06-06,2000-03-24,74.0,Diabetes
+Craig Harris,Trombone,1953-09-10,NaN,True,1953-09-10,,67.0,NaN
+Jimmy Harrison,Trombone,1900,1931,False,1900-01-01,1931-01-01,30.0,Stomach Illness
+Bob Havens,Trombone,1930,NaN,True,1930-01-01,,90.0,NaN
+Thamon Hayes,Trombone,1899-10-11,1978-08-01,False,1899-10-11,1978-08-01,78.0,NaN
+Wayne Henderson,Trombone,1939-09-24,2014-04-05,False,1939-09-24,2014-04-05,74.0,Heart Failure
+Conrad Herwig,Trombone,1959-11-01,NaN,True,1959-11-01,,61.0,NaN
+J. C. Higginbotham,Trombone,1906-05-11,1973-05-26,False,1906-05-11,1973-05-26,67.0,NaN
+Dave Horler,Trombone,1943,NaN,True,1943-01-01,,77.0,NaN
+Joseph Bowie,Trombone,1953-10-17,NaN,True,1953-10-17,,67.0,NaN
+Pee Wee Hunt,Trombone,1907-05-10,1979-06-22,False,1907-05-10,1979-06-22,72.0,NaN
+Quentin Jackson,Trombone,1909-01-13,1976-10-02,False,1909-01-13,1976-10-02,66.0,NaN
+Carol Jarvis,Trombone,1977-11-17,NaN,True,1977-11-17,,42.0,NaN
+J. J. Johnson,Trombone,1924-01-22,2001-02-04,False,1924-01-22,2001-02-04,77.0,Suicide
+Ward Kimball,Trombone,1914,2002,False,1914-01-01,2002-01-01,88.0,Pnuemonia
+Jimmy Knepper,Trombone,1927-11-22,2003-06-14,False,1927-11-22,2003-06-14,75.0,Parkinson's
+René Laanen,Trombone,1952,NaN,True,1952-01-01,,68.0,NaN
+Frank Lacy,Trombone,1958-08-09,NaN,True,1958-08-09,,62.0,NaN
+Nils Landgren,Trombone,1956-02-15,NaN,True,1956-02-15,,64.0,NaN
+George Lewis,Trombone,1952-07-14,NaN,True,1952-07-14,,68.0,NaN
+Melba Liston,Trombone,1926-01-13,1999-04-23,False,1926-01-13,1999-04-23,73.0,Stroke
+Frederick Lonzo,Trombone,1950-08-26,NaN,True,1950-08-26,,70.0,NaN
+Lucien Barbarin,Trombone,1956-07-17,2020-01-30,False,1956-07-17,2020-01-30,63.0,Cancer (Prostate)
+"Tom ""Bones"" Malone",Trombone,1947-06-16,NaN,True,1947-06-16,,73.0,NaN
+Albert Mangelsdorff,Trombone,1928-09-05,2005-07-25,False,1928-09-05,2005-07-25,76.0,NaN
+Delfeayo Marsalis,Trombone,1965-07-28,NaN,True,1965-07-28,,55.0,NaN
+Elliot Mason,Trombone,1977-01-13,NaN,True,1977-01-13,,43.0,NaN
+Rob McConnell,Trombone,1935-02-14,2010-05-01,False,1935-02-14,2010-05-01,75.0,Cancer (Liver)
+Glenn Miller,Trombone,1904,1944,False,1904-01-01,1944-01-01,40.0,Hypothermia
+Grover Mitchell,Trombone,1930-03-17,2003-08-06,False,1930-03-17,2003-08-06,73.0,Cancer
+Miff Mole,Trombone,1898-03-11,1961-04-29,False,1898-03-11,1961-04-29,63.0,NaN
+Grachan Moncur III,Trombone,1937-06-03,NaN,True,1937-06-03,,83.0,NaN
+James Morrison,Trumpet,1962-11-11,NaN,True,1962-11-11,,58.0,NaN
+Benny Morton,Trombone,1907-01-31,1985-12-28,False,1907-01-31,1985-12-28,78.0,NaN
+Christian Muthspiel,Trombone,1962-01-01,NaN,True,1962-01-01,,58.0,NaN
+Tricky Sam Nanton,Trombone,1904-02-01,1946-07-20,False,1904-02-01,1946-07-20,42.0,Stroke
+Dick Nash,Trombone,1928-01-26,NaN,True,1928-01-26,,92.0,NaN
+Mark Nightingale,Trombone,1967-05-29,NaN,True,1967-05-29,,53.0,NaN
+Louis Nelson,Trombone,1902-09-17,1990-04-05,False,1902-09-17,1990-04-05,87.0,Car Accident
+Sammy Nestico,Trombone,1924-02-06,NaN,True,1924-02-06,,96.0,NaN
+Ed Neumeister,Trombone,1952-09-01,NaN,True,1952-09-01,,68.0,NaN
+Kid Ory,Trombone,1886-12-25,1973-01-23,False,1886-12-25,1973-01-23,86.0,Pneumonia
+Roy Palmer,Trombone,1892-04-02,1963-12-22,False,1892-04-02,1963-12-22,71.0,NaN
+James Pankow,Trombone,1947-08-20,NaN,True,1947-08-20,,73.0,NaN
+Frank Parr,Trombone,1928-06-01,2012-05-08,False,1928-06-01,2012-05-08,84.0,NaN
+Ake Persson,Trombone,1932-02-25,1975-02-05,False,1932-02-25,1975-02-05,43.0,NaN
+Jim Pugh,Trombone,1950-11-12,NaN,True,1950-11-12,,70.0,NaN
+Julian Priester,Trombone,1935-06-29,NaN,True,1935-06-29,,85.0,NaN
+Douglas Purviance,Trombone,1952-07-18,NaN,True,1952-07-18,,68.0,NaN
+Frank Rehak,Trombone,1926-07-06,1987-06-22,False,1926-07-06,1987-06-22,60.0,Cancer (Throat)
+Bill Reichenbach,Trombone,1949-11-30,NaN,True,1949-11-30,,70.0,NaN
+Ilja Reijngoud,Trombone,1972-07-05,NaN,True,1972-07-05,,48.0,NaN
+Nelson Riddle,Trombone,1921-06-01,1985-10-06,False,1921-06-01,1985-10-06,64.0,Heart Failure
+George Roberts,Trombone,1928-03-22,2014-09-28,False,1928-03-22,2014-09-28,86.0,Pneumonia
+Jim Robinson,Trombone,1892-12-25,1976-05-04,False,1892-12-25,1976-05-04,83.0,Cancer
+Rico Rodriguez,Trombone,1934-10-17,2015-09-04,False,1934-10-17,2015-09-04,80.0,NaN
+Barry Rogers,Trombone,1935-05-22,1991-04-18,False,1935-05-22,1991-04-18,55.0,NaN
+Dennis Rollins,Trombone,1964-01-01,NaN,True,1964-01-01,,56.0,NaN
+Gabriel Rosati,Trombone,1966-08-04,NaN,True,1966-08-04,,54.0,NaN
+Frank Rosolino,Trombone,1926-08-20,1978-11-26,False,1926-08-20,1978-11-26,52.0,Suicide
+Gregory Charles Royal,Trombone,1961,NaN,True,1961-01-01,,59.0,NaN
+Roswell Rudd,Trombone,1935-11-17,2017-12-21,False,1935-11-17,2017-12-21,82.0,Cancer (Prostate)
+Sonny Russo,Trombone,1929-03-20,2013-02-23,False,1929-03-20,2013-02-23,83.0,NaN
+Slide Hampton,Trombone,1932-04-21,NaN,True,1932-04-21,,88.0,NaN
+Louis Satterfield,Trombone,1937-04-03,2004-09-27,False,1937-04-03,2004-09-27,67.0,NaN
+Even Kruse Skatrud,Trombone,1977-08-18,NaN,True,1977-08-18,,43.0,NaN
+Steve Swell,Trombone,1954-12-06,NaN,True,1954-12-06,,65.0,NaN
+Jack Teagarden,Trombone,1905-08-20,1964-01-15,False,1905-08-20,1964-01-15,58.0,Pneumonia
+Aage Teigen,Trombone,1944-07-17,2014-01-15,False,1944-07-17,2014-01-15,69.0,NaN
+Eje Thelin,Trombone,1938,1990,False,1938-01-01,1990-01-01,52.0,NaN
+Steve Turre,Trombone,1948-09-12,NaN,True,1948-09-12,,72.0,NaN
+Gary Valente,Trombone,1953-06-26,NaN,True,1953-06-26,,67.0,NaN
+Bill Watrous,Trombone,1939-06-08,2018-07-02,False,1939-06-08,2018-07-02,79.0,NaN
+Dicky Wells,Trombone,1907-06-10,1985-11-12,False,1907-06-10,1985-11-12,78.0,Cancer
+Fred Wesley,Trombone,1943-07-04,NaN,True,1943-07-04,,77.0,NaN
+Ron Westray,Trombone,1970-06-13,NaN,True,1970-06-13,,50.0,NaN
+Jiggs Whigham,Trombone,1943-08-20,NaN,True,1943-08-20,,77.0,NaN
+Annie Whitehead,Trombone,1955-07-16,NaN,True,1955-07-16,,65.0,NaN
+Spiegle Willcox,Trombone,1903-05-02,1999-08-25,False,1903-05-02,1999-08-25,96.0,NaN
+Phil Wilson,Trombone,1937-01-19,NaN,True,1937-01-19,,83.0,NaN
+Wolter Wierbos,Trombone,1957-09-01,NaN,True,1957-09-01,,63.0,NaN
+Steve Wiest,Trombone,1957-01-01,NaN,True,1957-01-01,,63.0,NaN
+Vaughn Wiester,Trombone,1945-07-11,NaN,True,1945-07-11,,75.0,NaN
+Kai Winding,Trombone,1922-05-18,1983-05-06,False,1922-05-18,1983-05-06,60.0,Cancer (Brain)
+Nils Wogram,Trombone,1972-11-07,NaN,True,1972-11-07,,48.0,NaN
+Britt Woodman,Trombone,1920-06-04,2000-10-13,False,1920-06-04,2000-10-13,80.0,Respiratory Failure
+Trummy Young,Trombone,1912-01-12,1984-09-10,False,1912-01-12,1984-09-10,72.0,Brain Hemorrhage
+Jerry Zigmont,Trombone,1958-02-24,NaN,True,1958-02-24,,62.0,NaN
